@@ -1,0 +1,652 @@
+[
+  {
+    "id": 111,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which of the following accurately represent the roles of the distinct communities of interest in InfoSec as outlined in the slides? (Select all that apply)",
+    "options": {
+      "a": "The IT community focuses on implementing policy and securing resources.",
+      "b": "The Business community is primarily responsible for protecting information assets from technical threats.",
+      "c": "The InfoSec community aims to protect information assets from various threats.",
+      "d": "The IT community's main role is supporting business objectives via appropriate technology.",
+      "e": "The Business community defines policies and allocates necessary resources."
+    },
+    "correct_answers": ["c", "d", "e"]
+  },
+  {
+    "id": 112,
+    "chapter_source": "Chapter 1",
+    "question_text": "Identify the statements that correctly describe the core principles of the C.I.A. Triangle.",
+    "options": {
+      "a": "Confidentiality means data is accurate and unmodified.",
+      "b": "Integrity ensures only authorized users can access data.",
+      "c": "Availability ensures authorized users can access information without undue obstruction.",
+      "d": "Confidentiality prevents unauthorized disclosure.",
+      "e": "Integrity means the data is whole, complete, and uncorrupted."
+    },
+    "correct_answers": ["c", "d", "e"]
+  },
+  {
+    "id": 113,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which activities directly contribute to upholding the 'Integrity' of information? (Select all that apply)",
+    "options": {
+      "a": "Encrypting data during transmission to prevent eavesdropping.",
+      "b": "Using checksums or hashing to detect modifications.",
+      "c": "Implementing access controls to prevent unauthorized changes.",
+      "d": "Ensuring systems are patched against vulnerabilities that allow modification.",
+      "e": "Storing data in multiple geographic locations for redundancy."
+    },
+    "correct_answers": ["b", "c", "d"]
+  },
+  {
+    "id": 114,
+    "chapter_source": "Chapter 1",
+    "question_text": "Select the statements that are TRUE regarding 'Availability' based on the presentation.",
+    "options": {
+      "a": "Availability primarily concerns preventing unauthorized access.",
+      "b": "It ensures timely access to information for authorized users.",
+      "c": "Redundant systems (like backups) are a common measure to ensure availability.",
+      "d": "The required format of the information is a key aspect of availability.",
+      "e": "It's only relevant during business hours."
+    },
+    "correct_answers": ["b", "c", "d"]
+  },
+  {
+    "id": 115,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which security concepts are prerequisites for establishing 'Authorization'? (Select all that apply)",
+    "options": {
+      "a": "Identification (knowing who the user claims to be)",
+      "b": "Confidentiality (keeping the authorization rules secret)",
+      "c": "Authentication (verifying the user's claimed identity)",
+      "d": "Accountability (logging the authorization grant)",
+      "e": "Integrity (ensuring authorization rules aren't corrupted)"
+    },
+    "correct_answers": ["a", "c"]
+  },
+  {
+    "id": 116,
+    "chapter_source": "Chapter 1",
+    "question_text": "The concept of 'Accountability' ensures which outcomes in an information system? (Select all that apply)",
+    "options": {
+      "a": "Users cannot deny performing actions that are logged under their identity.",
+      "b": "All activities can be traced back to a specific entity (user or process).",
+      "c": "Users are automatically granted the correct permissions.",
+      "d": "The system performs faster due to logging.",
+      "e": "Audit trails can be established to review actions."
+    },
+    "correct_answers": ["a", "b", "e"]
+  },
+  {
+    "id": 117,
+    "chapter_source": "Chapter 1",
+    "question_text": "Comparing the POLC and POSDC management models, identify the functions present in BOTH models.",
+    "options": {
+      "a": "Planning",
+      "b": "Organizing",
+      "c": "Leading",
+      "d": "Staffing",
+      "e": "Controlling"
+    },
+    "correct_answers": ["a", "b", "e"]
+  },
+  {
+    "id": 118,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which of the 'Six P's' directly involve creating specific, managed entities or initiatives within the InfoSec domain, such as SETA?",
+    "options": {
+      "a": "Planning & Policy",
+      "b": "Programs & Protection",
+      "c": "Programs",
+      "d": "People & Project Management",
+      "e": "Policy & Protection"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 119,
+    "chapter_source": "Chapter 1",
+    "question_text": "Select the actions characteristic of a 'Manager' administering resources, as contrasted with leadership functions.",
+    "options": {
+      "a": "Inspiring a shared vision for the team.",
+      "b": "Creating and managing budgets.",
+      "c": "Authorizing expenditures.",
+      "d": "Providing purpose and direction through personal example.",
+      "e": "Handling the hiring process for employees."
+    },
+    "correct_answers": ["b", "c", "e"]
+  },
+  {
+    "id": 120,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which leadership characteristics from the provided list relate directly to honesty and ethical conduct? (Select all that apply)",
+    "options": {
+      "a": "Bearing",
+      "b": "Integrity",
+      "c": "Knowledge",
+      "d": "Justice",
+      "e": "Unselfishness"
+    },
+    "correct_answers": ["b", "d", "e"]
+  },
+  {
+    "id": 121,
+    "chapter_source": "Chapter 1",
+    "question_text": "The 'Organizing' function of management, according to the slides, involves determining: (Select all that apply)",
+    "options": {
+      "a": "The overall strategic goals.",
+      "b": "What tasks need to be done.",
+      "c": "Who will perform the tasks.",
+      "d": "The methods to be used for tasks.",
+      "e": "How progress will be monitored."
+    },
+    "correct_answers": ["b", "c", "d"]
+  },
+  {
+    "id": 122,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which steps are part of the manager's problem-solving process AFTER possible solutions have been developed? (Select all that apply)",
+    "options": {
+      "a": "Recognize and Define the Problem",
+      "b": "Gather Facts and Make Assumptions",
+      "c": "Analyze and Compare the Possible Solutions",
+      "d": "Develop Possible Solutions",
+      "e": "Select, Implement, and Evaluate a Solution"
+    },
+    "correct_answers": ["c", "e"]
+  },
+  {
+    "id": 123,
+    "chapter_source": "Chapter 1",
+    "question_text": "Identify the examples that fall under the 'Protection' element ('P') of InfoSec Management.",
+    "options": {
+      "a": "Developing an Incident Response Plan.",
+      "b": "Implementing firewalls and intrusion detection systems.",
+      "c": "Conducting risk assessments.",
+      "d": "Deploying encryption technologies.",
+      "e": "Establishing a security policy for remote access."
+    },
+    "correct_answers": ["b", "c", "d"]
+  },
+  {
+    "id": 124,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which types of policies are categorized under the 'Policy' P in InfoSec Management? (Select all that apply)",
+    "options": {
+      "a": "Enterprise Security Policy (ESP)",
+      "b": "Incident Response Plan (IRP)",
+      "c": "Issue-Specific Security Policy (ISSP)",
+      "d": "System-Specific Security Policy (SSSP)",
+      "e": "Security Education Training Awareness (SETA) Program outline"
+    },
+    "correct_answers": ["a", "c", "d"]
+  },
+  {
+    "id": 125,
+    "chapter_source": "Chapter 1",
+    "question_text": "The 'People' aspect of InfoSec management encompasses which areas? (Select all that apply)",
+    "options": {
+      "a": "The security of personnel (background checks, etc.).",
+      "b": "Managing information security personnel.",
+      "c": "Implementing technical access controls.",
+      "d": "Aspects of the Security Education, Training, and Awareness (SETA) program.",
+      "e": "Defining system-specific policies."
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 126,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which statements correctly describe 'Project Management' within the InfoSec context based on the slides?",
+    "options": {
+      "a": "It focuses only on the initial planning phase.",
+      "b": "It involves controlling the resources applied to a security initiative.",
+      "c": "It is separate from the other 'Ps' and managed independently.",
+      "d": "It includes measuring progress towards the project's goal.",
+      "e": "It requires adjusting the process based on measured progress."
+    },
+    "correct_answers": ["b", "d", "e"]
+  },
+  {
+    "id": 127,
+    "chapter_source": "Intro ID",
+    "question_text": "Based on Indonesian slide 16, which concepts directly relate to controlling WHO can access information and WHAT they can do?",
+    "options": {
+      "a": "Confidentiality (controlling who sees)",
+      "b": "Integrity (controlling modification)",
+      "c": "Availability (controlling access timing/format)",
+      "d": "Identification & Authentication (verifying who)",
+      "e": "Authorization (defining what authenticated users can do)"
+    },
+    "correct_answers": ["a", "d", "e"]
+  },
+  {
+    "id": 128,
+    "chapter_source": "Intro ID",
+    "question_text": "The components depicted in the Indonesian 'Security' diagram (Slide 13) suggest a layered or specialized approach. Which combinations are shown?",
+    "options": {
+      "a": "Physical security and Operations security are distinct.",
+      "b": "Network security encompasses Communications security.",
+      "c": "Information Security (InfoSec) is shown encompassing Computer Security.",
+      "d": "Personal security and Physical security are identical.",
+      "e": "Operations security deals only with network devices."
+    },
+    "correct_answers": ["a", "c"]
+  },
+    {
+    "id": 129,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which of the following scenarios represent threats to 'Availability'? (Select all that apply)",
+    "options": {
+      "a": "A Denial-of-Service (DoS) attack makes a website inaccessible.",
+      "b": "Ransomware encrypts critical files, making them unusable without a key.",
+      "c": "A user accidentally deletes an important shared file.",
+      "d": "A database administrator steals customer credit card numbers.",
+      "e": "A hardware failure prevents users from logging into a necessary application."
+    },
+    "correct_answers": ["a", "b", "c", "e"]
+  },
+  {
+    "id": 130,
+    "chapter_source": "Chapter 1",
+    "question_text": "Identify the actions that align with the 'Action plan for improvement of leadership abilities' mentioned in Chapter 1.",
+    "options": {
+      "a": "Knows and seeks self-improvement.",
+      "b": "Delegates all responsibilities.",
+      "c": "Seeks responsibility and takes responsibility for actions.",
+      "d": "Makes sound and timely decisions.",
+      "e": "Avoids interaction with subordinates."
+    },
+    "correct_answers": ["a", "c", "d"]
+  },
+  {
+    "id": 131,
+    "chapter_source": "Chapter 1",
+    "question_text": "The 'Tactical' level of planning typically focuses on which aspects? (Select all that apply)",
+    "options": {
+      "a": "Setting the overall vision for the organization.",
+      "b": "Day-to-day operational tasks.",
+      "c": "Integrating organizational resources.",
+      "d": "Production planning (linking strategy to operations).",
+      "e": "Defining core organizational values."
+    },
+    "correct_answers": ["c", "d"]
+  },
+  {
+    "id": 132,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which statements are FALSE regarding the nature of management according to Chapter 1?",
+    "options": {
+      "a": "Management is a process of achieving objectives.",
+      "b": "Managers work with and through other people.",
+      "c": "Management solely involves individual task completion.",
+      "d": "Coordinating work activities is a key part of management.",
+      "e": "Management only uses financial resources."
+    },
+    "correct_answers": ["c", "e"]
+  },
+  {
+    "id": 133,
+    "chapter_source": "Chapter 1",
+    "question_text": "Select the goals achieved through effective 'Project Management' in InfoSec.",
+    "options": {
+      "a": "Defining the organization's mission statement.",
+      "b": "Controlling resources applied to a specific security initiative.",
+      "c": "Measuring progress toward the initiative's completion.",
+      "d": "Setting the overall security budget for the entire organization.",
+      "e": "Adjusting the initiative's process based on progress."
+    },
+    "correct_answers": ["b", "c", "e"]
+  },
+  {
+    "id": 134,
+    "chapter_source": "Intro ID",
+    "question_text": "The Indonesian presentation (Slide 16) defines 'Integrity' as 'Utuh dan bebas dari kerusakan'. Which English concepts does this encompass? (Select all that apply)",
+    "options": {
+      "a": "Wholeness",
+      "b": "Confidentiality",
+      "c": "Completeness",
+      "d": "Uncorrupted state",
+      "e": "Accessibility"
+    },
+    "correct_answers": ["a", "c", "d"]
+  },
+  {
+    "id": 135,
+    "chapter_source": "Intro ID",
+    "question_text": "According to Indonesian slide 15, which community has the primary responsibility to 'protect information assets from threats'?",
+    "options": {
+      "a": "IT community",
+      "b": "Business community",
+      "c": "InfoSec community",
+      "d": "End-user community",
+      "e": "Management community (general)"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 136,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which specialized security area deals with protecting individuals within the organization (e.g., background checks, access privileges based on role)?",
+    "options": {
+      "a": "Physical security",
+      "b": "Personal security",
+      "c": "Operations security",
+      "d": "Communications security",
+      "e": "Network security"
+    },
+    "correct_answers": ["b"]
+  },
+    {
+    "id": 137,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which actions fall under the 'Controlling' function of management? (Select all that apply)",
+    "options": {
+      "a": "Defining the tasks to be done.",
+      "b": "Monitoring progress towards objectives.",
+      "c": "Allocating resources initially.",
+      "d": "Making adjustments based on performance feedback.",
+      "e": "Setting the strategic vision."
+    },
+    "correct_answers": ["b", "d"]
+  },
+  {
+    "id": 138,
+    "chapter_source": "Chapter 1",
+    "question_text": "Identify the elements that are components of 'InfoSec' but NOT necessarily part of basic 'Computer Security'.",
+    "options": {
+      "a": "Protecting the physical computer hardware.",
+      "b": "Information security management practices.",
+      "c": "Establishing security policies.",
+      "d": "Data security (protecting data itself, regardless of the computer).",
+      "e": "Network security aspects."
+    },
+    "correct_answers": ["b", "c", "d", "e"]
+  },
+  {
+    "id": 139,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which steps in the problem-solving process involve generating and evaluating options? (Select all that apply)",
+    "options": {
+      "a": "Recognize and Define the Problem",
+      "b": "Gather Facts and Make Assumptions",
+      "c": "Develop Possible Solutions",
+      "d": "Analyze and Compare the Possible Solutions",
+      "e": "Select, Implement, and Evaluate a Solution"
+    },
+    "correct_answers": ["c", "d"]
+  },
+  {
+    "id": 140,
+    "chapter_source": "Chapter 1",
+    "question_text": "Select the statement(s) that correctly reflect the role of 'Policy' in information security.",
+    "options": {
+      "a": "Policy is primarily technical documentation for IT staff.",
+      "b": "Policy provides high-level guidelines for organizational behavior regarding security.",
+      "c": "Policy is central to coordinating security efforts across different domains.",
+      "d": "System-Specific Policies (SSSPs) define rules for individual systems.",
+      "e": "Policies are static and rarely need updating."
+    },
+    "correct_answers": ["b", "c", "d"]
+  },
+  {
+    "id": 141,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which leadership characteristics relate to mental attributes like reasoning and understanding? (Select all that apply)",
+    "options": {
+      "a": "Endurance",
+      "b": "Judgment",
+      "c": "Knowledge",
+      "d": "Tact",
+      "e": "Decisiveness"
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 142,
+    "chapter_source": "Intro ID",
+    "question_text": "The definition 'Keadaan merasa secure' (A state of feeling secure) provided in the Indonesian presentation (Slide 13) relates to the general concept of:",
+    "options": {
+      "a": "Integrity",
+      "b": "Availability",
+      "c": "Security",
+      "d": "Policy",
+      "e": "Management"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 143,
+    "chapter_source": "Intro ID",
+    "question_text": "Identify the TRUE statements about the components of InfoSec shown in the diagram on Indonesian Slide 14.",
+    "options": {
+      "a": "InfoSec Management is separate from NetSec and Com & DataSec.",
+      "b": "Policy links together the different components.",
+      "c": "NetSec deals with network aspects.",
+      "d": "Com & DataSec deals with communication and data security aspects.",
+      "e": "InfoSec Mgt. coordinates the security efforts."
+    },
+    "correct_answers": ["b", "c", "d", "e"]
+  },
+  {
+    "id": 144,
+    "chapter_source": "Intro ID",
+    "question_text": "What does 'Pemberian otoritas pengguna terhadap informasi' (Granting user authority over information) refer to, according to Indonesian Slide 16?",
+    "options": {
+      "a": "Identification",
+      "b": "Authentication",
+      "c": "Authorization",
+      "d": "Accountability",
+      "e": "Confidentiality"
+    },
+    "correct_answers": ["c"]
+  },
+    {
+    "id": 145,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which aspects are covered by the 'Interpersonal role' of a manager? (Select all that apply)",
+    "options": {
+      "a": "Interaction with superiors.",
+      "b": "Processing data reports.",
+      "c": "Interaction with subordinates.",
+      "d": "Making final decisions on resource allocation.",
+      "e": "Interaction with outside stakeholders."
+    },
+    "correct_answers": ["a", "c", "e"]
+  },
+  {
+    "id": 146,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which statements accurately reflect the relationship between leadership and management as described?",
+    "options": {
+      "a": "A manager cannot be a leader.",
+      "b": "Leadership focuses on influence and motivation; management focuses on administration.",
+      "c": "A manager can also be a leader.",
+      "d": "Leadership involves setting purpose and direction.",
+      "e": "Management involves creating budgets and hiring."
+    },
+    "correct_answers": ["b", "c", "d", "e"]
+  },
+  {
+    "id": 147,
+    "chapter_source": "Chapter 1",
+    "question_text": "The 'Planning' function is essential for: (Select all that apply)",
+    "options": {
+      "a": "Reacting to immediate crises only.",
+      "b": "Developing strategies to achieve objectives.",
+      "c": "Creating strategies to achieve objectives.",
+      "d": "Implementing strategies to achieve objectives.",
+      "e": "Monitoring day-to-day employee tasks."
+    },
+    "correct_answers": ["b", "c", "d"]
+  },
+  {
+    "id": 148,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which of the 'Six P's' represents the mechanisms, technologies, and tools used for risk management and defense?",
+    "options": {
+      "a": "Planning",
+      "b": "Policy",
+      "c": "Programs",
+      "d": "Protection",
+      "e": "Project Management"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 149,
+    "chapter_source": "Chapter 1",
+    "question_text": "Identify the INCORRECT statements regarding information security concepts.",
+    "options": {
+      "a": "Confidentiality ensures data is accurate and complete.",
+      "b": "Integrity ensures data is accessible when needed.",
+      "c": "Availability ensures only authorized users access data.",
+      "d": "Authentication verifies a user's claimed identity.",
+      "e": "Accountability allows actions to be traced to an entity."
+    },
+    "correct_answers": ["a", "b", "c"]
+  },
+  {
+    "id": 150,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which of the following fall under the scope of 'Information Security' but might not be considered under a narrow definition of 'Computer Security'? (Select all that apply)",
+    "options": {
+      "a": "Security policies and procedures.",
+      "b": "Protecting printed documents (physical security aspect related to info).",
+      "c": "User security awareness training.",
+      "d": "Managing network firewalls.",
+      "e": "Protecting against malware on a PC."
+    },
+    "correct_answers": ["a", "b", "c"]
+  },
+    {
+    "id": 151,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which aspects define the 'Informational role' of management? (Select all that apply)",
+    "options": {
+      "a": "Collecting data.",
+      "b": "Interacting with subordinates.",
+      "c": "Processing collected data into usable information.",
+      "d": "Using information to meet objectives.",
+      "e": "Resolving conflicts between team members."
+    },
+    "correct_answers": ["a", "c", "d"]
+  },
+  {
+    "id": 152,
+    "chapter_source": "Chapter 1",
+    "question_text": "Select the leadership characteristics from the list provided that emphasize fairness and ethical treatment.",
+    "options": {
+      "a": "Integrity",
+      "b": "Judgment",
+      "c": "Justice",
+      "d": "Loyalty",
+      "e": "Unselfishness"
+    },
+    "correct_answers": ["a", "c", "e"]
+  },
+  {
+    "id": 153,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which management model explicitly includes 'Staffing' as a core function?",
+    "options": {
+      "a": "POLC (Popular)",
+      "b": "POSDC (Traditional)",
+      "c": "CIA Triad",
+      "d": "Six Ps",
+      "e": "NSTISSC Model"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 154,
+    "chapter_source": "Chapter 1",
+    "question_text": "Identify the FALSE statements regarding the 'Six Ps' of Information Security Management.",
+    "options": {
+      "a": "'Policy' refers to specific security tools and technologies.",
+      "b": "'Programs' are specific managed entities like SETA.",
+      "c": "'Protection' involves risk management activities.",
+      "d": "'People' are considered the least critical link.",
+      "e": "'Project Management' is only needed for large-scale implementations."
+    },
+    "correct_answers": ["a", "d", "e"]
+  },
+  {
+    "id": 155,
+    "chapter_source": "Intro ID",
+    "question_text": "Which elements are shown as inputs or influencing factors in the 'InfoSec Management' diagram on Indonesian Slide 17?",
+    "options": {
+      "a": "Planning",
+      "b": "Policy",
+      "c": "People",
+      "d": "Competitors",
+      "e": "Projects Mgt."
+    },
+    "correct_answers": ["a", "b", "c", "e"]
+  },
+  {
+    "id": 156,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which level of planning translates high-level strategic goals into more specific, shorter-term objectives, often focusing on resource integration?",
+    "options": {
+      "a": "Strategic",
+      "b": "Operational",
+      "c": "Contingency",
+      "d": "Tactical",
+      "e": "Project"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 157,
+    "chapter_source": "Chapter 1",
+    "question_text": "Select the activities that are part of the 'Select, Implement, and Evaluate a Solution' step in problem-solving.",
+    "options": {
+      "a": "Choosing the best option from the analyzed solutions.",
+      "b": "Gathering initial facts about the problem.",
+      "c": "Putting the chosen solution into action.",
+      "d": "Assessing how well the implemented solution worked.",
+      "e": "Developing the list of possible solutions."
+    },
+    "correct_answers": ["a", "c", "d"]
+  },
+  {
+    "id": 158,
+    "chapter_source": "Chapter 1",
+    "question_text": "Which specialized security areas are primarily concerned with protecting data while it is being moved between systems?",
+    "options": {
+      "a": "Physical security",
+      "b": "Operations security",
+      "c": "Communications security",
+      "d": "Network security",
+      "e": "Computer Security"
+    },
+    "correct_answers": ["c", "d"]
+  },
+  {
+    "id": 159,
+    "chapter_source": "Chapter 1 / Intro ID",
+    "question_text": "Which statements accurately differentiate key InfoSec concepts based on the Indonesian presentation (Slide 16)?",
+    "options": {
+      "a": "'Identification' is proving identity; 'Authentication' is recognizing the user.",
+      "b": "'Authorization' is granting rights; 'Accountability' is tracing actions.",
+      "c": "'Integrity' means data is secret; 'Confidentiality' means data is whole.",
+      "d": "'Privacy' means data usage is known by owner; 'Availability' means data can be accessed.",
+      "e": "'Authentication' involves logs; 'Accountability' involves passwords."
+    },
+    "correct_answers": ["b", "d"]
+  },
+  {
+    "id": 160,
+    "chapter_source": "Chapter 1",
+    "question_text": "Identify the core outputs or results expected from the 'Planning' function in management.",
+    "options": {
+      "a": "Completed tasks.",
+      "b": "Developed strategies.",
+      "c": "Implemented strategies.",
+      "d": "Motivated employees.",
+      "e": "Performance reports."
+    },
+    "correct_answers": ["b", "c"]
+  }
+]

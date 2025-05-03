@@ -26,22 +26,31 @@
 
   <div class="container">
     <h1>Latihan Ujian Interaktif</h1>
-    <div id="score-info"></div>
-    <div id="question-nav"></div>
-    <div id="question-box">
-      <div id="question-number"></div>
-      <div id="question-text"></div>
-      <form id="options-form"></form>
-      <div class="button-row">
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px;">
-          <button id="prev-btn" class="btn-prev">⏮️ Sebelumnya</button>
-          <button id="next-btn" class="btn-next">Selanjutnya ⏭️</button>
-          <button id="reset-btn" class="btn-reset">🔄 Reset</button>
-          <button id="check-btn" class="btn-check">✔️ Periksa Jawaban</button>
+    <!-- Upload Section -->
+    <div id="upload-section">
+      <p>Upload file soal ujian (format JSON):</p>
+      <input type="file" id="file-input" accept="application/json">
+      <div id="upload-error" style="color:red;"></div>
+    </div>
+    <!-- Quiz Section (hidden at first) -->
+    <div id="quiz-section" style="display:none;">
+      <div id="score-info"></div>
+      <div id="question-nav"></div>
+      <div id="question-box">
+        <div id="question-number"></div>
+        <div id="question-text"></div>
+        <form id="options-form"></form>
+        <div class="button-row">
+          <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px;">
+            <button id="prev-btn" class="btn-prev">⏮️ Sebelumnya</button>
+            <button id="next-btn" class="btn-next">Selanjutnya ⏭️</button>
+            <button id="reset-btn" class="btn-reset">🔄 Reset</button>
+            <button id="check-btn" class="btn-check">✔️ Periksa Jawaban</button>
+          </div>
         </div>
+        <div id="feedback"></div>
+        <div id="point-info"></div>
       </div>
-      <div id="feedback"></div>
-      <div id="point-info"></div>
     </div>
   </div>
   <script src="js/app.js"></script>

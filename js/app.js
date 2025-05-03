@@ -1,22 +1,46 @@
 // Latihan Ujian Interaktif - app.js (indikator warna jawaban benar/salah setelah periksa)
 
+
 let questions = [];
 let currentIndex = 0;
 let userAnswers = [];
 let userScores = [];
 
-fetch('exam.json')
-  .then(response => response.json())
-  .then(data => {
-    questions = data;
-    userAnswers = Array(questions.length).fill(null);
-    userScores = Array(questions.length).fill(0);
-    renderQuestion();
-    renderNav();
-    updateScoreInfo();
-  });
+// --- Upload logic ---
+const uploadSection = document.getElementById('upload-section');
+const quizSection = document.getElementById('quiz-section');
+const fileInput = document.getElementById('file-input');
+const uploadError = document.getElementById('upload-error');
+
+fileInput.addEventListener('change', function (e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = function (evt) {
+    try {
+      const data = JSON.parse(evt.target.result);
+      if (!Array.isArray(data) || !data[0] || !data[0].question_text) {
+        uploadError.textContent = 'Format file tidak valid!';
+        return;
+      }
+      questions = data;
+      userAnswers = Array(questions.length).fill(null);
+      userScores = Array(questions.length).fill(0);
+      currentIndex = 0;
+      uploadSection.style.display = 'none';
+      quizSection.style.display = '';
+      renderQuestion();
+      renderNav();
+      updateScoreInfo();
+    } catch (err) {
+      uploadError.textContent = 'Gagal membaca file: ' + err.message;
+    }
+  };
+  reader.readAsText(file);
+});
 
 function renderQuestion(showAnswer = false) {
+  if (!questions.length) return;
   const q = questions[currentIndex];
   document.getElementById('question-number').textContent = `Soal ${currentIndex + 1} dari ${questions.length}`;
   document.getElementById('question-text').textContent = q.question_text;
@@ -30,7 +54,7 @@ function renderQuestion(showAnswer = false) {
     label.style.borderRadius = '5px';
     label.style.marginBottom = '4px';
     label.style.transition = 'background 0.2s';
-    label.innerHTML = `<input type=\"checkbox\" name=\"option\" value=\"${key}\" ${checked}> (${key.toUpperCase()}) ${opt}`;
+    label.innerHTML = `<input type="checkbox" name="option" value="${key}" ${checked}> (${key.toUpperCase()}) ${opt}`;
     if (showAnswer) {
       if (q.correct_answers.includes(key)) {
         label.style.background = '#d4edda'; // hijau muda untuk jawaban benar
@@ -61,6 +85,7 @@ function renderQuestion(showAnswer = false) {
 function renderNav() {
   const nav = document.getElementById('question-nav');
   nav.innerHTML = '';
+  if (!questions.length) return;
   for (let i = 0; i < questions.length; i++) {
     const btn = document.createElement('button');
     btn.textContent = i + 1;
@@ -76,62 +101,70 @@ function renderNav() {
 }
 
 function updateScoreInfo() {
+  if (!questions.length) return;
   const total = userScores.reduce((a, b) => a + b, 0);
   const maxTotal = questions.reduce((sum, q) => sum + (q.correct_answers ? q.correct_answers.length : 0), 0);
   document.getElementById('score-info').textContent = `Total Poin: ${total} / ${maxTotal}`;
 }
 
-document.getElementById('prev-btn').onclick = (e) => {
-  e.preventDefault();
-  if (currentIndex > 0) {
-    currentIndex--;
+
+// Tombol quiz (hanya aktif setelah upload)
+function setQuizButtonHandlers() {
+  document.getElementById('prev-btn').onclick = (e) => {
+    e.preventDefault();
+    if (currentIndex > 0) {
+      currentIndex--;
+      renderQuestion();
+      renderNav();
+      updateScoreInfo();
+    }
+  };
+
+  document.getElementById('next-btn').onclick = (e) => {
+    e.preventDefault();
+    if (currentIndex < questions.length - 1) {
+      currentIndex++;
+      renderQuestion();
+      renderNav();
+      updateScoreInfo();
+    }
+  };
+
+  document.getElementById('reset-btn').onclick = (e) => {
+    e.preventDefault();
+    userAnswers[currentIndex] = null;
+    userScores[currentIndex] = 0;
     renderQuestion();
-    renderNav();
     updateScoreInfo();
-  }
-};
+  };
 
-document.getElementById('next-btn').onclick = (e) => {
-  e.preventDefault();
-  if (currentIndex < questions.length - 1) {
-    currentIndex++;
-    renderQuestion();
-    renderNav();
+  document.getElementById('check-btn').onclick = (e) => {
+    e.preventDefault();
+    const form = document.getElementById('options-form');
+    const checkboxes = form.querySelectorAll('input[name="option"]:checked');
+    const feedback = document.getElementById('feedback');
+    if (checkboxes.length === 0) {
+      feedback.textContent = 'Silakan pilih jawaban dulu!';
+      return;
+    }
+    // Ambil jawaban user (array of key)
+    const ans = Array.from(checkboxes).map(cb => cb.value);
+    userAnswers[currentIndex] = ans;
+    const correct = questions[currentIndex].correct_answers;
+    // Hitung skor: +1 untuk setiap jawaban benar, -1 untuk setiap jawaban salah
+    let score = 0;
+    ans.forEach(a => {
+      if (correct.includes(a)) score += 1;
+      else score -= 1;
+    });
+    feedback.textContent = `Poin untuk soal ini: ${score} dari ${correct.length}`;
+    userScores[currentIndex] = score;
+    document.getElementById('point-info').textContent = `Poin: ${score} / ${correct.length}`;
     updateScoreInfo();
-  }
-};
+    // Tampilkan warna indikator jawaban benar/salah
+    renderQuestion(true);
+  };
+}
 
-document.getElementById('reset-btn').onclick = (e) => {
-  e.preventDefault();
-  userAnswers[currentIndex] = null;
-  userScores[currentIndex] = 0;
-  renderQuestion();
-  updateScoreInfo();
-};
-
-document.getElementById('check-btn').onclick = (e) => {
-  e.preventDefault();
-  const form = document.getElementById('options-form');
-  const checkboxes = form.querySelectorAll('input[name="option"]:checked');
-  const feedback = document.getElementById('feedback');
-  if (checkboxes.length === 0) {
-    feedback.textContent = 'Silakan pilih jawaban dulu!';
-    return;
-  }
-  // Ambil jawaban user (array of key)
-  const ans = Array.from(checkboxes).map(cb => cb.value);
-  userAnswers[currentIndex] = ans;
-  const correct = questions[currentIndex].correct_answers;
-  // Hitung skor: +1 untuk setiap jawaban benar, -1 untuk setiap jawaban salah
-  let score = 0;
-  ans.forEach(a => {
-    if (correct.includes(a)) score += 1;
-    else score -= 1;
-  });
-  feedback.textContent = `Poin untuk soal ini: ${score} dari ${correct.length}`;
-  userScores[currentIndex] = score;
-  document.getElementById('point-info').textContent = `Poin: ${score} / ${correct.length}`;
-  updateScoreInfo();
-  // Tampilkan warna indikator jawaban benar/salah
-  renderQuestion(true);
-};
+// Inisialisasi handler tombol quiz setelah DOM siap
+setQuizButtonHandlers();

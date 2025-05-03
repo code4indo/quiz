@@ -333,7 +333,7 @@
       "c": "Menjaga lisan dari perkataan buruk",
       "d": "Jawaban a dan c benar"
     },
-    "correct_answers": ["d"] // Mengacu pada perilaku mengumpat, mencela, dan menumpuk harta
+    "correct_answers": ["d"] 
   },
   {
     "id": 29,
@@ -501,7 +501,7 @@
       "c": "مِرْيَةٍ",
       "d": "اَرْسَلْنَا"
     },
-    "correct_answers": ["b"] // Ra berharakat fathah
+    "correct_answers": ["b"]
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@
       "c": "بِاَمْرِنَا",
       "d": "رِجَالٌ"
     },
-    "correct_answers": ["d"] // Ra berharakat kasrah
+    "correct_answers": ["d"]
   },
   {
     "id": 44,

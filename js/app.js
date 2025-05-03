@@ -5,6 +5,7 @@ let questions = [];
 let currentIndex = 0;
 let userAnswers = [];
 let userScores = [];
+let quizFinished = false;
 
 // --- Upload logic ---
 const uploadSection = document.getElementById('upload-section');
@@ -24,11 +25,25 @@ fileInput.addEventListener('change', function (e) {
         return;
       }
       questions = data;
+      // Set default poin jika belum ada (positif: 2, negatif: -1)
+      questions.forEach(q => {
+        if (typeof q.poin_benar !== 'number') q.poin_benar = 2;
+        if (typeof q.poin_salah !== 'number') q.poin_salah = -1;
+      });
       userAnswers = Array(questions.length).fill(null);
       userScores = Array(questions.length).fill(0);
       currentIndex = 0;
+      quizFinished = false;
+      // Reset feedback dan skor info
+      document.getElementById('feedback').textContent = '';
+      document.getElementById('score-info').textContent = '';
+      document.getElementById('point-info').textContent = '';
+      const endScore = document.getElementById('end-score');
+      if (endScore) endScore.remove();
+      // Sembunyikan upload, tampilkan quiz
       uploadSection.style.display = 'none';
       quizSection.style.display = '';
+      // Langsung render quiz pertama
       renderQuestion();
       renderNav();
       updateScoreInfo();
@@ -69,7 +84,7 @@ function renderQuestion(showAnswer = false) {
     form.appendChild(document.createElement('br'));
   });
   document.getElementById('feedback').textContent = '';
-  document.getElementById('point-info').textContent = `Poin: ${userScores[currentIndex]} / ${questions[currentIndex].correct_answers.length}`;
+  document.getElementById('point-info').textContent = `Poin: ${userScores[currentIndex]} (Benar: ${questions[currentIndex].poin_benar}, Salah: ${questions[currentIndex].poin_salah})`;
 
   // Listener agar jawaban user langsung tersimpan saat klik
   if (!showAnswer) {
@@ -103,7 +118,7 @@ function renderNav() {
 function updateScoreInfo() {
   if (!questions.length) return;
   const total = userScores.reduce((a, b) => a + b, 0);
-  const maxTotal = questions.reduce((sum, q) => sum + (q.correct_answers ? q.correct_answers.length : 0), 0);
+  const maxTotal = questions.reduce((sum, q) => sum + (q.correct_answers ? q.correct_answers.length * (q.poin_benar || 2) : 0), 0);
   document.getElementById('score-info').textContent = `Total Poin: ${total} / ${maxTotal}`;
 }
 
@@ -122,11 +137,15 @@ function setQuizButtonHandlers() {
 
   document.getElementById('next-btn').onclick = (e) => {
     e.preventDefault();
+    if (quizFinished) return;
     if (currentIndex < questions.length - 1) {
       currentIndex++;
       renderQuestion();
       renderNav();
       updateScoreInfo();
+    } else if (currentIndex === questions.length - 1) {
+      // Selesai, tampilkan skor akhir
+      showFinalScore();
     }
   };
 
@@ -140,6 +159,7 @@ function setQuizButtonHandlers() {
 
   document.getElementById('check-btn').onclick = (e) => {
     e.preventDefault();
+    if (quizFinished) return;
     const form = document.getElementById('options-form');
     const checkboxes = form.querySelectorAll('input[name="option"]:checked');
     const feedback = document.getElementById('feedback');
@@ -151,19 +171,48 @@ function setQuizButtonHandlers() {
     const ans = Array.from(checkboxes).map(cb => cb.value);
     userAnswers[currentIndex] = ans;
     const correct = questions[currentIndex].correct_answers;
-    // Hitung skor: +1 untuk setiap jawaban benar, -1 untuk setiap jawaban salah
+    // Hitung skor: +poin_benar untuk setiap jawaban benar, +poin_salah untuk setiap jawaban salah
     let score = 0;
     ans.forEach(a => {
-      if (correct.includes(a)) score += 1;
-      else score -= 1;
+      if (correct.includes(a)) score += questions[currentIndex].poin_benar;
+      else score += questions[currentIndex].poin_salah;
     });
-    feedback.textContent = `Poin untuk soal ini: ${score} dari ${correct.length}`;
+    // Jika user tidak memilih semua jawaban benar, kurangi poin_benar untuk setiap jawaban benar yang tidak dipilih
+    correct.forEach(c => {
+      if (!ans.includes(c)) score += questions[currentIndex].poin_salah;
+    });
+    feedback.textContent = `Poin untuk soal ini: ${score} (Benar: ${questions[currentIndex].poin_benar}, Salah: ${questions[currentIndex].poin_salah})`;
     userScores[currentIndex] = score;
-    document.getElementById('point-info').textContent = `Poin: ${score} / ${correct.length}`;
+    document.getElementById('point-info').textContent = `Poin: ${score} (Benar: ${questions[currentIndex].poin_benar}, Salah: ${questions[currentIndex].poin_salah})`;
     updateScoreInfo();
     // Tampilkan warna indikator jawaban benar/salah
     renderQuestion(true);
   };
+
+// Tampilkan skor akhir setelah quiz selesai
+function showFinalScore() {
+  quizFinished = true;
+  // Disable tombol quiz
+  document.getElementById('prev-btn').disabled = true;
+  document.getElementById('next-btn').disabled = true;
+  document.getElementById('reset-btn').disabled = true;
+  document.getElementById('check-btn').disabled = true;
+  // Tampilkan skor akhir
+  const total = userScores.reduce((a, b) => a + b, 0);
+  const maxTotal = questions.reduce((sum, q) => sum + (q.correct_answers ? q.correct_answers.length * (q.poin_benar || 2) : 0), 0);
+  let endScore = document.getElementById('end-score');
+  if (!endScore) {
+    endScore = document.createElement('div');
+    endScore.id = 'end-score';
+    endScore.style.margin = '24px 0 0 0';
+    endScore.style.textAlign = 'center';
+    endScore.style.fontSize = '1.25em';
+    endScore.style.fontWeight = 'bold';
+    endScore.style.color = '#205b2a';
+    quizSection.appendChild(endScore);
+  }
+  endScore.innerHTML = `Quiz selesai!<br>Skor akhir Anda: <span style="color:#17421d;">${total}</span> dari <span style="color:#254525;">${maxTotal}</span>`;
+}
 }
 
 // Inisialisasi handler tombol quiz setelah DOM siap

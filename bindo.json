@@ -1,0 +1,734 @@
+[
+  {
+    "id": 101,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Bacalah kalimat berikut: 'Ekosistem laut sangat rentan terhadap polusi.' Kata 'rentan' dalam kalimat tersebut memiliki makna yang paling mendekati... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Kuat",
+      "b": "Mudah terkena sesuatu (misalnya penyakit, pengaruh)",
+      "c": "Peka",
+      "d": "Tahan banting",
+      "e": "Sensitif"
+    },
+    "correct_answers": ["b", "c", "e"]
+  },
+  {
+    "id": 102,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Untuk menemukan makna kata sulit seperti 'konservasi', sumber rujukan yang paling tepat adalah...",
+    "options": {
+      "a": "Buku cerita",
+      "b": "Kamus Besar Bahasa Indonesia (KBBI)",
+      "c": "Majalah anak",
+      "d": "Ensiklopedia"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 103,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Bacalah paragraf berikut: 'Hutan mangrove memiliki banyak manfaat. Akar-akarnya yang kuat dapat menahan abrasi pantai. Hutan ini juga menjadi tempat tinggal berbagai jenis hewan laut dan burung. Selain itu, hutan mangrove dapat menyerap karbon dioksida.' Ide pokok paragraf tersebut adalah...",
+    "options": {
+      "a": "Akar mangrove menahan abrasi",
+      "b": "Manfaat hutan mangrove",
+      "c": "Hutan mangrove menyerap karbon dioksida",
+      "d": "Hewan tinggal di hutan mangrove"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 104,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Ide pokok biasanya terletak di... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Awal paragraf (deduktif)",
+      "b": "Akhir paragraf (induktif)",
+      "c": "Tengah paragraf",
+      "d": "Setiap kalimat",
+      "e": "Awal dan akhir paragraf (campuran)"
+    },
+    "correct_answers": ["a", "b", "e"]
+  },
+  {
+    "id": 105,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "(Soal Menyimak - Teks dibacakan guru) 'Instruksi: Pertama, siapkan kertas origami. Kedua, lipat kertas menjadi dua bagian sama besar. Ketiga, buka lipatan, lalu lipat kedua sisi ke garis tengah.' Informasi penting dari instruksi lisan tersebut adalah...",
+    "options": {
+      "a": "Cara membuat perahu kertas",
+      "b": "Langkah-langkah melipat kertas origami",
+      "c": "Jenis-jenis kertas origami",
+      "d": "Warna kertas origami yang bagus"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 106,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "Bacalah kutipan puisi berikut: 'Mentari pagi hangatkan bumi / Sinarmu bawa harapan baru'. Kata 'mentari' dalam puisi tersebut bermakna...",
+    "options": {
+      "a": "Bulan",
+      "b": "Bintang",
+      "c": "Matahari",
+      "d": "Pelangi"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 107,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "Bacalah kutipan puisi berikut: 'Di bawah langit biru / Aku merajut mimpi'. Makna kalimat 'Aku merajut mimpi' adalah...",
+    "options": {
+      "a": "Membuat kerajinan tangan",
+      "b": "Sedang tidur dan bermimpi",
+      "c": "Membangun harapan atau cita-cita",
+      "d": "Menjahit kain"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 108,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "Pesan yang dapat diambil dari cerita Malin Kundang adalah...",
+    "options": {
+      "a": "Kita harus merantau jauh",
+      "b": "Kita harus menghormati dan menyayangi ibu",
+      "c": "Kita boleh melupakan orang tua jika sudah kaya",
+      "d": "Durhaka kepada orang tua akan membawa kebahagiaan"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 109,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Teks yang menceritakan suatu peristiwa atau kejadian secara berurutan berdasarkan waktu disebut teks...",
+    "options": {
+      "a": "Deskripsi",
+      "b": "Narasi",
+      "c": "Eksposisi",
+      "d": "Prosedur"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 110,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Teks yang bertujuan menggambarkan suatu objek, tempat, atau suasana secara rinci sehingga pembaca seolah-olah melihat atau merasakannya sendiri disebut teks...",
+    "options": {
+      "a": "Deskripsi",
+      "b": "Narasi",
+      "c": "Rekon",
+      "d": "Eksposisi"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 111,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Teks yang berisi langkah-langkah atau cara melakukan sesuatu secara berurutan disebut teks...",
+    "options": {
+      "a": "Narasi",
+      "b": "Deskripsi",
+      "c": "Prosedur",
+      "d": "Eksposisi"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 112,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Teks yang bertujuan menjelaskan atau memaparkan suatu informasi atau pengetahuan tanpa bermaksud mempengaruhi pembaca disebut teks...",
+    "options": {
+      "a": "Prosedur",
+      "b": "Narasi",
+      "c": "Deskripsi",
+      "d": "Eksposisi"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 113,
+    "chapter_source": "Kisi-kisi No. 4",
+    "question_text": "Bacalah teks berikut: 'Candi Borobudur adalah candi Buddha terbesar di dunia. Candi ini terletak di Magelang, Jawa Tengah. Dibangun pada masa Dinasti Syailendra, candi ini memiliki arsitektur yang megah dengan ribuan relief dan ratusan stupa.' Ide pokok teks tersebut adalah...",
+    "options": {
+      "a": "Lokasi Candi Borobudur",
+      "b": "Candi Borobudur sebagai candi Buddha terbesar",
+      "c": "Arsitektur Candi Borobudur",
+      "d": "Pembangunan Candi Borobudur"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 114,
+    "chapter_source": "Kisi-kisi No. 4",
+    "question_text": "Unsur intrinsik sebuah cerita meliputi... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Tema",
+      "b": "Latar belakang pengarang",
+      "c": "Tokoh dan penokohan",
+      "d": "Alur/Plot",
+      "e": "Nilai sosial budaya masyarakat"
+    },
+    "correct_answers": ["a", "c", "d"]
+  },
+  {
+    "id": 115,
+    "chapter_source": "Kisi-kisi No. 4",
+    "question_text": "Bacalah pantun berikut: 'Jalan-jalan ke pasar baru / Jangan lupa membeli sukun / Jika ingin mendapat ilmu / Belajarlah dengan tekun'. Nilai yang terkandung dalam pantun tersebut adalah...",
+    "options": {
+      "a": "Kerja keras",
+      "b": "Kejujuran",
+      "c": "Pentingnya belajar dengan tekun",
+      "d": "Menjaga kebersihan"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 116,
+    "chapter_source": "Kisi-kisi No. 4",
+    "question_text": "Makna kiasan dari 'kambing hitam' adalah...",
+    "options": {
+      "a": "Kambing yang berwarna hitam",
+      "b": "Orang yang disalahkan atas kesalahan orang lain",
+      "c": "Anak kesayangan",
+      "d": "Orang yang suka bekerja keras"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 117,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "(Soal Menyimak - Fabel dibacakan guru) 'Kancil yang cerdik berhasil menyeberangi sungai dengan menipu buaya-buaya. Ia berkata akan membagikan daging segar jika buaya mau berbaris.' Watak Kancil dalam cerita tersebut adalah...",
+    "options": {
+      "a": "Bodoh",
+      "b": "Cerdik",
+      "c": "Penakut",
+      "d": "Pemalas",
+      "e": "Licik"
+    },
+    "correct_answers": ["b", "e"]
+  },
+  {
+    "id": 118,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "Fabel adalah cerita yang tokoh-tokohnya berupa...",
+    "options": {
+      "a": "Manusia",
+      "b": "Tumbuhan",
+      "c": "Hewan yang berperilaku seperti manusia",
+      "d": "Benda mati"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 119,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "Unsur ekstrinsik sebuah karya sastra (seperti fabel) bisa meliputi... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Latar belakang kehidupan pengarang",
+      "b": "Alur cerita",
+      "c": "Nilai-nilai sosial dan budaya yang berlaku saat karya dibuat",
+      "d": "Penokohan",
+      "e": "Situasi politik saat karya dibuat"
+    },
+    "correct_answers": ["a", "c", "e"]
+  },
+  {
+    "id": 120,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "Amanat atau pesan moral yang bisa diambil dari cerita Kancil dan Buaya adalah...",
+    "options": {
+      "a": "Jangan mudah percaya pada orang lain",
+      "b": "Kecerdikan dapat mengalahkan kekuatan fisik",
+      "c": "Kita harus selalu menipu",
+      "d": "Buaya adalah hewan yang bodoh"
+    },
+    "correct_answers": ["a", "b"]
+  },
+  {
+    "id": 121,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Bacalah teks berikut: 'Ayo, jaga kebersihan lingkungan sekolah! Dengan lingkungan yang bersih, belajar menjadi nyaman dan kita terhindar dari penyakit.' Teks tersebut termasuk jenis teks...",
+    "options": {
+      "a": "Deskripsi",
+      "b": "Narasi",
+      "c": "Persuasi",
+      "d": "Eksposisi"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 122,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Tujuan utama teks persuasi adalah...",
+    "options": {
+      "a": "Memberikan informasi",
+      "b": "Menceritakan kejadian",
+      "c": "Menggambarkan objek",
+      "d": "Mengajak atau membujuk pembaca melakukan sesuatu"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 123,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Kalimat yang bersifat mengajak atau membujuk dalam teks persuasi ditandai dengan penggunaan kata-kata seperti... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Ayo",
+      "b": "Marilah",
+      "c": "Adalah",
+      "d": "Yaitu",
+      "e": "Sebaiknya"
+    },
+    "correct_answers": ["a", "b", "e"]
+  },
+  {
+    "id": 124,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Informasi yang disampaikan dalam teks persuasi biasanya disertai dengan... untuk meyakinkan pembaca.",
+    "options": {
+      "a": "Data dan fakta pendukung",
+      "b": "Cerita lucu",
+      "c": "Gambar kartun",
+      "d": "Teka-teki"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 125,
+    "chapter_source": "Kisi-kisi No. 7",
+    "question_text": "(Soal Menyimak - Laporan dibacakan guru) 'Laporan Kunjungan ke Museum: Pada hari Sabtu, 15 Maret 2025, siswa kelas 6 SDN Pelita Jaya mengunjungi Museum Nasional. Kunjungan dimulai pukul 09.00 WIB. Di sana, kami melihat berbagai koleksi peninggalan sejarah, seperti arca, prasasti, dan keramik kuno.' Fakta yang terdapat dalam laporan tersebut adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Siswa kelas 6 mengunjungi Museum Nasional",
+      "b": "Kunjungan dilakukan pada hari Minggu",
+      "c": "Tanggal kunjungan adalah 15 Maret 2025",
+      "d": "Museum Nasional tidak memiliki koleksi",
+      "e": "Koleksi museum meliputi arca dan prasasti"
+    },
+    "correct_answers": ["a", "c", "e"]
+  },
+  {
+    "id": 126,
+    "chapter_source": "Kisi-kisi No. 7",
+    "question_text": "Teks laporan berisi informasi berdasarkan...",
+    "options": {
+      "a": "Khayalan penulis",
+      "b": "Pendapat pribadi",
+      "c": "Hasil pengamatan atau penelitian (fakta)",
+      "d": "Gosip"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 127,
+    "chapter_source": "Kisi-kisi No. 7",
+    "question_text": "Bahasa yang digunakan dalam teks laporan bersifat...",
+    "options": {
+      "a": "Subjektif dan emosional",
+      "b": "Objektif dan lugas",
+      "c": "Puitis dan indah",
+      "d": "Penuh kata kiasan"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 128,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Bacalah teks eksplanasi berikut: 'Pelangi terjadi karena pembiasan cahaya matahari oleh titik-titik air di udara setelah hujan. Cahaya putih matahari dibiaskan menjadi berbagai warna spektrum.' Informasi berupa fakta dari teks tersebut adalah...",
+    "options": {
+      "a": "Pelangi muncul sebelum hujan",
+      "b": "Pelangi disebabkan pembiasan cahaya matahari oleh titik air",
+      "c": "Pelangi hanya terdiri dari satu warna",
+      "d": "Pelangi adalah jembatan bidadari"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 129,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Bacalah kutipan puisi baru berikut: 'Wajahmu teduh bagai rembulan / Senyummu embun penyejuk kalbu'. Kata 'rembulan' memiliki makna denotatif yaitu...",
+    "options": {
+      "a": "Matahari",
+      "b": "Bulan",
+      "c": "Bintang",
+      "d": "Awan"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 130,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Dalam kutipan puisi 'Senyummu embun penyejuk kalbu', kata 'embun' digunakan sebagai makna kiasan yang berarti...",
+    "options": {
+      "a": "Titik air di pagi hari",
+      "b": "Sesuatu yang menyejukkan atau menenangkan hati",
+      "c": "Minuman dingin",
+      "d": "Air mata"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 131,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Teks eksplanasi bertujuan untuk...",
+    "options": {
+      "a": "Menceritakan pengalaman pribadi",
+      "b": "Menjelaskan proses terjadinya suatu fenomena alam atau sosial",
+      "c": "Mengajak pembaca melakukan sesuatu",
+      "d": "Menggambarkan ciri-ciri suatu benda"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 132,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Antonim (lawan kata) dari 'gelap' adalah...",
+    "options": {
+      "a": "Suram",
+      "b": "Redup",
+      "c": "Terang",
+      "d": "Hitam"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 133,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Sinonim (persamaan kata) dari 'pandai' adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Bodoh",
+      "b": "Cerdas",
+      "c": "Pintar",
+      "d": "Malas",
+      "e": "Cakap"
+    },
+    "correct_answers": ["b", "c", "e"]
+  },
+  {
+    "id": 134,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Kalimat 'Ani membaca buku dan adik bermain boneka' merupakan contoh kalimat...",
+    "options": {
+      "a": "Tunggal",
+      "b": "Majemuk setara",
+      "c": "Majemuk bertingkat",
+      "d": "Perintah"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 135,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Penulisan singkatan 'Sekolah Dasar Negeri' yang benar sesuai EYD adalah...",
+    "options": {
+      "a": "sdn",
+      "b": "S.D.N",
+      "c": "SDN",
+      "d": "Sdn."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 136,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Akronim dari 'Kementerian Pendidikan dan Kebudayaan' adalah...",
+    "options": {
+      "a": "KEMDIKBUD",
+      "b": "Kemen Dik Bud",
+      "c": "Kemendikbud",
+      "d": "Kmdkbd"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 137,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Bacalah kutipan gurindam (puisi lama) berikut: 'Barang siapa mengenal diri / Maka telah mengenal Tuhan yang Bahri'. Makna denotatif kata 'Bahri' adalah...",
+    "options": {
+      "a": "Laut",
+      "b": "Tuhan",
+      "c": "Diri",
+      "d": "Mengenal"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 138,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Makna kiasan dari 'tangan kanan' adalah...",
+    "options": {
+      "a": "Anggota tubuh",
+      "b": "Orang kepercayaan",
+      "c": "Suka menolong",
+      "d": "Pencuri"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 139,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Dalam cerita dongeng 'Bawang Merah dan Bawang Putih', tokoh Bawang Putih memiliki watak...",
+    "options": {
+      "a": "Jahat dan iri hati",
+      "b": "Baik hati, sabar, dan rajin",
+      "c": "Pemalas dan sombong",
+      "d": "Penakut dan cengeng"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 140,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Nilai moral yang dapat diambil dari dongeng 'Bawang Merah dan Bawang Putih' adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Kebaikan akan dibalas kebaikan",
+      "b": "Kejahatan akan mendapat balasan",
+      "c": "Kita harus iri kepada orang lain",
+      "d": "Kesabaran akan membuahkan hasil",
+      "e": "Boleh berbuat jahat asal tidak ketahuan"
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 141,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Bacalah teks berikut: 'Liburan sekolah kemarin, aku dan keluarga pergi ke pantai. Kami berangkat pagi-pagi sekali. Di sana, aku bermain pasir dan berenang. Sungguh pengalaman yang menyenangkan.' Teks tersebut termasuk jenis teks...",
+    "options": {
+      "a": "Eksposisi",
+      "b": "Deskripsi",
+      "c": "Narasi (Rekon/Pengalaman)",
+      "d": "Prosedur"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 142,
+    "chapter_source": "Kisi-kisi No. 11",
+    "question_text": "(Soal Menyimak - Teks Eksplanasi dibacakan guru) 'Proses terjadinya hujan dimulai dari penguapan air di permukaan bumi (evaporasi). Uap air naik ke atmosfer dan mengalami pendinginan hingga membentuk awan (kondensasi). Ketika butir-butir air di awan sudah cukup besar dan berat, maka turunlah hujan (presipitasi).' Urutan proses terjadinya hujan yang benar adalah...",
+    "options": {
+      "a": "Kondensasi - Evaporasi - Presipitasi",
+      "b": "Evaporasi - Kondensasi - Presipitasi",
+      "c": "Presipitasi - Evaporasi - Kondensasi",
+      "d": "Evaporasi - Presipitasi - Kondensasi"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 143,
+    "chapter_source": "Kisi-kisi No. 11",
+    "question_text": "Fakta yang dijelaskan dalam proses terjadinya hujan adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Air menguap dari permukaan bumi",
+      "b": "Uap air membentuk awan karena pendinginan",
+      "c": "Hujan turun dari langit",
+      "d": "Awan terbentuk karena pemanasan",
+      "e": "Hujan adalah air mata malaikat"
+    },
+    "correct_answers": ["a", "b", "c"]
+  },
+  {
+    "id": 144,
+    "chapter_source": "Kisi-kisi No. 12",
+    "question_text": "Bagian pendahuluan dalam sebuah laporan biasanya berisi...",
+    "options": {
+      "a": "Kesimpulan",
+      "b": "Hasil pengamatan",
+      "c": "Latar belakang dan tujuan",
+      "d": "Saran"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 145,
+    "chapter_source": "Kisi-kisi No. 12",
+    "question_text": "Penulisan judul laporan yang benar sesuai EYD adalah...",
+    "options": {
+      "a": "Laporan Kunjungan ke kebun binatang ragunan",
+      "b": "Laporan Kunjungan Ke Kebun Binatang Ragunan",
+      "c": "Laporan Kunjungan ke Kebun Binatang Ragunan",
+      "d": "laporan kunjungan ke kebun binatang ragunan"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 146,
+    "chapter_source": "Kisi-kisi No. 12",
+    "question_text": "Kalimat 'Jika kamu rajin belajar, maka kamu akan pandai.' merupakan contoh kalimat majemuk...",
+    "options": {
+      "a": "Setara pemilihan",
+      "b": "Setara perlawanan",
+      "c": "Bertingkat syarat",
+      "d": "Bertingkat sebab-akibat"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 147,
+    "chapter_source": "Kisi-kisi No. 12",
+    "question_text": "Akronim dari 'Badan Meteorologi, Klimatologi, dan Geofisika' adalah...",
+    "options": {
+      "a": "BAMETKG",
+      "b": "BMKG",
+      "c": "B.M.K.G",
+      "d": "BmkG"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 148,
+    "chapter_source": "Kisi-kisi No. 13",
+    "question_text": "Teks yang menceritakan kembali pengalaman masa lalu secara kronologis disebut teks...",
+    "options": {
+      "a": "Deskripsi",
+      "b": "Rekon",
+      "c": "Prosedur",
+      "d": "Eksposisi"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 149,
+    "chapter_source": "Kisi-kisi No. 13",
+    "question_text": "Ciri-ciri teks prosedur adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Berisi langkah-langkah",
+      "b": "Menggunakan kalimat perintah",
+      "c": "Terdapat tujuan yang ingin dicapai",
+      "d": "Menceritakan tokoh fiksi",
+      "e": "Bersifat kronologis (urutan waktu)"
+    },
+    "correct_answers": ["a", "b", "c"]
+  },
+  {
+    "id": 150,
+    "chapter_source": "Kisi-kisi No. 13",
+    "question_text": "Tujuan penulisan teks deskripsi adalah...",
+    "options": {
+      "a": "Menjelaskan cara membuat sesuatu",
+      "b": "Menceritakan sebuah kisah",
+      "c": "Menggambarkan objek sejelas-jelasnya agar pembaca seolah melihatnya",
+      "d": "Menyampaikan pendapat penulis"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 151,
+    "chapter_source": "Kisi-kisi No. 14",
+    "question_text": "(Soal Menyimak - Fabel dibacakan guru) 'Semut yang rajin bekerja keras mengumpulkan makanan sepanjang musim panas. Belalang malah bermalas-malasan dan bernyanyi. Ketika musim dingin tiba, Semut punya banyak makanan, sedangkan Belalang kelaparan.' Latar waktu dalam cerita tersebut adalah...",
+    "options": {
+      "a": "Musim semi dan musim gugur",
+      "b": "Pagi hari dan sore hari",
+      "c": "Musim panas dan musim dingin",
+      "d": "Di hutan dan di sungai"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 152,
+    "chapter_source": "Kisi-kisi No. 14",
+    "question_text": "Unsur intrinsik fabel 'Semut dan Belalang' meliputi... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Tokoh: Semut dan Belalang",
+      "b": "Latar belakang pengarang",
+      "c": "Watak: Semut (rajin), Belalang (pemalas)",
+      "d": "Amanat: Rajin pangkal pandai, hemat pangkal kaya",
+      "e": "Kondisi sosial masyarakat saat cerita dibuat"
+    },
+    "correct_answers": ["a", "c", "d"]
+  },
+  {
+    "id": 153,
+    "chapter_source": "Kisi-kisi No. 14",
+    "question_text": "Teks eksplanasi biasanya memiliki struktur...",
+    "options": {
+      "a": "Orientasi - Komplikasi - Resolusi",
+      "b": "Tujuan - Bahan - Langkah-langkah",
+      "c": "Pernyataan umum - Urutan sebab akibat - Interpretasi/Kesimpulan",
+      "d": "Tesis - Argumentasi - Penegasan ulang"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 154,
+    "chapter_source": "Kisi-kisi No. 14",
+    "question_text": "Informasi berupa fakta dalam teks eksplanasi tentang gerhana matahari adalah...",
+    "options": {
+      "a": "Gerhana matahari terjadi saat bumi menutupi matahari",
+      "b": "Gerhana matahari terjadi saat bulan berada di antara bumi dan matahari",
+      "c": "Gerhana matahari adalah pertanda buruk",
+      "d": "Gerhana matahari hanya terjadi di malam hari"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 155,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Urutan yang benar dalam sistematika penulisan laporan sederhana adalah...",
+    "options": {
+      "a": "Hasil - Pendahuluan - Kesimpulan",
+      "b": "Pendahuluan - Hasil - Kesimpulan",
+      "c": "Kesimpulan - Pendahuluan - Hasil",
+      "d": "Hasil - Kesimpulan - Pendahuluan"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 156,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Penulisan tanggal surat yang benar sesuai EYD adalah...",
+    "options": {
+      "a": "Jakarta 3 Mei 2025",
+      "b": "Jakarta, 3-5-2025",
+      "c": "Jakarta, 3 Mei 2025",
+      "d": "Jakarta: 3 Mei 2025"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 157,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Kalimat 'Ayah bekerja di kantor, sedangkan ibu memasak di dapur.' adalah contoh kalimat majemuk setara yang menyatakan...",
+    "options": {
+      "a": "Penjumlahan",
+      "b": "Pemilihan",
+      "c": "Perlawanan",
+      "d": "Urutan waktu"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 158,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Akronim dari 'Pusat Kesehatan Masyarakat' adalah...",
+    "options": {
+      "a": "PUSKESMAS",
+      "b": "Pus K Mas",
+      "c": "Puskesmas",
+      "d": "PKM"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 159,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Penggunaan huruf kapital yang benar terdapat pada kalimat...",
+    "options": {
+      "a": "Saya lahir di bulan maret.",
+      "b": "Kami berlibur ke Pulau Bali.",
+      "c": "Presiden Joko Widodo mengunjungi korban bencana.",
+      "d": "Bahasa indonesia adalah bahasa persatuan."
+    },
+    "correct_answers": ["b", "c"]
+  },
+  {
+    "id": 160,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Tanda baca yang digunakan untuk mengakhiri kalimat berita adalah...",
+    "options": {
+      "a": "Tanda tanya (?)",
+      "b": "Tanda seru (!)",
+      "c": "Tanda titik (.)",
+      "d": "Tanda koma (,)"
+    },
+    "correct_answers": ["c"]
+  }
+]

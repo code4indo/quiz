@@ -1,0 +1,1206 @@
+[
+  {
+    "id": 201,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Manakah di antara lafal berikut yang mengandung hukum bacaan Izhar Halqi karena tanwin bertemu huruf 'Ain (ع)?",
+    "options": {
+      "a": "سَمِيْعٌ عَلِيْمٌ",
+      "b": "مِنْ عِلْمٍ",
+      "c": "عَذَابٌ عَظِيْمٌ",
+      "d": "أَجْرٌ عَظِيْمٌ"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 202,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Mengapa hukum bacaan Izhar Halqi disebut 'Halqi'?",
+    "options": {
+      "a": "Karena huruf-hurufnya dibaca jelas",
+      "b": "Karena huruf-hurufnya keluar dari tenggorokan (halq)",
+      "c": "Karena sering muncul di awal ayat",
+      "d": "Karena melibatkan bunyi dengung"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 203,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Pada lafal 'فَسَيُنْغِضُونَ', hukum bacaan nun sukun adalah Izhar Halqi karena bertemu huruf...",
+    "options": {
+      "a": "غ (Ghain)",
+      "b": "ن (Nun)",
+      "c": "ض (Dhad)",
+      "d": "ف (Fa)"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 204,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "Tingkatan dengung (ghunnah) pada Ikhfa Haqiqi adalah...",
+    "options": {
+      "a": "Paling sempurna (Akmal)",
+      "b": "Sempurna (Kamilah)",
+      "c": "Kurang sempurna (Naqishah)",
+      "d": "Paling kurang (Anqash)"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 205,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "Manakah pasangan huruf Ikhfa Haqiqi berikut yang makhrajnya paling berdekatan sehingga bunyi samarannya paling tipis?",
+    "options": {
+      "a": "ق (Qaf) dan ك (Kaf)",
+      "b": "ت (Ta) dan ط (Tha)",
+      "c": "ص (Shad) dan ض (Dhad)",
+      "d": "ف (Fa) dan ث (Tsa)"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 206,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "Pada lafal 'مِنْ شَرِّ', posisi lidah saat mengucapkan bunyi samar nun sukun mendekati makhraj huruf...",
+    "options": {
+      "a": "ن (Nun)",
+      "b": "ش (Syin)",
+      "c": "ر (Ra)",
+      "d": "م (Mim)"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 207,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Hadis tentang niat diriwayatkan oleh Imam Bukhari dan Muslim dari sahabat...",
+    "options": {
+      "a": "Abu Hurairah r.a.",
+      "b": "Anas bin Malik r.a.",
+      "c": "Umar bin Khattab r.a.",
+      "d": "Abdullah bin Umar r.a."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 208,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Dalam hadis niat, disebutkan contoh hijrah karena dunia atau wanita. Hal ini menunjukkan bahwa nilai suatu amal sangat ditentukan oleh...",
+    "options": {
+      "a": "Banyaknya amal tersebut",
+      "b": "Kesulitan dalam melakukannya",
+      "c": "Motivasi atau tujuan di baliknya",
+      "d": "Orang yang melakukannya"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 209,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Bagaimana penerapan hadis niat dalam belajar di sekolah?",
+    "options": {
+      "a": "Belajar hanya agar dapat nilai bagus",
+      "b": "Belajar agar dipuji guru dan orang tua",
+      "c": "Belajar dengan niat mencari ilmu karena Allah dan agar bermanfaat",
+      "d": "Belajar hanya jika ada ujian"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 210,
+    "chapter_source": "Kisi-kisi No. 4",
+    "question_text": "Ayat 'يَوْمَ يَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ' dalam Surah Al-Qari'ah dibaca dengan memperhatikan hukum tajwid utama pada kata 'النَّاسُ' yaitu...",
+    "options": {
+      "a": "Alif Lam Qamariyah",
+      "b": "Ghunnah Musyaddadah",
+      "c": "Mad Thabi'i",
+      "d": "Izhar Halqi"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 211,
+    "chapter_source": "Kisi-kisi No. 4",
+    "question_text": "Pelafalan kata 'الْقَارِعَةُ' dalam Surah Al-Qari'ah harus memperhatikan sifat qalqalah pada huruf...",
+    "options": {
+      "a": "ق (Qaf)",
+      "b": "ر (Ra)",
+      "c": "ع (Ain)",
+      "d": "ة (Ta Marbuthah)"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 212,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "Surah Az-Zalzalah menjelaskan bahwa bumi akan 'mengeluarkan beban-beban beratnya'. Maksud dari 'beban-beban berat' tersebut adalah...",
+    "options": {
+      "a": "Gunung-gunung yang hancur",
+      "b": "Air laut yang meluap",
+      "c": "Orang-orang mati dan segala isi perut bumi",
+      "d": "Bangunan-bangunan yang runtuh"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 213,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "Ayat 'فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ' dalam Surah Az-Zalzalah mengandung pesan utama tentang...",
+    "options": {
+      "a": "Keadilan mutlak Allah dalam pembalasan amal",
+      "b": "Pentingnya berbuat baik kepada tetangga",
+      "c": "Dahsyatnya goncangan hari kiamat",
+      "d": "Keutamaan membaca Al-Qur'an"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 214,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "Bagaimana Surah Az-Zalzalah memotivasi kita untuk selalu berhati-hati dalam berbuat?",
+    "options": {
+      "a": "Karena setiap perbuatan akan dicatat malaikat",
+      "b": "Karena sekecil apapun perbuatan baik atau buruk akan diperlihatkan balasannya",
+      "c": "Karena bumi akan menjadi saksi",
+      "d": "Karena hari kiamat pasti akan datang"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 215,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Idgham Bighunnah terjadi ketika Nun Sukun atau Tanwin bertemu huruf ي، ن، م، و. Mengapa huruf Lam (ل) dan Ra (ر) tidak termasuk?",
+    "options": {
+      "a": "Karena Lam dan Ra bukan huruf dengung",
+      "b": "Karena makhraj Lam dan Ra terlalu jauh",
+      "c": "Karena Lam dan Ra adalah huruf tebal",
+      "d": "Karena pertemuan dengan Lam dan Ra menghasilkan Idgham Bilaghunnah"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 216,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Pada lafal 'وَمَنْ يُّطِعِ', terjadi Idgham Bighunnah. Bagaimana proses peleburan bunyi Nun Sukun ke huruf Ya?",
+    "options": {
+      "a": "Nun sukun hilang total, Ya dibaca jelas",
+      "b": "Nun sukun melebur ke Ya disertai dengung dari rongga hidung",
+      "c": "Nun sukun dibaca jelas, Ya didengungkan",
+      "d": "Nun sukun berubah menjadi Mim"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 217,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Manakah contoh Idgham Bighunnah yang melibatkan tanwin bertemu huruf Wawu (و)?",
+    "options": {
+      "a": "مِنْ وَرَائِهِمْ",
+      "b": "غِشَاوَةٌ وَّلَهُمْ",
+      "c": "مَنْ وَّجَدَ",
+      "d": "شَيْءٍ وَّكِيْلٌ"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 218,
+    "chapter_source": "Kisi-kisi No. 7",
+    "question_text": "Tanda waqaf kecil (م) yang sering diletakkan di atas Nun Sukun sebelum huruf Ba (ب) pada hukum Iqlab menandakan...",
+    "options": {
+      "a": "Harus berhenti",
+      "b": "Bunyi Nun berubah menjadi Mim",
+      "c": "Bunyi Mim dibaca jelas",
+      "d": "Bunyi Ba didengungkan"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 219,
+    "chapter_source": "Kisi-kisi No. 7",
+    "question_text": "Proses Iqlab melibatkan perubahan bunyi Nun Sukun/Tanwin menjadi Mim (م) disertai dengung dan samar. Mengapa dipilih huruf Mim?",
+    "options": {
+      "a": "Karena Mim adalah huruf paling mudah diucapkan",
+      "b": "Karena Mim memiliki sifat dengung (ghunnah)",
+      "c": "Karena Mim memiliki makhraj yang sama atau berdekatan dengan Nun dan Ba",
+      "d": "Karena Mim adalah huruf pertama dalam kata 'Ba'da'"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 220,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Hadis tentang silaturrahmi riwayat Bukhari Muslim dari Anas r.a. menyebutkan dua keuntungan bagi orang yang menyambung silaturrahmi, yaitu dilapangkan rezeki dan...",
+    "options": {
+      "a": "Diberi kesehatan",
+      "b": "Dipanjangkan umurnya",
+      "c": "Dimudahkan jodohnya",
+      "d": "Diampuni dosanya"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 221,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Manakah perilaku berikut yang BUKAN termasuk bentuk silaturrahmi sesuai makna hadis?",
+    "options": {
+      "a": "Mengunjungi paman dan bibi saat lebaran",
+      "b": "Menelpon kakek dan nenek di kampung",
+      "c": "Membantu tetangga yang sedang kesusahan",
+      "d": "Menjenguk sepupu yang sakit"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 222,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Bagaimana cara menyambung silaturrahmi dengan kerabat yang telah memutuskan hubungan?",
+    "options": {
+      "a": "Memutuskan hubungan juga",
+      "b": "Tetap berusaha menyambung hubungan dengan cara yang baik",
+      "c": "Menceritakan keburukannya kepada orang lain",
+      "d": "Membiarkannya saja"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 223,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Surah Al-'Adiyat ayat 6, 'اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ', menegaskan sifat dasar manusia yaitu...",
+    "options": {
+      "a": "Sangat penyayang",
+      "b": "Sangat bersyukur",
+      "c": "Sangat ingkar (tidak bersyukur)",
+      "d": "Sangat sabar"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 224,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Sumpah Allah SWT dengan kuda perang dalam Surah Al-'Adiyat ('وَالْعٰدِيٰتِ ضَبْحًاۙ') menyiratkan...",
+    "options": {
+      "a": "Pentingnya hewan dalam kehidupan",
+      "b": "Kehebatan kuda sebagai makhluk ciptaan Allah",
+      "c": "Perumpamaan semangat jihad atau usaha keras",
+      "d": "Larangan menyakiti hewan"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 225,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Perilaku sehari-hari yang mencerminkan sifat 'kanud' (ingkar) yang disebut dalam Surah Al-'Adiyat adalah...",
+    "options": {
+      "a": "Rajin beribadah dan bersyukur atas nikmat",
+      "b": "Mengeluh saat mendapat kesulitan dan lupa nikmat saat senang",
+      "c": "Selalu berbagi dengan sesama",
+      "d": "Mengingat Allah dalam setiap keadaan"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 226,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Ayat 'لَقَدْ خَلَقْنَا الْاِنْسَانَ فِيْٓ اَحْسَنِ تَقْوِيْمٍۖ' dalam Surah At-Tin menunjukkan...",
+    "options": {
+      "a": "Manusia adalah makhluk yang lemah",
+      "b": "Manusia diciptakan dari tanah",
+      "c": "Kemuliaan penciptaan manusia dalam bentuk terbaik",
+      "d": "Tujuan penciptaan manusia adalah untuk beribadah"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 227,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Hikmah diturunkannya manusia ke 'asfala safilin' (tempat yang serendah-rendahnya) dalam Surah At-Tin adalah...",
+    "options": {
+      "a": "Sebagai hukuman permanen",
+      "b": "Karena Allah tidak menyayangi manusia",
+      "c": "Sebagai konsekuensi jika manusia tidak beriman dan beramal saleh",
+      "d": "Agar manusia bisa menikmati dunia"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 228,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Orang yang dikecualikan dari 'asfala safilin' menurut Surah At-Tin adalah mereka yang...",
+    "options": {
+      "a": "Memiliki harta melimpah",
+      "b": "Memiliki kedudukan tinggi",
+      "c": "Beriman dan mengerjakan kebajikan",
+      "d": "Memiliki ilmu pengetahuan luas"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 229,
+    "chapter_source": "Kisi-kisi No. 11",
+    "question_text": "Idgham Mimi disebut juga Idgham Mitslain Syafawi. Disebut 'Mitslain' karena...",
+    "options": {
+      "a": "Melibatkan huruf Mim",
+      "b": "Terjadi pertemuan dua huruf yang sama (مْ bertemu م)",
+      "c": "Dibaca dengan dengung",
+      "d": "Termasuk hukum bacaan Mim Sukun"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 230,
+    "chapter_source": "Kisi-kisi No. 11",
+    "question_text": "Manakah contoh penerapan Idgham Mimi yang benar?",
+    "options": {
+      "a": "لَهُمْ مَّغْفِرَةٌ",
+      "b": "اَمْ لَهُمْ",
+      "c": "عَلَيْكُمْ بِالصَّبْرِ",
+      "d": "اِنَّهُمْ مُؤْمِنُوْنَ"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 231,
+    "chapter_source": "Kisi-kisi No. 12",
+    "question_text": "Ikhfa Syafawi terjadi ketika Mim Sukun (مْ) bertemu dengan satu huruf saja, yaitu...",
+    "options": {
+      "a": "م (Mim)",
+      "b": "ن (Nun)",
+      "c": "ب (Ba)",
+      "d": "و (Wawu)"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 232,
+    "chapter_source": "Kisi-kisi No. 12",
+    "question_text": "Perbedaan utama antara Ikhfa Syafawi (مْ bertemu ب) dan Iqlab (نْ/tanwin bertemu ب) adalah...",
+    "options": {
+      "a": "Ikhfa Syafawi tidak didengungkan, Iqlab didengungkan",
+      "b": "Huruf yang bertemu Ba berbeda (Mim Sukun vs Nun Sukun/Tanwin)",
+      "c": "Ikhfa Syafawi dibaca jelas, Iqlab dibaca samar",
+      "d": "Tidak ada perbedaan signifikan"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 233,
+    "chapter_source": "Kisi-kisi No. 12",
+    "question_text": "Pada lafal 'تَرْمِيْهِمْ بِحِجَارَةٍ', cara membaca Mim Sukun pada 'تَرْمِيْهِمْ' adalah...",
+    "options": {
+      "a": "Jelas tanpa dengung",
+      "b": "Samar disertai dengung",
+      "c": "Melebur ke huruf Ba",
+      "d": "Berubah menjadi Nun"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 234,
+    "chapter_source": "Kisi-kisi No. 13",
+    "question_text": "Izhar Syafawi terjadi ketika Mim Sukun bertemu dengan 26 huruf hijaiyah selain Mim dan Ba. Mengapa pertemuan dengan Mim dan Ba dikecualikan?",
+    "options": {
+      "a": "Karena Mim dan Ba adalah huruf qalqalah",
+      "b": "Karena pertemuan dengan Mim menjadi Idgham Mimi dan dengan Ba menjadi Ikhfa Syafawi",
+      "c": "Karena Mim dan Ba jarang muncul setelah Mim Sukun",
+      "d": "Karena Mim dan Ba memiliki sifat Isti'la"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 235,
+    "chapter_source": "Kisi-kisi No. 13",
+    "question_text": "Manakah contoh Izhar Syafawi yang benar?",
+    "options": {
+      "a": "اَلَمْ تَرَ",
+      "b": "لَكُمْ دِيْنُكُمْ",
+      "c": "اَنْتُمْ بِهٖ",
+      "d": "فِيْهِمْ مَّرَضٌ"
+    },
+    "correct_answers": ["a", "b"]
+  },
+  {
+    "id": 236,
+    "chapter_source": "Kisi-kisi No. 13",
+    "question_text": "Saat membaca Izhar Syafawi seperti pada 'لَمْ يَلِدْ', bibir harus...",
+    "options": {
+      "a": "Sedikit terbuka untuk dengung",
+      "b": "Tertutup rapat lalu dibuka dengan jelas tanpa dengung",
+      "c": "Bergetar",
+      "d": "Menempel pada gigi seri atas"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 237,
+    "chapter_source": "Kisi-kisi No. 14",
+    "question_text": "Dalam hadis tentang menyayangi anak yatim, Rasulullah Saw. mengisyaratkan kedekatan beliau dengan pemelihara anak yatim menggunakan...",
+    "options": {
+      "a": "Jari telunjuk dan jari tengah dirapatkan",
+      "b": "Kedua telapak tangan",
+      "c": "Jari jempol",
+      "d": "Jari kelingking"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 238,
+    "chapter_source": "Kisi-kisi No. 14",
+    "question_text": "Perilaku menyantuni anak yatim yang sesuai dengan tuntunan hadis adalah...",
+    "options": {
+      "a": "Memberi sisa makanan",
+      "b": "Memberi bantuan di depan banyak orang agar dipuji",
+      "c": "Mengurus kebutuhan pendidikan dan kehidupannya dengan ikhlas",
+      "d": "Mengambil alih harta warisan anak yatim"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 239,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Sikap 'menghardik' anak yatim yang dilarang keras dalam Islam mencakup...",
+    "options": {
+      "a": "Menasihatinya dengan lembut",
+      "b": "Membentak atau berkata kasar padanya",
+      "c": "Memberinya hadiah",
+      "d": "Mendoakannya"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 240,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Memuliakan anak yatim tidak hanya dengan materi, tetapi juga dengan... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Memberikan kasih sayang dan perhatian",
+      "b": "Menjaga perasaannya",
+      "c": "Memberikan pendidikan yang baik",
+      "d": "Membiarkannya melakukan apa saja",
+      "e": "Menghormatinya sebagai sesama manusia"
+    },
+    "correct_answers": ["a", "b", "c", "e"]
+  },
+  {
+    "id": 241,
+    "chapter_source": "Kisi-kisi No. 16",
+    "question_text": "Surah Al-Humazah ditujukan kepada orang yang memiliki sifat 'humazah' dan 'lumazah'. 'Humazah' berarti...",
+    "options": {
+      "a": "Pengumpat (mencela dari belakang)",
+      "b": "Pencela (mencela di hadapan)",
+      "c": "Pengadu domba",
+      "d": "Penumpuk harta"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 242,
+    "chapter_source": "Kisi-kisi No. 16",
+    "question_text": "Ancaman bagi para pengumpat dan pencela dalam Surah Al-Humazah adalah neraka...",
+    "options": {
+      "a": "Jahannam",
+      "b": "Saqar",
+      "c": "Huthamah",
+      "d": "Hawiyah"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 243,
+    "chapter_source": "Kisi-kisi No. 16",
+    "question_text": "Pesan utama yang terkandung dalam Surah Al-Humazah adalah larangan keras terhadap...",
+    "options": {
+      "a": "Perbuatan syirik",
+      "b": "Meninggalkan shalat",
+      "c": "Sifat sombong, merendahkan orang lain, dan terlalu cinta harta",
+      "d": "Berbuat curang dalam timbangan"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 244,
+    "chapter_source": "Kisi-kisi No. 17",
+    "question_text": "Bagaimana cara menerapkan isi kandungan Surah Al-Humazah dalam kehidupan sehari-hari?",
+    "options": {
+      "a": "Menjaga lisan agar tidak menyakiti orang lain",
+      "b": "Tidak sombong dengan harta atau kedudukan",
+      "c": "Menggunakan harta untuk kebaikan, bukan hanya ditumpuk",
+      "d": "Semua jawaban benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 245,
+    "chapter_source": "Kisi-kisi No. 17",
+    "question_text": "Orang yang mengira hartanya dapat mengekalkannya, sebagaimana disebut dalam Surah Al-Humazah, menunjukkan sifat...",
+    "options": {
+      "a": "Tawakal",
+      "b": "Qana'ah",
+      "c": "Tertipu oleh dunia",
+      "d": "Zuhud"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 246,
+    "chapter_source": "Kisi-kisi No. 18",
+    "question_text": "Kata 'Al-Bayyinah' dalam Surah Al-Bayyinah berarti...",
+    "options": {
+      "a": "Kabar gembira",
+      "b": "Bukti yang nyata",
+      "c": "Perpecahan",
+      "d": "Kitab suci"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 247,
+    "chapter_source": "Kisi-kisi No. 18",
+    "question_text": "Surah Al-Bayyinah menjelaskan bahwa inti ajaran para rasul, termasuk Nabi Muhammad Saw., adalah untuk menyembah Allah dengan...",
+    "options": {
+      "a": "Terpaksa",
+      "b": "Mengikuti nenek moyang",
+      "c": "Ikhlas dan lurus (hanif)",
+      "d": "Mengharapkan imbalan duniawi"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 248,
+    "chapter_source": "Kisi-kisi No. 18",
+    "question_text": "Siapakah yang disebut sebagai 'khairul bariyyah' (sebaik-baik makhluk) dalam Surah Al-Bayyinah?",
+    "options": {
+      "a": "Orang kafir dari Ahli Kitab",
+      "b": "Orang-orang musyrik",
+      "c": "Orang-orang yang beriman dan mengerjakan kebajikan",
+      "d": "Para malaikat"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 249,
+    "chapter_source": "Kisi-kisi No. 19",
+    "question_text": "Hadis tentang ciri-ciri orang munafik menyebutkan tiga tanda utama. Manakah yang TIDAK termasuk?",
+    "options": {
+      "a": "Jika berkata, ia dusta",
+      "b": "Jika berjanji, ia ingkar",
+      "c": "Jika dipercaya, ia khianat",
+      "d": "Jika makan, ia berlebihan"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 250,
+    "chapter_source": "Kisi-kisi No. 19",
+    "question_text": "Bagaimana sikap seorang muslim jika melihat temannya menunjukkan ciri-ciri kemunafikan?",
+    "options": {
+      "a": "Menjauhinya dan tidak mau berteman lagi",
+      "b": "Menasihatinya dengan cara yang baik dan bijaksana",
+      "c": "Menyebarkan berita tentang kemunafikannya",
+      "d": "Membiarkannya karena bukan urusan kita"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 251,
+    "chapter_source": "Kisi-kisi No. 20",
+    "question_text": "Dampak negatif dari perilaku khianat (tidak amanah) dalam masyarakat adalah...",
+    "options": {
+      "a": "Rusaknya kepercayaan dan hubungan antar individu",
+      "b": "Timbulnya ketidakadilan dan kerugian",
+      "c": "Sulitnya kerjasama dan pembangunan",
+      "d": "Semua jawaban benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 252,
+    "chapter_source": "Kisi-kisi No. 20",
+    "question_text": "Mengapa sifat munafik sangat berbahaya baik bagi diri sendiri maupun orang lain?",
+    "options": {
+      "a": "Karena merusak hubungan dengan Allah dan sesama manusia",
+      "b": "Karena menunjukkan kelemahan iman",
+      "c": "Karena dapat menimbulkan fitnah dan perpecahan",
+      "d": "Semua jawaban benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 253,
+    "chapter_source": "Kisi-kisi No. 21",
+    "question_text": "Menganalisis hadis tentang ciri-ciri orang munafik membantu kita untuk...",
+    "options": {
+      "a": "Menghakimi orang lain",
+      "b": "Introspeksi diri dan menjauhi sifat-sifat tersebut",
+      "c": "Merasa lebih baik dari orang lain",
+      "d": "Mencari-cari kesalahan teman"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 254,
+    "chapter_source": "Kisi-kisi No. 21",
+    "question_text": "Arti 'آيَةُ الْمُنَافِقِ ثَلَاثٌ' dalam hadis tentang ciri orang munafik adalah...",
+    "options": {
+      "a": "Orang munafik ada tiga",
+      "b": "Tanda orang munafik ada tiga",
+      "c": "Tiga bahaya munafik",
+      "d": "Balasan orang munafik ada tiga"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 255,
+    "chapter_source": "Kisi-kisi No. 22",
+    "question_text": "Perintah 'Iqra!' (Bacalah!) dalam Surah Al-'Alaq tidak hanya bermakna membaca tulisan, tetapi juga... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Membaca alam semesta",
+      "b": "Mempelajari ilmu pengetahuan",
+      "c": "Merenungkan tanda-tanda kebesaran Allah",
+      "d": "Membaca situasi dan kondisi",
+      "e": "Hanya membaca Al-Qur'an"
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 256,
+    "chapter_source": "Kisi-kisi No. 22",
+    "question_text": "Bagaimana mengaitkan perintah membaca dalam Surah Al-'Alaq dengan kemajuan teknologi saat ini?",
+    "options": {
+      "a": "Teknologi membuat kita malas membaca",
+      "b": "Memanfaatkan teknologi untuk mencari ilmu yang bermanfaat",
+      "c": "Menyebarkan berita bohong melalui teknologi",
+      "d": "Menggunakan teknologi hanya untuk bermain game"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 257,
+    "chapter_source": "Kisi-kisi No. 23",
+    "question_text": "Sikap yang sesuai dengan ayat 'الَّذِيْ عَلَّمَ بِالْقَلَمِۙ' (Yang mengajar (manusia) dengan pena) dalam Surah Al-'Alaq adalah...",
+    "options": {
+      "a": "Menghargai ilmu pengetahuan dan para pengajarnya",
+      "b": "Rajin mencatat pelajaran",
+      "c": "Menggunakan tulisan untuk menyebarkan kebaikan",
+      "d": "Semua jawaban benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 258,
+    "chapter_source": "Kisi-kisi No. 23",
+    "question_text": "Orang yang merasa cukup dengan dirinya sendiri dan melampaui batas ('كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ اَنْ رَّاٰهُ اسْتَغْنٰىۗ') sebagaimana disebut dalam Surah Al-'Alaq, menunjukkan sikap...",
+    "options": {
+      "a": "Tawadhu (rendah hati)",
+      "b": "Syukur",
+      "c": "Sombong dan lupa diri",
+      "d": "Sabar"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 259,
+    "chapter_source": "Kisi-kisi No. 24",
+    "question_text": "Hikmah utama dari adanya Lailatul Qadar yang nilainya lebih baik dari seribu bulan adalah...",
+    "options": {
+      "a": "Agar umat Islam bisa berleha-leha di malam lain",
+      "b": "Menunjukkan betapa besar rahmat dan kemurahan Allah kepada umat Nabi Muhammad Saw.",
+      "c": "Agar malam tersebut bisa dirayakan dengan pesta",
+      "d": "Sebagai malam turunnya semua kitab suci"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 260,
+    "chapter_source": "Kisi-kisi No. 24",
+    "question_text": "Mengapa Lailatul Qadar dirahasiakan waktu pastinya oleh Allah SWT?",
+    "options": {
+      "a": "Agar umat Islam tidak beribadah",
+      "b": "Agar umat Islam bersungguh-sungguh mencarinya di malam-malam terakhir Ramadhan",
+      "c": "Karena hanya Nabi Muhammad yang tahu",
+      "d": "Karena malam tersebut tidak terlalu penting"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 261,
+    "chapter_source": "Kisi-kisi No. 25",
+    "question_text": "Sikap yang paling tepat saat memasuki sepuluh malam terakhir Ramadhan, berdasarkan harapan meraih Lailatul Qadar adalah...",
+    "options": {
+      "a": "Memperbanyak tidur untuk persiapan Idul Fitri",
+      "b": "Meningkatkan kuantitas dan kualitas ibadah (shalat malam, zikir, doa, membaca Al-Qur'an)",
+      "c": "Sibuk berbelanja kebutuhan lebaran",
+      "d": "Mengurangi ibadah karena sudah lelah berpuasa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 262,
+    "chapter_source": "Kisi-kisi No. 25",
+    "question_text": "Ayat 'تَنَزَّلُ الْمَلٰۤىِٕكَةُ وَالرُّوْحُ فِيْهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۛ' menunjukkan bahwa pada Lailatul Qadar...",
+    "options": {
+      "a": "Setan-setan dibelenggu",
+      "b": "Para malaikat dan Jibril turun ke bumi membawa keberkahan dan mengatur urusan",
+      "c": "Pintu surga ditutup",
+      "d": "Manusia merasakan ketakutan"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 263,
+    "chapter_source": "Kisi-kisi No. 26",
+    "question_text": "Kata 'سَلٰمٌ ۛهِيَ حَتّٰى مَطْلَعِ الْفَجْرِࣖ' dalam Surah Al-Qadr menggambarkan suasana Lailatul Qadar yang...",
+    "options": {
+      "a": "Penuh ketakutan",
+      "b": "Penuh kedamaian dan keselamatan hingga terbit fajar",
+      "c": "Ramai dengan suara musik",
+      "d": "Gelap gulita"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 264,
+    "chapter_source": "Kisi-kisi No. 27",
+    "question_text": "Terjemahan yang paling tepat untuk ayat pertama Surah Al-Qadr, 'اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةِ الْقَدْرِ', adalah...",
+    "options": {
+      "a": "Malam kemuliaan itu lebih baik dari seribu bulan.",
+      "b": "Sesungguhnya Kami telah menurunkannya (Al-Qur'an) pada malam kemuliaan.",
+      "c": "Dan tahukah kamu apakah malam kemuliaan itu?",
+      "d": "Pada malam itu turun malaikat-malaikat dan Ruh."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 265,
+    "chapter_source": "Kisi-kisi No. 27",
+    "question_text": "Kata 'الْقَدْرِ' dalam Surah Al-Qadr memiliki beberapa makna, di antaranya... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Kemuliaan",
+      "b": "Penetapan/Ketentuan",
+      "c": "Kesempitan",
+      "d": "Kekuatan",
+      "e": "Ukuran"
+    },
+    "correct_answers": ["a", "b", "c"]
+  },
+  {
+    "id": 266,
+    "chapter_source": "Kisi-kisi No. 28",
+    "question_text": "Huruf Ra (ر) dibaca Jawazul Wajhain (boleh tebal/tafkhim atau tipis/tarqiq) pada kondisi tertentu, yaitu ketika Ra sukun didahului kasrah dan setelahnya bertemu huruf Isti'la yang...",
+    "options": {
+      "a": "Berharakat fathah",
+      "b": "Berharakat dhammah",
+      "c": "Berharakat kasrah",
+      "d": "Sukun"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 267,
+    "chapter_source": "Kisi-kisi No. 28",
+    "question_text": "Pada lafal 'مَرْيَمَ', hukum bacaan Ra adalah...",
+    "options": {
+      "a": "Tafkhim karena Ra sukun didahului fathah",
+      "b": "Tarqiq karena Ra sukun didahului kasrah",
+      "c": "Jawazul Wajhain",
+      "d": "Tafkhim karena setelahnya huruf Isti'la"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 268,
+    "chapter_source": "Kisi-kisi No. 28",
+    "question_text": "Pada lafal 'فِرْعَوْنَ', hukum bacaan Ra adalah...",
+    "options": {
+      "a": "Tafkhim karena Ra sukun didahului fathah",
+      "b": "Tarqiq karena Ra sukun didahului kasrah",
+      "c": "Jawazul Wajhain",
+      "d": "Tarqiq karena setelahnya bukan huruf Isti'la"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 269,
+    "chapter_source": "Kisi-kisi No. 29",
+    "question_text": "Manakah di antara lafal berikut yang mengandung hukum bacaan Ra Tafkhim?",
+    "options": {
+      "a": "اِرْجِعِيْ",
+      "b": "قِرْطَاسٍ",
+      "c": "مِرْصَادًا",
+      "d": "رَبِّ"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 270,
+    "chapter_source": "Kisi-kisi No. 29",
+    "question_text": "Manakah di antara lafal berikut yang mengandung hukum bacaan Ra Tarqiq?",
+    "options": {
+      "a": "اَمْرًا",
+      "b": "نُذُرِ",
+      "c": "خَيْرٌ",
+      "d": "بَصِيْرٌ"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 271,
+    "chapter_source": "Kisi-kisi No. 29",
+    "question_text": "Lafal 'مِصْرَ' saat waqaf (berhenti) dibaca dengan Ra...",
+    "options": {
+      "a": "Tafkhim",
+      "b": "Tarqiq",
+      "c": "Jawazul Wajhain (boleh keduanya)",
+      "d": "Tidak dibaca"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 272,
+    "chapter_source": "Kisi-kisi No. 30",
+    "question_text": "Hadis tentang keutamaan memberi riwayat Bukhari Muslim dari Abdullah Ibnu Umar r.a. menyatakan 'الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى'. Maksud 'Al-Yadul 'Ulya' (tangan di atas) adalah...",
+    "options": {
+      "a": "Tangan orang yang meminta",
+      "b": "Tangan orang yang memberi",
+      "c": "Tangan kanan",
+      "d": "Tangan penguasa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 273,
+    "chapter_source": "Kisi-kisi No. 30",
+    "question_text": "Mengapa memberi lebih utama daripada menerima (meminta)?",
+    "options": {
+      "a": "Karena menunjukkan posisi yang lebih tinggi secara fisik",
+      "b": "Karena menunjukkan kemuliaan, kemandirian, dan lebih dekat dengan sifat Allah Yang Maha Pemberi",
+      "c": "Karena orang yang memberi pasti lebih kaya",
+      "d": "Karena meminta adalah perbuatan tercela mutlak"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 274,
+    "chapter_source": "Kisi-kisi No. 30",
+    "question_text": "Hadis ini menganjurkan kita untuk memulai pemberian kepada...",
+    "options": {
+      "a": "Orang yang paling miskin",
+      "b": "Tetangga terdekat",
+      "c": "Orang yang menjadi tanggungan kita (keluarga)",
+      "d": "Pemimpin masyarakat"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 275,
+    "chapter_source": "Kisi-kisi No. 31",
+    "question_text": "Perilaku yang TIDAK sesuai dengan semangat hadis keutamaan memberi adalah...",
+    "options": {
+      "a": "Berusaha bekerja keras agar bisa memberi, bukan meminta",
+      "b": "Memberi dengan ikhlas tanpa mengharap balasan dari manusia",
+      "c": "Merasa rendah diri karena harus menerima bantuan",
+      "d": "Mendahulukan kebutuhan keluarga sebelum memberi kepada orang lain"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 276,
+    "chapter_source": "Kisi-kisi No. 31",
+    "question_text": "Seorang siswa menyisihkan sebagian uang jajannya untuk kotak amal di sekolah. Perilaku ini mencerminkan...",
+    "options": {
+      "a": "Semangat 'tangan di atas'",
+      "b": "Sifat boros",
+      "c": "Sifat kikir",
+      "d": "Keinginan untuk pamer"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 277,
+    "chapter_source": "Kisi-kisi No. 32",
+    "question_text": "Jika seseorang memiliki kelebihan rezeki, tindakan yang paling utama sesuai hadis keutamaan memberi adalah...",
+    "options": {
+      "a": "Menyimpannya untuk masa depan",
+      "b": "Membelanjakannya untuk barang mewah",
+      "c": "Memberikannya kepada orang yang membutuhkan, dimulai dari keluarga",
+      "d": "Menghambur-hamburkannya"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 278,
+    "chapter_source": "Kisi-kisi No. 32",
+    "question_text": "Bagaimana hadis keutamaan memberi dapat membentuk kesalehan sosial?",
+    "options": {
+      "a": "Mendorong kepedulian dan saling membantu antar sesama",
+      "b": "Mengurangi kesenjangan sosial",
+      "c": "Memperkuat ikatan persaudaraan",
+      "d": "Semua jawaban benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 279,
+    "chapter_source": "Kisi-kisi No. 33",
+    "question_text": "Ayat 'فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ' dalam Surah Al-Insyirah diulang dua kali untuk menegaskan...",
+    "options": {
+      "a": "Bahwa kesulitan akan datang dua kali",
+      "b": "Bahwa setiap satu kesulitan pasti akan diikuti oleh kemudahan (bahkan lebih dari satu)",
+      "c": "Bahwa kemudahan hanya datang setelah kesulitan yang sangat berat",
+      "d": "Pentingnya bersabar dalam kesulitan"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 280,
+    "chapter_source": "Kisi-kisi No. 33",
+    "question_text": "Arti 'Al-'Usr' adalah kesulitan, sedangkan 'Al-Yusr' adalah kemudahan. Penggunaan Alif Lam pada 'Al-'Usr' menunjukkan kesulitan yang spesifik, sedangkan تنوين pada 'Yusran' menunjukkan...",
+    "options": {
+      "a": "Kemudahan yang spesifik juga",
+      "b": "Kemudahan yang bersifat umum dan beragam (banyak)",
+      "c": "Kemudahan yang kecil",
+      "d": "Kemudahan yang sementara"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 281,
+    "chapter_source": "Kisi-kisi No. 33",
+    "question_text": "Surah Al-Insyirah diawali dengan menyebutkan nikmat Allah kepada Nabi Muhammad Saw. berupa pelapangan dada ('اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ'). Makna 'pelapangan dada' adalah...",
+    "options": {
+      "a": "Operasi jantung",
+      "b": "Kemudahan, ketenangan hati, dan kemampuan menerima wahyu serta menghadapi tantangan dakwah",
+      "c": "Menjadi orang yang kaya raya",
+      "d": "Memiliki tubuh yang kuat"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 282,
+    "chapter_source": "Kisi-kisi No. 34",
+    "question_text": "Sikap yang sesuai dengan ayat 'فَاِذَا فَرَغْتَ فَانْصَبْۙ' (Maka apabila engkau telah selesai (dari sesuatu urusan), tetaplah bekerja keras (untuk urusan yang lain)) adalah...",
+    "options": {
+      "a": "Bermalas-malasan setelah menyelesaikan satu tugas",
+      "b": "Segera melanjutkan dengan amal atau pekerjaan baik lainnya dengan sungguh-sungguh",
+      "c": "Merasa puas dan berhenti beramal",
+      "d": "Hanya bekerja jika disuruh"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 283,
+    "chapter_source": "Kisi-kisi No. 34",
+    "question_text": "Bagaimana Surah Al-Insyirah mengajarkan kita untuk optimis?",
+    "options": {
+      "a": "Dengan mengingatkan bahwa setiap kesulitan pasti ada jalan keluar dan kemudahan",
+      "b": "Dengan menyuruh kita berdoa saja",
+      "c": "Dengan menjanjikan kekayaan",
+      "d": "Dengan melarang kita berusaha"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 284,
+    "chapter_source": "Kisi-kisi No. 34",
+    "question_text": "Ayat terakhir Surah Al-Insyirah, 'وَاِلٰى رَبِّكَ فَارْغَبْࣖ' (dan hanya kepada Tuhanmulah engkau berharap), mengajarkan sikap...",
+    "options": {
+      "a": "Putus asa",
+      "b": "Tawakal dan hanya bersandar kepada Allah",
+      "c": "Mengharapkan bantuan manusia",
+      "d": "Sombong"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 285,
+    "chapter_source": "Kisi-kisi No. 35",
+    "question_text": "Arti potongan hadis 'صَدَقَةٌ جَارِيَةٌ' adalah...",
+    "options": {
+      "a": "Sedekah yang diberikan saat berlari",
+      "b": "Sedekah yang pahalanya terus mengalir",
+      "c": "Sedekah berupa air mengalir",
+      "d": "Sedekah yang banyak jumlahnya"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 286,
+    "chapter_source": "Kisi-kisi No. 35",
+    "question_text": "Arti potongan hadis 'عِلْمٌ يُنْتَفَعُ بِهِ' adalah...",
+    "options": {
+      "a": "Ilmu tentang sihir",
+      "b": "Ilmu yang hanya dihafal",
+      "c": "Ilmu yang bermanfaat (diajarkan atau diamalkan)",
+      "d": "Ilmu yang disembunyikan"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 287,
+    "chapter_source": "Kisi-kisi No. 35",
+    "question_text": "Arti potongan hadis 'وَلَدٌ صَالِحٌ يَدْعُو لَهُ' adalah...",
+    "options": {
+      "a": "Anak laki-laki yang tampan",
+      "b": "Anak yang kaya raya",
+      "c": "Anak saleh yang mendoakan orang tuanya",
+      "d": "Anak yang selalu meminta doa"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 288,
+    "chapter_source": "Kisi-kisi No. 36",
+    "question_text": "Contoh penerapan 'sedekah jariyah' dalam kehidupan sehari-hari adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Membangun masjid atau mushola",
+      "b": "Mewakafkan tanah untuk pemakaman",
+      "c": "Memberi makan fakir miskin sekali waktu",
+      "d": "Membuat sumur atau sumber air untuk umum",
+      "e": "Membelikan Al-Qur'an untuk dibaca di masjid"
+    },
+    "correct_answers": ["a", "b", "d", "e"]
+  },
+  {
+    "id": 289,
+    "chapter_source": "Kisi-kisi No. 36",
+    "question_text": "Bagaimana seorang siswa dapat mengamalkan 'ilmu yang bermanfaat'?",
+    "options": {
+      "a": "Menyimpan catatannya sendiri",
+      "b": "Mengajarkan teman yang belum paham pelajaran",
+      "c": "Menggunakan ilmunya untuk mencontek",
+      "d": "Merasa paling pintar di kelas"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 290,
+    "chapter_source": "Kisi-kisi No. 36",
+    "question_text": "Sikap yang perlu ditanamkan agar menjadi 'anak saleh yang mendoakan orang tua' adalah...",
+    "options": {
+      "a": "Hanya mendoakan jika disuruh",
+      "b": "Rajin beribadah dan berakhlak mulia",
+      "c": "Selalu mengingat jasa orang tua dan mendoakannya",
+      "d": "Jawaban b dan c benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 291,
+    "chapter_source": "Kisi-kisi No. 37",
+    "question_text": "Hadis tentang tiga amal saleh yang tidak terputus memberikan motivasi untuk melakukan investasi jangka panjang untuk...",
+    "options": {
+      "a": "Kehidupan dunia",
+      "b": "Kehidupan akhirat",
+      "c": "Kekayaan materi",
+      "d": "Popularitas"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 292,
+    "chapter_source": "Kisi-kisi No. 37",
+    "question_text": "Mengapa ketiga amal (sedekah jariyah, ilmu bermanfaat, anak saleh) pahalanya terus mengalir?",
+    "options": {
+      "a": "Karena sulit dilakukan",
+      "b": "Karena manfaatnya terus dirasakan oleh orang lain atau diri sendiri di akhirat",
+      "c": "Karena hanya bisa dilakukan oleh orang kaya",
+      "d": "Karena merupakan rukun Islam"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 293,
+    "chapter_source": "Kisi-kisi No. 37",
+    "question_text": "Bagaimana hadis ini merespon tantangan masyarakat global yang cenderung materialistis?",
+    "options": {
+      "a": "Mengajarkan bahwa kebahagiaan sejati bukan hanya materi",
+      "b": "Mendorong untuk fokus pada amal yang berdampak abadi",
+      "c": "Memberikan panduan investasi akhirat",
+      "d": "Semua jawaban benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 294,
+    "chapter_source": "Kisi-kisi No. 1 & 6",
+    "question_text": "Perbedaan mendasar antara Izhar Halqi dan Idgham Bighunnah terletak pada...",
+    "options": {
+      "a": "Jumlah hurufnya",
+      "b": "Cara membacanya (jelas vs melebur dgn dengung)",
+      "c": "Posisi terjadinya (di awal atau akhir kata)",
+      "d": "Jenis hurufnya (tebal atau tipis)"
+    },
+    "correct_answers": ["b"]
+  },
+   {
+    "id": 295,
+    "chapter_source": "Kisi-kisi No. 2 & 7",
+    "question_text": "Persamaan antara Ikhfa Haqiqi dan Iqlab adalah...",
+    "options": {
+      "a": "Keduanya melibatkan huruf Ba (ب)",
+      "b": "Keduanya dibaca dengan jelas",
+      "c": "Keduanya melibatkan proses menyamarkan atau mengubah bunyi Nun Sukun/Tanwin disertai dengung",
+      "d": "Keduanya hanya berlaku untuk Nun Sukun"
+    },
+    "correct_answers": ["c"]
+  },
+   {
+    "id": 296,
+    "chapter_source": "Kisi-kisi No. 11, 12, 13",
+    "question_text": "Di antara hukum Mim Sukun (Idgham Mimi, Ikhfa Syafawi, Izhar Syafawi), manakah yang paling sering terjadi dalam Al-Qur'an?",
+    "options": {
+      "a": "Idgham Mimi",
+      "b": "Ikhfa Syafawi",
+      "c": "Izhar Syafawi",
+      "d": "Ketiganya sama sering"
+    },
+    "correct_answers": ["c"]
+  },
+   {
+    "id": 297,
+    "chapter_source": "Kisi-kisi No. 9 & 10",
+    "question_text": "Surah Al-'Adiyat dan At-Tin sama-sama menyinggung tentang sifat dasar manusia. Surah Al-'Adiyat fokus pada sifat ingkar, sedangkan Surah At-Tin fokus pada...",
+    "options": {
+      "a": "Kemuliaan penciptaan dan potensi jatuh jika tidak beriman/beramal saleh",
+      "b": "Kecintaan pada harta",
+      "c": "Pentingnya bersyukur",
+      "d": "Balasan di akhirat"
+    },
+    "correct_answers": ["a"]
+  },
+   {
+    "id": 298,
+    "chapter_source": "Kisi-kisi No. 14 & 30",
+    "question_text": "Hadis tentang menyayangi anak yatim dan hadis tentang keutamaan memberi sama-sama menekankan pentingnya...",
+    "options": {
+      "a": "Mencari ilmu",
+      "b": "Kesalehan sosial dan kepedulian terhadap sesama",
+      "c": "Berbakti kepada orang tua",
+      "d": "Menjaga lisan"
+    },
+    "correct_answers": ["b"]
+  },
+   {
+    "id": 299,
+    "chapter_source": "Kisi-kisi No. 22 & 33",
+    "question_text": "Surah Al-'Alaq menekankan pentingnya memulai dengan ilmu ('Iqra'), sedangkan Surah Al-Insyirah memberikan...",
+    "options": {
+      "a": "Ancaman bagi pendusta",
+      "b": "Motivasi dan optimisme bahwa setelah kesulitan ada kemudahan",
+      "c": "Perintah shalat",
+      "d": "Kisah nabi terdahulu"
+    },
+    "correct_answers": ["b"]
+  },
+   {
+    "id": 300,
+    "chapter_source": "Kisi-kisi No. 19 & 16",
+    "question_text": "Sifat munafik (seperti berdusta dan khianat) yang dibahas dalam hadis memiliki kaitan erat dengan sifat tercela (mengumpat, mencela, cinta harta) yang dikecam dalam Surah Al-Humazah karena keduanya bersumber dari...",
+    "options": {
+      "a": "Kurangnya ilmu agama",
+      "b": "Penyakit hati seperti sombong, iri, dan tidak jujur",
+      "c": "Pengaruh lingkungan",
+      "d": "Kemiskinan"
+    },
+    "correct_answers": ["b"]
+  }
+]

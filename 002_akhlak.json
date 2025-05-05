@@ -1,0 +1,1209 @@
+[
+  {
+    "id": 501,
+    "chapter_source": "Asmaul Husna (Al-Qawiyy)",
+    "question_text": "Allah Swt. memiliki kekuatan yang mutlak dan tidak terbatas, tercermin dalam asmaul husna Al-Qawiyy. Bagaimana pemahaman sifat Al-Qawiyy ini seharusnya mempengaruhi sikap seorang mukmin ketika menghadapi kesulitan besar?",
+    "options": {
+      "a": "Merasa lemah dan mudah putus asa karena kesulitan terlalu besar.",
+      "b": "Menjadi sombong karena merasa didukung oleh Allah Yang Maha Kuat.",
+      "c": "Memohon pertolongan hanya kepada Allah Swt. dengan keyakinan penuh akan kekuatan-Nya.",
+      "d": "Mengandalkan kekuatan diri sendiri tanpa perlu berdoa."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 502,
+    "chapter_source": "Asmaul Husna (Al-Qawiyy)",
+    "question_text": "Peristiwa alam dahsyat seperti gempa bumi atau gunung meletus menunjukkan kebesaran dan kekuatan Allah (Al-Qawiyy). Sikap yang paling tepat dalam menghadapi fenomena ini adalah...",
+    "options": {
+      "a": "Menganggapnya sebagai kejadian biasa tanpa makna.",
+      "b": "Takut berlebihan hingga tidak berani beraktivitas.",
+      "c": "Meningkatkan keimanan dan ketakwaan serta menyadari kelemahan diri di hadapan Allah.",
+      "d": "Menyalahkan alam karena menyebabkan kerusakan."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 503,
+    "chapter_source": "Asmaul Husna (Al-Khabir)",
+    "question_text": "Al-Khabir berarti Allah Maha Mengetahui perkara yang tersembunyi dan detail. Bagaimana sifat ini seharusnya mencegah kita dari perbuatan riya' (pamer) dalam beribadah?",
+    "options": {
+      "a": "Karena Allah hanya melihat ibadah yang disaksikan banyak orang.",
+      "b": "Karena Allah mengetahui niat tulus atau tidak tulus di balik setiap amal, meskipun tersembunyi.",
+      "c": "Karena riya' akan menambah pahala ibadah.",
+      "d": "Karena orang lain tidak akan tahu jika kita riya'."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 504,
+    "chapter_source": "Asmaul Husna (Al-Khabir)",
+    "question_text": "Jika seseorang berbuat baik secara diam-diam tanpa diketahui orang lain, keyakinan pada sifat Allah Al-Khabir akan membuatnya merasa...",
+    "options": {
+      "a": "Sia-sia karena tidak ada yang memuji.",
+      "b": "Tenang dan ikhlas karena yakin Allah Maha Mengetahui perbuatannya.",
+      "c": "Perlu menceritakan kebaikannya agar diketahui.",
+      "d": "Ragu apakah perbuatannya dicatat."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 505,
+    "chapter_source": "Asmaul Husna (Al-Muhyi)",
+    "question_text": "Al-Muhyi artinya Allah Maha Menghidupkan. Selain menghidupkan makhluk dari kematian, makna Al-Muhyi juga mencakup kemampuan Allah untuk...",
+    "options": {
+      "a": "Mematikan makhluk hidup.",
+      "b": "Memberikan hidayah atau 'menghidupkan' hati yang mati (lalai).",
+      "c": "Menciptakan benda mati.",
+      "d": "Mengatur jalannya bintang."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 506,
+    "chapter_source": "Asmaul Husna (Al-Muhyi & Al-Mumit)",
+    "question_text": "Memahami sifat Al-Muhyi (Maha Menghidupkan) dan Al-Mumit (Maha Mematikan) secara bersamaan mengajarkan kita bahwa kehidupan dan kematian sepenuhnya berada dalam...",
+    "options": {
+      "a": "Kekuasaan manusia.",
+      "b": "Kekuasaan mutlak Allah Swt.",
+      "c": "Pengaruh alam semesta.",
+      "d": "Kemampuan dokter."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 507,
+    "chapter_source": "Asmaul Husna (Al-Mumit)",
+    "question_text": "Sifat Allah Al-Mumit mengingatkan kita akan kepastian datangnya kematian. Hikmah terbesar dari mengingat kematian adalah...",
+    "options": {
+      "a": "Menjadi takut dan tidak mau hidup.",
+      "b": "Mendorong kita untuk mempersiapkan bekal amal saleh sebanyak mungkin.",
+      "c": "Menjadi pesimis terhadap masa depan.",
+      "d": "Berfoya-foya selagi masih hidup."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 508,
+    "chapter_source": "Asmaul Husna (Al-Ba'its)",
+    "question_text": "Al-Ba'its artinya Allah Maha Membangkitkan makhluk dari kubur pada hari kiamat. Keyakinan pada sifat ini merupakan bagian penting dari iman kepada...",
+    "options": {
+      "a": "Malaikat",
+      "b": "Kitab-kitab Allah",
+      "c": "Hari Akhir",
+      "d": "Qada dan Qadar"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 509,
+    "chapter_source": "Asmaul Husna (Al-Ba'its)",
+    "question_text": "Bagaimana keyakinan pada Al-Ba'its mendorong kita untuk bertanggung jawab atas perbuatan di dunia?",
+    "options": {
+      "a": "Karena perbuatan di dunia tidak ada hubungannya dengan akhirat.",
+      "b": "Karena setelah dibangkitkan, semua amal perbuatan akan dihisab (diperhitungkan) dan dibalas.",
+      "c": "Karena kebangkitan hanya untuk orang-orang tertentu.",
+      "d": "Karena setelah dibangkitkan, semua dosa akan otomatis diampuni."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 510,
+    "chapter_source": "Asmaul Husna (Al-Wahid & Al-Ahad)",
+    "question_text": "Al-Wahid dan Al-Ahad keduanya menunjukkan keesaan Allah. Perbedaan penekanan antara Al-Wahid dan Al-Ahad adalah...",
+    "options": {
+      "a": "Al-Wahid menekankan esa dalam jumlah, Al-Ahad menekankan esa dalam Dzat, Sifat, dan Perbuatan (tidak ada sekutu/tandingan).",
+      "b": "Al-Wahid untuk Allah, Al-Ahad untuk malaikat.",
+      "c": "Al-Wahid berarti Maha Perkasa, Al-Ahad berarti Maha Esa.",
+      "d": "Tidak ada perbedaan makna sama sekali."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 511,
+    "chapter_source": "Asmaul Husna (Al-Wahid & Al-Ahad)",
+    "question_text": "Konsekuensi logis dari keimanan kepada Allah Yang Maha Esa (Al-Wahid, Al-Ahad) adalah menolak segala bentuk...",
+    "options": {
+      "a": "Syirik (menyekutukan Allah)",
+      "b": "Ibadah",
+      "c": "Amal saleh",
+      "d": "Ilmu pengetahuan"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 512,
+    "chapter_source": "Asmaul Husna (As-Samad)",
+    "question_text": "As-Samad berarti Allah adalah tempat bergantung segala sesuatu. Makhluk hidup membutuhkan Allah, sedangkan Allah...",
+    "options": {
+      "a": "Juga membutuhkan makhluk.",
+      "b": "Tidak membutuhkan apapun dari makhluk-Nya.",
+      "c": "Hanya membutuhkan ibadah makhluk.",
+      "d": "Bergantung pada alam semesta."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 513,
+    "chapter_source": "Asmaul Husna (As-Samad)",
+    "question_text": "Bagaimana cara meneladani sifat As-Samad dalam kehidupan sosial?",
+    "options": {
+      "a": "Menjadi sombong karena merasa tidak butuh orang lain.",
+      "b": "Berusaha menjadi pribadi yang mandiri dan bisa menjadi tempat bergantung (membantu) bagi orang lain dalam kebaikan.",
+      "c": "Selalu meminta bantuan orang lain untuk hal sepele.",
+      "d": "Mengisolasi diri dari masyarakat."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 514,
+    "chapter_source": "Asmaul Husna (Al-Ghaffar)",
+    "question_text": "Al-Ghaffar artinya Allah Maha Pengampun. Sifat ini memberikan harapan kepada hamba-Nya yang berbuat dosa untuk...",
+    "options": {
+      "a": "Terus menerus berbuat dosa karena pasti diampuni.",
+      "b": "Merasa putus asa dari rahmat Allah.",
+      "c": "Segera bertaubat dengan sungguh-sungguh dan memohon ampunan-Nya.",
+      "d": "Menunda-nunda taubat."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 515,
+    "chapter_source": "Asmaul Husna (Al-Ghaffar)",
+    "question_text": "Syarat diterimanya taubat selain memohon ampun kepada Allah (Al-Ghaffar) adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Menyesali perbuatan dosa.",
+      "b": "Berhenti dari perbuatan dosa tersebut.",
+      "c": "Bertekad kuat untuk tidak mengulanginya lagi.",
+      "d": "Jika berkaitan dengan hak orang lain, harus diselesaikan/minta maaf.",
+      "e": "Menceritakan dosa kepada semua orang."
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 516,
+    "chapter_source": "Asmaul Husna (Al-Waasi')",
+    "question_text": "Al-Waasi' berarti Allah Maha Luas (rahmat, ilmu, karunia-Nya). Pemahaman sifat ini seharusnya membuat kita...",
+    "options": {
+      "a": "Merasa sempit dalam menjalani hidup.",
+      "b": "Tidak mudah berputus asa dari rahmat Allah dan selalu optimis.",
+      "c": "Membatasi diri dalam mencari ilmu.",
+      "d": "Menjadi kikir karena takut karunia Allah habis."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 517,
+    "chapter_source": "Asmaul Husna (Al-Waasi')",
+    "question_text": "Kelapangan rezeki, keluasan ilmu pengetahuan, dan kemampuan memaafkan kesalahan orang lain adalah cerminan dari keluasan karunia Allah (Al-Waasi'). Bagaimana kita bisa meneladani sifat ini?",
+    "options": {
+      "a": "Dengan bersikap pelit ilmu dan harta.",
+      "b": "Dengan memiliki pandangan yang sempit.",
+      "c": "Dengan melapangkan hati untuk memaafkan, berbagi ilmu dan rezeki sesuai kemampuan.",
+      "d": "Dengan menyalahkan orang lain atas kesulitan kita."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 518,
+    "chapter_source": "Iman kepada Hari Akhir",
+    "question_text": "Tanda-tanda kiamat sughra (kecil) sudah banyak terjadi di sekitar kita. Contoh tanda kiamat sughra adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Munculnya Dajjal.",
+      "b": "Ilmu agama mulai dicabut (banyak ulama wafat).",
+      "c": "Terbitnya matahari dari barat.",
+      "d": "Banyak terjadi fitnah dan kemaksiatan.",
+      "e": "Waktu terasa berjalan lebih cepat."
+    },
+    "correct_answers": ["b", "d", "e"]
+  },
+  {
+    "id": 519,
+    "chapter_source": "Iman kepada Hari Akhir",
+    "question_text": "Yaumul Mizan adalah salah satu tahapan pada hari akhir yang artinya...",
+    "options": {
+      "a": "Hari kebangkitan dari kubur.",
+      "b": "Hari perhitungan amal (hisab).",
+      "c": "Hari penimbangan amal baik dan buruk.",
+      "d": "Hari pembalasan (surga atau neraka)."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 520,
+    "chapter_source": "Iman kepada Hari Akhir",
+    "question_text": "Bagaimana iman kepada hari akhir dapat mencegah seseorang dari berbuat zalim kepada orang lain?",
+    "options": {
+      "a": "Karena kezaliman akan menambah pahala.",
+      "b": "Karena pada hari akhir, semua kezaliman akan dimintai pertanggungjawaban dan diadili seadil-adilnya.",
+      "c": "Karena orang yang dizalimi tidak akan bisa menuntut.",
+      "d": "Karena hari akhir masih sangat lama."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 521,
+    "chapter_source": "Iman kepada Hari Akhir",
+    "question_text": "Surga digambarkan sebagai tempat penuh kenikmatan abadi, sedangkan neraka adalah tempat siksaan abadi. Perbedaan nasib ini ditentukan oleh...",
+    "options": {
+      "a": "Kekayaan di dunia.",
+      "b": "Jabatan di dunia.",
+      "c": "Iman dan amal perbuatan selama hidup di dunia.",
+      "d": "Keberuntungan semata."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 522,
+    "chapter_source": "Iman kepada Qada dan Qadar",
+    "question_text": "Qada adalah ketetapan Allah Swt. sejak zaman azali (dahulu kala) yang bersifat umum. Sedangkan Qadar adalah perwujudan atau realisasi dari Qada sesuai dengan ikhtiar makhluk. Mana contoh Qada?",
+    "options": {
+      "a": "Seseorang menjadi juara kelas karena rajin belajar.",
+      "b": "Ketetapan Allah bahwa setiap makhluk pasti akan mati.",
+      "c": "Seseorang sembuh dari sakit setelah berobat.",
+      "d": "Terjadinya pergantian siang dan malam."
+    },
+    "correct_answers": ["b", "d"] 
+  },
+  {
+    "id": 523,
+    "chapter_source": "Iman kepada Qada dan Qadar",
+    "question_text": "Takdir Mubram adalah ketentuan Allah yang pasti terjadi dan tidak dapat diubah oleh ikhtiar manusia. Contoh takdir mubram adalah...",
+    "options": {
+      "a": "Kecerdasan seseorang.",
+      "b": "Kekayaan seseorang.",
+      "c": "Jenis kelamin dan tanggal kematian seseorang.",
+      "d": "Kesehatan seseorang."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 524,
+    "chapter_source": "Iman kepada Qada dan Qadar",
+    "question_text": "Takdir Mu'allaq adalah ketentuan Allah yang pelaksanaannya dikaitkan dengan usaha atau ikhtiar manusia. Contoh takdir mu'allaq adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Kepandaian dapat diraih dengan belajar sungguh-sungguh.",
+      "b": "Kesehatan dapat dijaga dengan pola hidup sehat.",
+      "c": "Terbitnya matahari dari timur.",
+      "d": "Kemiskinan dapat diubah dengan kerja keras dan doa.",
+      "e": "Jenis kelamin saat lahir."
+    },
+    "correct_answers": ["a", "b", "d"]
+  },
+  {
+    "id": 525,
+    "chapter_source": "Iman kepada Qada dan Qadar",
+    "question_text": "Sikap yang salah dalam memahami iman kepada qada dan qadar adalah pasrah total tanpa mau berusaha (jabariyah) atau merasa semua hasil adalah murni usaha sendiri tanpa campur tangan Allah (qadariyah). Sikap yang benar (Ahlussunnah wal Jamaah) adalah...",
+    "options": {
+      "a": "Hanya berdoa tanpa berusaha.",
+      "b": "Berusaha semaksimal mungkin (ikhtiar) dan menyerahkan hasilnya kepada Allah (tawakal).",
+      "c": "Hanya berusaha tanpa berdoa dan tawakal.",
+      "d": "Menyalahkan takdir jika mengalami kegagalan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 526,
+    "chapter_source": "Iman kepada Qada dan Qadar",
+    "question_text": "Hikmah beriman kepada qada dan qadar adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Menumbuhkan sikap optimis dan tidak mudah putus asa.",
+      "b": "Menjauhkan diri dari sifat sombong jika berhasil.",
+      "c": "Menumbuhkan kesabaran dan ketabahan jika gagal.",
+      "d": "Membuat malas berusaha.",
+      "e": "Menenangkan jiwa karena yakin semua atas kehendak Allah."
+    },
+    "correct_answers": ["a", "b", "c", "e"]
+  },
+  {
+    "id": 527,
+    "chapter_source": "Kalimat Thayyibah (Istighfar)",
+    "question_text": "Kalimat istighfar (Astaghfirullahal 'adzim) diucapkan untuk memohon ampun kepada Allah. Waktu yang paling dianjurkan untuk memperbanyak istighfar adalah...",
+    "options": {
+      "a": "Hanya setelah melakukan dosa besar.",
+      "b": "Setiap saat, terutama setelah menyadari kesalahan atau kelalaian.",
+      "c": "Hanya di bulan Ramadhan.",
+      "d": "Saat merasa senang saja."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 528,
+    "chapter_source": "Kalimat Thayyibah (Istighfar)",
+    "question_text": "Mengucapkan istighfar bukan hanya untuk dosa besar, tetapi juga untuk kelalaian kecil atau kekurangan dalam ibadah. Hal ini menunjukkan sikap...",
+    "options": {
+      "a": "Merasa sudah sempurna.",
+      "b": "Selalu merasa kurang dalam beribadah dan butuh ampunan Allah.",
+      "c": "Menganggap remeh dosa kecil.",
+      "d": "Malas beribadah."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 529,
+    "chapter_source": "Kalimat Thayyibah (Hauqalah)",
+    "question_text": "Kalimat hauqalah (La haula wala quwwata illa billahil 'aliyyil 'adzim) artinya 'Tiada daya upaya dan kekuatan kecuali dengan pertolongan Allah Yang Maha Tinggi lagi Maha Agung'. Kalimat ini sebaiknya diucapkan ketika...",
+    "options": {
+      "a": "Mendapat nikmat yang besar.",
+      "b": "Merasa tidak mampu atau menghadapi kesulitan berat.",
+      "c": "Melihat sesuatu yang menakjubkan.",
+      "d": "Mendengar kabar gembira."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 530,
+    "chapter_source": "Kalimat Thayyibah (Hauqalah)",
+    "question_text": "Mengucapkan hauqalah mengajarkan kita sikap...",
+    "options": {
+      "a": "Sombong dan mengandalkan diri sendiri.",
+      "b": "Pasrah total tanpa usaha.",
+      "c": "Menyadari keterbatasan diri dan bersandar penuh pada kekuatan Allah.",
+      "d": "Pesimis dan mudah menyerah."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 531,
+    "chapter_source": "Kalimat Thayyibah (Tarji')",
+    "question_text": "Kalimat tarji' (Inna lillahi wa inna ilaihi raji'un) artinya 'Sesungguhnya kami milik Allah dan kepada-Nya lah kami akan kembali'. Kalimat ini dianjurkan diucapkan terutama ketika...",
+    "options": {
+      "a": "Mendapat hadiah.",
+      "b": "Mendengar atau mengalami musibah (kematian, kehilangan, dll).",
+      "c": "Merasa sangat gembira.",
+      "d": "Memulai suatu pekerjaan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 532,
+    "chapter_source": "Kalimat Thayyibah (Tarji')",
+    "question_text": "Mengucapkan kalimat tarji' saat tertimpa musibah menunjukkan...",
+    "options": {
+      "a": "Ketidakpedulian terhadap musibah.",
+      "b": "Sikap sabar, ridha atas ketentuan Allah, dan kesadaran bahwa semua berasal dari Allah dan akan kembali kepada-Nya.",
+      "c": "Kemarahan kepada Allah.",
+      "d": "Keinginan agar musibah bertambah."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 533,
+    "chapter_source": "Kalimat Thayyibah (Tahlil)",
+    "question_text": "Kalimat tahlil (La ilaha illallah) artinya 'Tiada Tuhan selain Allah'. Kalimat ini merupakan inti dari ajaran Islam, yaitu...",
+    "options": {
+      "a": "Syahadat",
+      "b": "Tauhid (mengesakan Allah)",
+      "c": "Akhlak terpuji",
+      "d": "Rukun haji"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 534,
+    "chapter_source": "Kalimat Thayyibah (Tahlil)",
+    "question_text": "Memperbanyak zikir tahlil memiliki banyak keutamaan, di antaranya adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Menguatkan keimanan dan ketauhidan.",
+      "b": "Menenangkan hati.",
+      "c": "Menghapus dosa.",
+      "d": "Menjadi kalimat terakhir yang diucapkan saat sakaratul maut.",
+      "e": "Membuat cepat kaya."
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 535,
+    "chapter_source": "Akhlak Terpuji (Sabar)",
+    "question_text": "Sabar bukan berarti diam pasrah tanpa usaha saat menghadapi kesulitan. Sabar yang benar adalah...",
+    "options": {
+      "a": "Menahan diri dari keluh kesah dan amarah, sambil terus berusaha mencari solusi dan bertawakal.",
+      "b": "Membiarkan masalah berlarut-larut.",
+      "c": "Menangis terus menerus.",
+      "d": "Menyalahkan orang lain."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 536,
+    "chapter_source": "Akhlak Terpuji (Sabar)",
+    "question_text": "Tingkatan sabar yang paling tinggi adalah sabar dalam...",
+    "options": {
+      "a": "Menghadapi musibah.",
+      "b": "Menjalankan ketaatan kepada Allah.",
+      "c": "Menjauhi kemaksiatan.",
+      "d": "Ketiga-tiganya sama penting dan membutuhkan kesabaran."
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 537,
+    "chapter_source": "Akhlak Terpuji (Taubat)",
+    "question_text": "Taubat Nasuha adalah taubat yang sungguh-sungguh dan memenuhi syarat. Mengapa taubat harus dilakukan sesegera mungkin setelah berbuat dosa?",
+    "options": {
+      "a": "Agar dosanya cepat dilupakan.",
+      "b": "Karena kita tidak tahu kapan ajal akan datang.",
+      "c": "Karena menunda taubat dapat mengeraskan hati dan membuat sulit kembali.",
+      "d": "Jawaban b dan c benar."
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 538,
+    "chapter_source": "Akhlak Terpuji (Disiplin)",
+    "question_text": "Disiplin dalam menjalankan ibadah shalat lima waktu tepat pada waktunya menunjukkan sikap...",
+    "options": {
+      "a": "Menghargai waktu dan perintah Allah.",
+      "b": "Terpaksa karena takut dihukum.",
+      "c": "Ingin dipuji orang lain.",
+      "d": "Tidak ada pilihan lain."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 539,
+    "chapter_source": "Akhlak Terpuji (Disiplin)",
+    "question_text": "Manfaat utama dari sikap disiplin dalam belajar bagi seorang siswa adalah...",
+    "options": {
+      "a": "Bisa bermain sepuasnya.",
+      "b": "Membuat guru senang.",
+      "c": "Membantu mencapai prestasi belajar yang optimal dan membentuk kebiasaan baik.",
+      "d": "Agar tidak dihukum."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 540,
+    "chapter_source": "Akhlak Terpuji (Mandiri)",
+    "question_text": "Sikap mandiri berarti berusaha melakukan sesuatu dengan kemampuan sendiri dan tidak selalu bergantung pada orang lain. Contoh sikap mandiri bagi siswa kelas 6 adalah...",
+    "options": {
+      "a": "Menyiapkan perlengkapan sekolah sendiri.",
+      "b": "Mengerjakan PR sendiri (boleh bertanya jika tidak paham).",
+      "c": "Merasa tidak perlu bantuan sama sekali dalam hal apapun.",
+      "d": "Jawaban a dan b benar."
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 541,
+    "chapter_source": "Akhlak Terpuji (Mandiri)",
+    "question_text": "Sikap mandiri sangat penting untuk masa depan karena...",
+    "options": {
+      "a": "Membuat kita dijauhi teman.",
+      "b": "Melatih tanggung jawab, kepercayaan diri, dan kemampuan menyelesaikan masalah.",
+      "c": "Membuat kita tidak perlu belajar.",
+      "d": "Menjamin kekayaan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 542,
+    "chapter_source": "Akhlak Terpuji (Pemaaf)",
+    "question_text": "Memaafkan kesalahan orang lain, meskipun sulit, memiliki keutamaan yang besar. Salah satu manfaat menjadi pemaaf bagi diri sendiri adalah...",
+    "options": {
+      "a": "Membuat orang lain semakin berani menyakiti kita.",
+      "b": "Menunjukkan kelemahan diri.",
+      "c": "Memberikan ketenangan hati dan melepaskan beban dendam.",
+      "d": "Membuat kita terlihat bodoh."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 543,
+    "chapter_source": "Akhlak Terpuji (Pemaaf)",
+    "question_text": "Allah Swt. bersifat Al-'Afuww (Maha Pemaaf). Meneladani sifat ini berarti kita berusaha untuk...",
+    "options": {
+      "a": "Mudah memaafkan kesalahan orang lain, terutama jika mereka meminta maaf.",
+      "b": "Menyimpan dendam selamanya.",
+      "c": "Menghukum orang yang bersalah seberat-beratnya.",
+      "d": "Tidak mau bergaul dengan orang yang pernah bersalah."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 544,
+    "chapter_source": "Akhlak Terpuji (Tanggung Jawab)",
+    "question_text": "Seorang siswa yang mendapat tugas piket kelas bertanggung jawab untuk...",
+    "options": {
+      "a": "Menyuruh teman lain mengerjakannya.",
+      "b": "Datang terlambat agar tidak perlu piket.",
+      "c": "Melaksanakan tugasnya membersihkan kelas dengan sebaik-baiknya sesuai jadwal.",
+      "d": "Mengotori kelas sebelum pulang."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 545,
+    "chapter_source": "Akhlak Terpuji (Tanggung Jawab)",
+    "question_text": "Setiap perbuatan kita akan dimintai pertanggungjawaban oleh Allah Swt. di akhirat kelak. Kesadaran ini seharusnya mendorong kita untuk...",
+    "options": {
+      "a": "Berbuat sesuka hati.",
+      "b": "Selalu berhati-hati dalam bertindak dan berbicara.",
+      "c": "Merasa tidak perlu bertanggung jawab.",
+      "d": "Menyalahkan orang lain atas perbuatan kita."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 546,
+    "chapter_source": "Akhlak Terpuji (Adil)",
+    "question_text": "Adil tidak selalu berarti sama rata, tetapi menempatkan sesuatu pada tempatnya atau memberikan hak sesuai dengan porsinya. Contoh sikap adil seorang guru adalah...",
+    "options": {
+      "a": "Memberikan nilai yang sama kepada semua murid tanpa melihat hasil ujian.",
+      "b": "Memberikan perhatian lebih hanya kepada murid yang pintar.",
+      "c": "Memberikan penilaian objektif berdasarkan kemampuan dan usaha setiap murid.",
+      "d": "Menghukum semua murid jika hanya satu yang bersalah."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 547,
+    "chapter_source": "Akhlak Terpuji (Adil)",
+    "question_text": "Perintah berlaku adil dalam Al-Qur'an ditujukan kepada semua orang, bahkan terhadap...",
+    "options": {
+      "a": "Keluarga sendiri saja.",
+      "b": "Orang yang kita sukai saja.",
+      "c": "Orang yang berbeda agama atau suku.",
+      "d": "Orang yang kita benci atau musuh sekalipun."
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 548,
+    "chapter_source": "Akhlak Terpuji (Bijaksana)",
+    "question_text": "Bijaksana (hikmah) berarti mampu bertindak sesuai dengan ilmu, pemahaman yang benar, dan mempertimbangkan akibat baik buruknya. Orang yang bijaksana akan...",
+    "options": {
+      "a": "Bertindak gegabah tanpa berpikir panjang.",
+      "b": "Mengambil keputusan berdasarkan emosi sesaat.",
+      "c": "Mampu menyelesaikan masalah dengan cara yang tepat dan adil.",
+      "d": "Selalu mengikuti pendapat orang banyak tanpa pertimbangan."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 549,
+    "chapter_source": "Akhlak Terpuji (Bijaksana)",
+    "question_text": "Contoh sikap bijaksana dalam menggunakan media sosial adalah...",
+    "options": {
+      "a": "Menyebarkan semua informasi yang diterima tanpa memeriksa kebenarannya.",
+      "b": "Menggunakan kata-kata kasar dan menyakiti orang lain.",
+      "c": "Berpikir sebelum memposting, menjaga privasi, dan menyebarkan hal-hal positif.",
+      "d": "Menghabiskan waktu berjam-jam hanya untuk bermain media sosial."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 550,
+    "chapter_source": "Akhlak Terpuji (Menyayangi Hewan & Tumbuhan)",
+    "question_text": "Memberi makan hewan peliharaan secara teratur dan tidak menyakitinya adalah bentuk kasih sayang. Mengapa Islam mengajarkan untuk menyayangi hewan?",
+    "options": {
+      "a": "Karena hewan bisa membalas budi.",
+      "b": "Karena hewan juga makhluk ciptaan Allah yang berhak diperlakukan dengan baik.",
+      "c": "Agar hewan bisa dimanfaatkan tenaganya.",
+      "d": "Hanya hewan tertentu yang boleh disayangi."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 551,
+    "chapter_source": "Akhlak Terpuji (Menyayangi Hewan & Tumbuhan)",
+    "question_text": "Menyiram tanaman, memberi pupuk, dan tidak merusaknya adalah cara menyayangi tumbuhan. Manfaat menjaga kelestarian tumbuhan bagi kehidupan manusia adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Menghasilkan oksigen untuk bernapas.",
+      "b": "Menjadi sumber makanan.",
+      "c": "Mencegah banjir dan erosi.",
+      "d": "Menjaga keindahan lingkungan.",
+      "e": "Menyebabkan polusi udara."
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 552,
+    "chapter_source": "Akhlak Tercela (Pemarah)",
+    "question_text": "Sifat pemarah (ghadab) adalah akhlak tercela karena seringkali menyebabkan seseorang...",
+    "options": {
+      "a": "Menjadi lebih sabar.",
+      "b": "Kehilangan kontrol diri, berkata kasar, atau bertindak gegabah.",
+      "c": "Disukai banyak orang.",
+      "d": "Mendapatkan solusi masalah."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 553,
+    "chapter_source": "Akhlak Tercela (Pemarah)",
+    "question_text": "Rasulullah Saw. bersabda bahwa orang yang kuat bukanlah yang pandai bergulat, tetapi orang yang mampu menahan dirinya ketika marah. Cara mengendalikan amarah yang diajarkan adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Mengubah posisi (dari berdiri menjadi duduk, dari duduk menjadi berbaring).",
+      "b": "Berwudhu.",
+      "c": "Membaca ta'awudz (A'udzu billahi minasy syaithanir rajim).",
+      "d": "Diam sejenak.",
+      "e": "Membalas dengan kemarahan yang lebih besar."
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 554,
+    "chapter_source": "Akhlak Tercela (Fasik)",
+    "question_text": "Fasik adalah sebutan bagi orang Islam yang mengetahui kebenaran tetapi secara sadar dan terus-menerus melakukan dosa besar atau meninggalkan kewajiban. Contoh perbuatan fasik adalah...",
+    "options": {
+      "a": "Tidak sengaja melakukan kesalahan kecil lalu bertaubat.",
+      "b": "Meninggalkan shalat wajib dengan sengaja dan tanpa penyesalan.",
+      "c": "Berbuat baik kepada tetangga.",
+      "d": "Rajin membaca Al-Qur'an."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 555,
+    "chapter_source": "Akhlak Tercela (Fasik)",
+    "question_text": "Bahaya dari sifat fasik adalah dapat merusak keimanan dan menjauhkan diri dari rahmat Allah. Cara menghindari sifat fasik adalah...",
+    "options": {
+      "a": "Bergaul dengan orang-orang saleh.",
+      "b": "Mempelajari ilmu agama dan mengamalkannya.",
+      "c": "Selalu bertaubat jika melakukan kesalahan.",
+      "d": "Semua jawaban benar."
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 556,
+    "chapter_source": "Akhlak Tercela (Pilih Kasih)",
+    "question_text": "Pilih kasih (tidak adil dalam perlakuan) adalah akhlak tercela. Mengapa sikap pilih kasih dilarang?",
+    "options": {
+      "a": "Karena dapat menimbulkan rasa iri hati dan permusuhan.",
+      "b": "Karena bertentangan dengan perintah berlaku adil.",
+      "c": "Karena dapat menyakiti perasaan orang yang diperlakukan tidak adil.",
+      "d": "Semua jawaban benar."
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 557,
+    "chapter_source": "Akhlak Tercela (Pilih Kasih)",
+    "question_text": "Seorang ketua kelompok yang hanya memberikan tugas mudah kepada teman dekatnya dan tugas berat kepada anggota lain menunjukkan sikap...",
+    "options": {
+      "a": "Adil",
+      "b": "Bijaksana",
+      "c": "Pilih kasih",
+      "d": "Tanggung jawab"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 558,
+    "chapter_source": "Akhlak Tercela (Iri Hati/Hasad)",
+    "question_text": "Iri hati (hasad) adalah perasaan tidak senang melihat orang lain mendapat nikmat dan berharap nikmat tersebut hilang darinya. Sifat ini sangat berbahaya karena...",
+    "options": {
+      "a": "Dapat 'memakan' amal kebaikan seperti api memakan kayu bakar.",
+      "b": "Menunjukkan ketidakpuasan terhadap takdir Allah.",
+      "c": "Dapat mendorong perbuatan buruk lainnya (ghibah, fitnah).",
+      "d": "Semua jawaban benar."
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 559,
+    "chapter_source": "Akhlak Tercela (Iri Hati/Hasad)",
+    "question_text": "Perasaan iri yang diperbolehkan (ghibthah) adalah iri dalam hal kebaikan, yaitu...",
+    "options": {
+      "a": "Iri melihat orang kaya dan berharap hartanya hilang.",
+      "b": "Iri melihat orang berilmu atau dermawan, lalu termotivasi untuk menjadi seperti mereka tanpa berharap nikmat mereka hilang.",
+      "c": "Iri melihat orang lain lebih cantik atau tampan.",
+      "d": "Iri melihat teman mendapat nilai bagus lalu menuduhnya mencontek."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 560,
+    "chapter_source": "Akhlak Tercela (Ghibah)",
+    "question_text": "Ghibah (menggunjing) didefinisikan sebagai membicarakan keburukan orang lain di belakangnya, yang jika ia dengar maka ia tidak suka. Mengapa ghibah dilarang keras dalam Islam?",
+    "options": {
+      "a": "Karena sama seperti memakan bangkai saudaranya sendiri.",
+      "b": "Karena dapat merusak kehormatan orang lain.",
+      "c": "Karena dapat menimbulkan permusuhan.",
+      "d": "Semua jawaban benar."
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 561,
+    "chapter_source": "Akhlak Tercela (Ghibah)",
+    "question_text": "Membicarakan fakta tentang keburukan seseorang kepada pihak yang berwenang (misalnya hakim atau polisi) untuk tujuan penegakan hukum atau mencegah kezaliman, tidak termasuk ghibah yang dilarang.",
+    "options": {
+      "a": "Benar",
+      "b": "Salah",
+      "c": "Tergantung siapa yang dibicarakan",
+      "d": "Tidak ada pengecualian"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 562,
+    "chapter_source": "Akhlak Tercela (Fitnah)",
+    "question_text": "Fitnah lebih kejam dari pembunuhan. Fitnah adalah menyebarkan berita bohong tentang seseorang dengan tujuan untuk...",
+    "options": {
+      "a": "Membantu orang tersebut.",
+      "b": "Menjatuhkan kehormatan atau mencelakakan orang tersebut.",
+      "c": "Memberikan informasi yang benar.",
+      "d": "Menghibur orang banyak."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 563,
+    "chapter_source": "Akhlak Tercela (Fitnah)",
+    "question_text": "Cara menghindari perbuatan fitnah di era digital saat ini adalah...",
+    "options": {
+      "a": "Menerima dan menyebarkan semua berita online tanpa terkecuali.",
+      "b": "Melakukan tabayyun (klarifikasi/cek kebenaran) sebelum menyebarkan informasi.",
+      "c": "Membuat berita bohong sendiri agar viral.",
+      "d": "Mengomentari semua postingan dengan kata-kata negatif."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 564,
+    "chapter_source": "Akhlak Tercela (Namimah)",
+    "question_text": "Namimah (adu domba) adalah memindahkan perkataan seseorang kepada orang lain dengan tujuan untuk merusak hubungan di antara mereka. Perbuatan ini sangat dibenci Allah karena...",
+    "options": {
+      "a": "Dapat menyebabkan perpecahan dan permusuhan yang hebat.",
+      "b": "Membuat orang menjadi akrab.",
+      "c": "Membantu menyelesaikan masalah.",
+      "d": "Menunjukkan kepedulian."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 565,
+    "chapter_source": "Akhlak Tercela (Namimah)",
+    "question_text": "Jika ada seseorang datang kepadamu membawa berita tentang orang lain yang berpotensi menimbulkan permusuhan, sikap yang bijaksana adalah...",
+    "options": {
+      "a": "Langsung mempercayainya dan membenci orang yang dibicarakan.",
+      "b": "Menyebarkan berita itu lebih luas lagi.",
+      "c": "Tidak mudah percaya, menasihati pembawa berita, dan berusaha menjaga hubungan baik dengan semua pihak.",
+      "d": "Mengadu domba kembali."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 566,
+    "chapter_source": "Kisah Nabi Yunus a.s.",
+    "question_text": "Nabi Yunus a.s. meninggalkan kaumnya di Ninawa karena marah dan putus asa mereka tidak mau beriman. Pelajaran penting dari tindakan Nabi Yunus ini adalah...",
+    "options": {
+      "a": "Boleh meninggalkan dakwah jika kaumnya sulit diajak.",
+      "b": "Pentingnya kesabaran dan tidak mudah putus asa dalam berdakwah.",
+      "c": "Kemarahan adalah solusi terbaik.",
+      "d": "Allah tidak menyukai orang yang sabar."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 567,
+    "chapter_source": "Kisah Nabi Yunus a.s.",
+    "question_text": "Doa yang dipanjatkan Nabi Yunus a.s. saat berada di dalam perut ikan nun, 'La ilaha illa anta subhanaka inni kuntu minadz dzalimin', mengandung pengakuan akan...",
+    "options": {
+      "a": "Kekuatan ikan nun.",
+      "b": "Keesaan Allah, kesucian-Nya, dan pengakuan atas kesalahan diri sendiri.",
+      "c": "Kehebatan Nabi Yunus.",
+      "d": "Kesalahan kaumnya."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 568,
+    "chapter_source": "Kisah Nabi Zakaria a.s.",
+    "question_text": "Meskipun sudah berusia lanjut dan istrinya mandul, Nabi Zakaria a.s. tidak pernah berhenti berdoa memohon keturunan kepada Allah Swt. Sikap ini menunjukkan...",
+    "options": {
+      "a": "Keputusasaan.",
+      "b": "Keyakinan yang kuat akan kekuasaan Allah dan tidak pernah putus harapan dari rahmat-Nya.",
+      "c": "Ketidakpercayaan pada takdir.",
+      "d": "Keinginan duniawi semata."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 569,
+    "chapter_source": "Kisah Nabi Zakaria a.s.",
+    "question_text": "Allah Swt. mengabulkan doa Nabi Zakaria a.s. dengan memberinya seorang putra, yaitu Nabi Yahya a.s. Hikmah dari kisah ini adalah...",
+    "options": {
+      "a": "Doa tidak akan pernah dikabulkan.",
+      "b": "Allah Maha Kuasa atas segala sesuatu dan doa adalah senjata orang mukmin.",
+      "c": "Hanya orang tua yang bisa punya anak.",
+      "d": "Usia lanjut menghalangi terkabulnya doa."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 570,
+    "chapter_source": "Kisah Nabi Yahya a.s.",
+    "question_text": "Nabi Yahya a.s. dikenal sebagai nabi yang sejak kecil sudah diberi hikmah (kebijaksanaan) dan sangat berbakti kepada orang tuanya serta bertakwa kepada Allah. Sifat utama yang dapat diteladani dari Nabi Yahya adalah...",
+    "options": {
+      "a": "Kekayaan materi.",
+      "b": "Ketakwaan, kebijaksanaan, dan bakti kepada orang tua.",
+      "c": "Kekuatan fisik.",
+      "d": "Kemampuan berperang."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 571,
+    "chapter_source": "Kisah Nabi Yahya a.s.",
+    "question_text": "Nabi Yahya a.s. berani menentang keinginan raja Herodes yang ingin menikahi keponakannya sendiri, meskipun berisiko tinggi. Keberanian Nabi Yahya ini didasarkan pada...",
+    "options": {
+      "a": "Keinginan mencari popularitas.",
+      "b": "Keteguhan dalam memegang kebenaran dan hukum Allah.",
+      "c": "Kebencian pribadi kepada raja.",
+      "d": "Perhitungan untung rugi duniawi."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 572,
+    "chapter_source": "Kisah Nabi Isa a.s.",
+    "question_text": "Salah satu mukjizat Nabi Isa a.s. adalah dapat berbicara saat masih bayi dalam buaian. Tujuan mukjizat ini adalah...",
+    "options": {
+      "a": "Untuk menunjukkan bahwa bayi bisa berbicara.",
+      "b": "Untuk membersihkan nama ibunya, Maryam, dari tuduhan keji kaumnya.",
+      "c": "Untuk menghibur Maryam.",
+      "d": "Untuk meminta makanan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 573,
+    "chapter_source": "Kisah Nabi Isa a.s.",
+    "question_text": "Nabi Isa a.s. diutus kepada Bani Israil untuk meluruskan ajaran Taurat yang telah diselewengkan dan membawa ajaran Injil. Ajaran utama Nabi Isa a.s. adalah...",
+    "options": {
+      "a": "Menyembah dirinya sendiri.",
+      "b": "Mengajak menyembah Allah Yang Maha Esa (Tauhid).",
+      "c": "Menghapuskan hukum Taurat.",
+      "d": "Mengajarkan sihir."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 574,
+    "chapter_source": "Kisah Nabi Isa a.s.",
+    "question_text": "Menurut akidah Islam, Nabi Isa a.s. tidak dibunuh ataupun disalib, melainkan...",
+    "options": {
+      "a": "Wafat karena sakit.",
+      "b": "Melarikan diri ke negeri lain.",
+      "c": "Dihilangkan oleh kaumnya.",
+      "d": "Diangkat oleh Allah Swt. ke langit dan akan turun kembali menjelang hari kiamat."
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 575,
+    "chapter_source": "Kisah Sahabat (Abu Bakar Ash-Shiddiq r.a.)",
+    "question_text": "Gelar Ash-Shiddiq yang diberikan kepada Abu Bakar r.a. berarti 'yang membenarkan'. Gelar ini diberikan karena beliau...",
+    "options": {
+      "a": "Selalu berkata benar.",
+      "b": "Orang pertama yang langsung membenarkan peristiwa Isra Mi'raj Nabi Muhammad Saw. tanpa keraguan.",
+      "c": "Sangat kaya raya.",
+      "d": "Pandai berperang."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 576,
+    "chapter_source": "Kisah Sahabat (Abu Bakar Ash-Shiddiq r.a.)",
+    "question_text": "Keteladanan utama Abu Bakar Ash-Shiddiq r.a. saat menjadi khalifah adalah ketegasannya dalam memerangi kaum murtad dan nabi palsu demi menjaga kemurnian akidah Islam. Ini menunjukkan sifat...",
+    "options": {
+      "a": "Lemah lembut.",
+      "b": "Pemarah.",
+      "c": "Tegas dalam kebenaran dan melindungi agama.",
+      "d": "Pengecut."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 577,
+    "chapter_source": "Kisah Sahabat (Umar bin Khattab r.a.)",
+    "question_text": "Umar bin Khattab r.a. mendapat gelar Al-Faruq yang artinya 'pembeda'. Makna gelar ini adalah...",
+    "options": {
+      "a": "Pembeda antara orang kaya dan miskin.",
+      "b": "Pembeda antara yang hak (benar) dan yang batil (salah).",
+      "c": "Pembeda suku Quraisy dan suku lain.",
+      "d": "Pembeda laki-laki dan perempuan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 578,
+    "chapter_source": "Kisah Sahabat (Umar bin Khattab r.a.)",
+    "question_text": "Keadilan Umar bin Khattab r.a. saat menjadi khalifah sangat terkenal. Salah satu contohnya adalah ketika beliau menghukum putranya sendiri yang bersalah. Sikap ini menunjukkan bahwa...",
+    "options": {
+      "a": "Hukum hanya berlaku untuk rakyat biasa.",
+      "b": "Keadilan harus ditegakkan tanpa pandang bulu, termasuk kepada keluarga sendiri.",
+      "c": "Umar tidak menyayangi putranya.",
+      "d": "Hukuman bisa dinegosiasikan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 579,
+    "chapter_source": "Kisah Sahabat (Utsman bin Affan r.a.)",
+    "question_text": "Utsman bin Affan r.a. dikenal dengan kedermawanannya yang luar biasa dan sifat pemalunya. Beliau mendapat gelar Dzun Nurain (Pemilik Dua Cahaya) karena...",
+    "options": {
+      "a": "Memiliki wajah yang sangat bercahaya.",
+      "b": "Menikahi dua putri Nabi Muhammad Saw. (Ruqayyah dan Ummu Kultsum).",
+      "c": "Memiliki dua pedang bercahaya.",
+      "d": "Melihat dua cahaya saat malam hari."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 580,
+    "chapter_source": "Kisah Sahabat (Utsman bin Affan r.a.)",
+    "question_text": "Jasa terbesar Utsman bin Affan r.a. saat menjadi khalifah adalah membukukan Al-Qur'an menjadi satu mushaf standar (Mushaf Utsmani) untuk menyatukan bacaan umat Islam. Tindakan ini menunjukkan...",
+    "options": {
+      "a": "Keinginan mengubah isi Al-Qur'an.",
+      "b": "Upaya menjaga keaslian dan kesatuan Al-Qur'an.",
+      "c": "Ketidaktahuan tentang Al-Qur'an.",
+      "d": "Persaingan dengan khalifah sebelumnya."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 581,
+    "chapter_source": "Kisah Sahabat (Ali bin Abi Thalib r.a.)",
+    "question_text": "Ali bin Abi Thalib r.a. adalah sepupu sekaligus menantu Nabi Muhammad Saw. Beliau dikenal dengan kecerdasan, keberanian, dan kezuhudannya. Keberanian Ali terbukti sejak usia muda ketika beliau...",
+    "options": {
+      "a": "Menjadi pedagang sukses.",
+      "b": "Menggantikan tidur di ranjang Nabi Saw. saat malam hijrah untuk mengelabui kaum kafir Quraisy.",
+      "c": "Menulis Al-Qur'an.",
+      "d": "Menjadi khalifah pertama."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 582,
+    "chapter_source": "Kisah Sahabat (Ali bin Abi Thalib r.a.)",
+    "question_text": "Ali bin Abi Thalib r.a. dijuluki 'Babul 'Ilmi' (Pintu Ilmu) oleh Nabi Muhammad Saw. karena...",
+    "options": {
+      "a": "Memiliki pintu rumah yang besar.",
+      "b": "Memiliki perpustakaan pribadi.",
+      "c": "Kedalaman dan keluasan ilmu pengetahuannya, terutama dalam bidang agama.",
+      "d": "Sering bertanya kepada Nabi Saw."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 583,
+    "chapter_source": "Kisah Luqman al-Hakim",
+    "question_text": "Luqman al-Hakim bukanlah seorang nabi, tetapi namanya diabadikan dalam Al-Qur'an karena nasihat-nasihatnya yang penuh hikmah kepada anaknya. Nasihat pertama dan utama Luqman adalah...",
+    "options": {
+      "a": "Larangan berbuat syirik (menyekutukan Allah).",
+      "b": "Perintah mencari kekayaan.",
+      "c": "Anjuran untuk berkelana.",
+      "d": "Cara berdagang yang sukses."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 584,
+    "chapter_source": "Kisah Luqman al-Hakim",
+    "question_text": "Salah satu nasihat Luqman kepada anaknya adalah agar berbakti kepada kedua orang tua, terutama ibu yang telah mengandung dan menyusuinya. Ini menunjukkan...",
+    "options": {
+      "a": "Pentingnya menghormati guru.",
+      "b": "Kedudukan tinggi orang tua dalam Islam dan wajibnya berbakti kepada mereka.",
+      "c": "Anak harus selalu menuruti semua keinginan orang tua meskipun salah.",
+      "d": "Orang tua tidak perlu dihormati."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 585,
+    "chapter_source": "Kisah Luqman al-Hakim",
+    "question_text": "Luqman juga menasihati anaknya agar tidak sombong dan angkuh saat berjalan di muka bumi. Sikap yang dianjurkan adalah...",
+    "options": {
+      "a": "Berjalan dengan congkak.",
+      "b": "Tawadhu (rendah hati) dan tidak meremehkan orang lain.",
+      "c": "Berjalan cepat-cepat.",
+      "d": "Tidak mau berjalan kaki."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 586,
+    "chapter_source": "Asmaul Husna (Kompilasi)",
+    "question_text": "Sifat Al-Qawiyy (Maha Kuat) dan Al-Khabir (Maha Mengetahui) saling melengkapi. Kekuatan Allah tidak terbatas, dan pengetahuan-Nya meliputi segala sesuatu. Ini berarti Allah menggunakan kekuatan-Nya dengan...",
+    "options": {
+      "a": "Semena-mena.",
+      "b": "Pengetahuan dan kebijaksanaan yang sempurna.",
+      "c": "Keraguan.",
+      "d": "Terbatas."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 587,
+    "chapter_source": "Asmaul Husna (Kompilasi)",
+    "question_text": "Keyakinan pada Al-Muhyi, Al-Mumit, dan Al-Ba'its membentuk pemahaman utuh tentang siklus kehidupan dan akhirat. Urutan yang benar adalah...",
+    "options": {
+      "a": "Kematian (Al-Mumit) -> Kehidupan (Al-Muhyi) -> Kebangkitan (Al-Ba'its).",
+      "b": "Kehidupan (Al-Muhyi) -> Kematian (Al-Mumit) -> Kebangkitan (Al-Ba'its).",
+      "c": "Kebangkitan (Al-Ba'its) -> Kehidupan (Al-Muhyi) -> Kematian (Al-Mumit).",
+      "d": "Kehidupan (Al-Muhyi) -> Kebangkitan (Al-Ba'its) -> Kematian (Al-Mumit)."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 588,
+    "chapter_source": "Asmaul Husna (Kompilasi)",
+    "question_text": "Sifat Al-Wahid, Al-Ahad, dan As-Samad menegaskan konsep Tauhid Rububiyah (Allah Esa dalam penciptaan, pengaturan) dan Tauhid Uluhiyah (Allah Esa sebagai satu-satunya tujuan ibadah dan tempat bergantung).",
+    "options": {
+      "a": "Pernyataan salah.",
+      "b": "Pernyataan benar.",
+      "c": "As-Samad tidak terkait Tauhid.",
+      "d": "Al-Wahid hanya terkait Rububiyah."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 589,
+    "chapter_source": "Asmaul Husna (Kompilasi)",
+    "question_text": "Memohon ampunan kepada Al-Ghaffar dan berharap pada keluasan rahmat Al-Waasi' adalah kombinasi sikap yang ideal bagi seorang pendosa yang ingin bertaubat, yaitu antara...",
+    "options": {
+      "a": "Sombong dan rendah diri.",
+      "b": "Khauf (takut akan siksa) dan Raja' (harap akan rahmat).",
+      "c": "Optimis dan pesimis.",
+      "d": "Marah dan sabar."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 590,
+    "chapter_source": "Iman kepada Hari Akhir & Qada Qadar",
+    "question_text": "Meskipun segala sesuatu telah ditetapkan (Qada dan Qadar), manusia tetap akan dihisab dan ditimbang amalnya (Yaumul Mizan) di hari akhir. Hal ini menunjukkan bahwa...",
+    "options": {
+      "a": "Takdir tidak ada gunanya.",
+      "b": "Manusia diberi kehendak bebas (ikhtiar) untuk memilih jalan hidupnya dan bertanggung jawab atas pilihannya.",
+      "c": "Hasil timbangan amal sudah pasti.",
+      "d": "Hari akhir tidak adil."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 591,
+    "chapter_source": "Kalimat Thayyibah & Akhlak",
+    "question_text": "Mengucapkan 'Astaghfirullah' (Istighfar) saat menyadari telah berbuat salah adalah langkah awal dari taubat. Langkah selanjutnya yang penting adalah...",
+    "options": {
+      "a": "Mengulangi kesalahan yang sama.",
+      "b": "Menyesal dan bertekad tidak mengulangi.",
+      "c": "Menceritakan dosa itu.",
+      "d": "Melupakan kesalahan itu."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 592,
+    "chapter_source": "Kalimat Thayyibah & Akhlak",
+    "question_text": "Ketika menghadapi situasi yang sangat sulit hingga merasa tidak berdaya, ucapan 'La haula wala quwwata illa billah' (Hauqalah) sebaiknya disertai dengan sikap...",
+    "options": {
+      "a": "Marah dan menyalahkan.",
+      "b": "Sabar dan tetap berusaha mencari jalan keluar sambil bertawakal.",
+      "c": "Putus asa total.",
+      "d": "Meminta bantuan jin."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 593,
+    "chapter_source": "Kalimat Thayyibah & Akhlak",
+    "question_text": "Ucapan 'Inna lillahi wa inna ilaihi raji'un' (Tarji') saat mendengar berita kematian mengingatkan kita akan sifat Allah Al-Mumit dan Al-Ba'its, serta pentingnya sikap...",
+    "options": {
+      "a": "Gembira.",
+      "b": "Sabar dan menerima takdir.",
+      "c": "Protes kepada Allah.",
+      "d": "Pura-pura tidak tahu."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 594,
+    "chapter_source": "Akhlak Terpuji & Tercela",
+    "question_text": "Sikap pemaaf sangat bertentangan dengan sikap pendendam dan pemarah. Orang yang mudah memaafkan cenderung memiliki hati yang...",
+    "options": {
+      "a": "Keras dan kasar.",
+      "b": "Lapang dan tenang.",
+      "c": "Penuh iri hati.",
+      "d": "Suka mengadu domba."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 595,
+    "chapter_source": "Akhlak Terpuji & Tercela",
+    "question_text": "Tanggung jawab dan disiplin adalah dua akhlak terpuji yang saling berkaitan. Orang yang bertanggung jawab biasanya akan...",
+    "options": {
+      "a": "Malas dan tidak disiplin.",
+      "b": "Disiplin dalam melaksanakan tugas dan kewajibannya.",
+      "c": "Menunda-nunda pekerjaan.",
+      "d": "Menyalahkan orang lain."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 596,
+    "chapter_source": "Akhlak Terpuji & Tercela",
+    "question_text": "Adil dan bijaksana seringkali berjalan beriringan. Keputusan yang adil biasanya lahir dari pertimbangan yang...",
+    "options": {
+      "a": "Gegabah dan emosional.",
+      "b": "Memihak satu sisi.",
+      "c": "Bijaksana dan matang.",
+      "d": "Menguntungkan diri sendiri."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 597,
+    "chapter_source": "Akhlak Terpuji & Tercela",
+    "question_text": "Sifat iri hati (hasad) dapat memicu perbuatan tercela lainnya seperti ghibah, fitnah, dan namimah. Mengapa demikian?",
+    "options": {
+      "a": "Karena orang yang iri ingin menjatuhkan orang yang diirikinya.",
+      "b": "Karena iri hati membuat orang menjadi baik.",
+      "c": "Karena ghibah adalah cara memuji.",
+      "d": "Karena fitnah adalah kejujuran."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 598,
+    "chapter_source": "Kisah Nabi & Sahabat",
+    "question_text": "Kesabaran Nabi Yunus setelah menyadari kesalahannya dan kesabaran Nabi Zakaria dalam berdoa adalah contoh konkret penerapan akhlak...",
+    "options": {
+      "a": "Pemarah.",
+      "b": "Sabar dan tidak putus asa.",
+      "c": "Pilih kasih.",
+      "d": "Mandiri."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 599,
+    "chapter_source": "Kisah Nabi & Sahabat",
+    "question_text": "Ketegasan Abu Bakar r.a. dan keadilan Umar bin Khattab r.a. dalam memimpin menunjukkan pentingnya sifat...",
+    "options": {
+      "a": "Pemaaf saja.",
+      "b": "Tanggung jawab, adil, dan bijaksana bagi seorang pemimpin.",
+      "c": "Mandiri dan disiplin saja.",
+      "d": "Pemarah dan fasik."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 600,
+    "chapter_source": "Kisah Nabi & Sahabat",
+    "question_text": "Kedermawanan Utsman bin Affan r.a. dan kecerdasan Ali bin Abi Thalib r.a. menunjukkan bahwa kelebihan yang Allah berikan sebaiknya digunakan untuk...",
+    "options": {
+      "a": "Kesombongan diri.",
+      "b": "Kepentingan pribadi semata.",
+      "c": "Kemajuan Islam dan kemaslahatan umat.",
+      "d": "Menjatuhkan orang lain."
+    },
+    "correct_answers": ["c"]
+  }
+]

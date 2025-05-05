@@ -26,8 +26,15 @@
 
   <div class="container">
     <h1>Latihan Ujian Interaktif</h1>
-    <!-- Upload Section -->
-    <div id="upload-section">
+    <!-- Subject Menu Section -->
+    <div id="subject-menu">
+      <p>Pilih mata pelajaran:</p>
+      <div id="subject-buttons">
+        <!-- Buttons will be added by JS -->
+      </div>
+    </div>
+    <!-- Upload Section (now hidden by default) -->
+    <div id="upload-section" style="display:none;">
       <p>Upload file soal ujian (format JSON):</p>
       <input type="file" id="file-input" accept="application/json">
       <div id="upload-error" style="color:red;"></div>
@@ -46,6 +53,7 @@
             <button id="next-btn" class="btn-next">Selanjutnya ⏭️</button>
             <button id="reset-btn" class="btn-reset">🔄 Reset</button>
             <button id="check-btn" class="btn-check">✔️ Periksa Jawaban</button>
+            <button id="back-to-menu-btn" class="btn-menu">⬅️ Kembali ke Menu</button> <!-- Added Back Button -->
           </div>
         </div>
         <div id="feedback"></div>

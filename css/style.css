@@ -105,6 +105,40 @@ h1 {
   font-weight: 600;
   letter-spacing: 0.5px;
 }
+
+/* --- Subject Menu Styles --- */
+#subject-menu {
+  text-align: center;
+  margin-bottom: 20px;
+}
+#subject-menu p {
+  font-size: 1.1em;
+  color: #3a4d39;
+  margin-bottom: 15px;
+}
+#subject-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+#subject-buttons button {
+  padding: 10px 15px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #e9f5db;
+  color: #3a4d39;
+  cursor: pointer;
+  transition: background-color 0.2s, border-color 0.2s;
+  min-width: 150px; /* Ensure buttons have a decent width */
+}
+#subject-buttons button:hover {
+  background-color: #d8eac6;
+  border-color: #b2c9a4;
+}
+/* --- End Subject Menu Styles --- */
+
 #question-box {
   margin-top: 18px;
   background: #f8f7f3;
@@ -195,6 +229,16 @@ h1 {
   background: #b2d8b2;
   color: #17421d;
 }
+/* Added style for Back to Menu button */
+.btn-menu {
+  background: #e0e0e0;
+  color: #555;
+}
+.btn-menu:hover:not(:disabled) {
+  background: #d0d0d0;
+  color: #333;
+}
+
 #feedback {
   margin: 12px 0 4px 0;
   font-weight: 600;

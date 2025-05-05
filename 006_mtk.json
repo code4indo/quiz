@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 601,
+    "kisi2_no": 10,
+    "question_text": "Hasil dari (3 1/4 - 1 5/6) : 2 1/2 + 1/3 adalah...",
+    "options": {
+      "a": "17/30",
+      "b": "1 1/30",
+      "c": "23/30",
+      "d": "5/6"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 602,
+    "kisi2_no": 10,
+    "question_text": "Ibu membeli 5 1/2 kg gula. Sebanyak 20% digunakan untuk membuat kue, dan 1 3/4 kg diberikan kepada nenek. Sisa gula ibu sekarang adalah... kg.",
+    "options": {
+      "a": "2 1/4",
+      "b": "2 13/20",
+      "c": "2 3/4",
+      "d": "3 13/20"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 603,
+    "kisi2_no": 10,
+    "question_text": "Sebuah drum berisi minyak 3/4 bagian. Ayah mengambil 1/3 dari minyak yang ada di drum. Jika sisa minyak sekarang 60 liter, berapa kapasitas penuh drum tersebut?",
+    "options": {
+      "a": 90,
+      "b": 100,
+      "c": 120,
+      "d": 150
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 604,
+    "kisi2_no": 10,
+    "question_text": "Hasil dari (2/3 x 1 1/5) : (1 - 1/4) adalah...",
+    "options": {
+      "a": "1 1/15",
+      "b": "1 2/15",
+      "c": "1 1/3",
+      "d": "1 4/15"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 605,
+    "kisi2_no": 10,
+    "question_text": "Pak Budi memiliki sebidang tanah. 2/5 bagian ditanami jagung, 1/3 bagian ditanami kedelai, dan sisanya 80 m² ditanami singkong. Luas tanah Pak Budi seluruhnya adalah... m².",
+    "options": {
+      "a": 240,
+      "b": 300,
+      "c": 360,
+      "d": 450
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 606,
+    "kisi2_no": 11,
+    "question_text": "Hasil dari 3,75 : (1 1/8 x 0,4) adalah...",
+    "options": {
+      "a": 7.5,
+      "b": 8.33,
+      "c": 8.5,
+      "d": 9.17
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 607,
+    "kisi2_no": 11,
+    "question_text": "Urutkan bilangan berikut dari yang terkecil: 115%; 1 1/6; 1,165; 9/8.",
+    "options": {
+      "a": "9/8; 115%; 1,165; 1 1/6",
+      "b": "9/8; 1,165; 115%; 1 1/6",
+      "c": "115%; 9/8; 1,165; 1 1/6",
+      "d": "9/8; 115%; 1 1/6; 1,165"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 608,
+    "kisi2_no": 11,
+    "question_text": "Sebuah toko memberikan diskon 15%. Jika harga sebuah baju setelah diskon adalah Rp 102.000, berapa harga baju sebelum diskon?",
+    "options": {
+      "a": "Rp 115.000",
+      "b": "Rp 117.300",
+      "c": "Rp 120.000",
+      "d": "Rp 125.000"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 609,
+    "kisi2_no": 11,
+    "question_text": "Ani memiliki 2,5 liter jus. Dia menuangkan jus ke dalam gelas-gelas bervolume 0,125 liter. Berapa sisa jus Ani jika dia sudah mengisi 18 gelas?",
+    "options": {
+      "a": "0,15 liter",
+      "b": "0,20 liter",
+      "c": "0,25 liter",
+      "d": "0,35 liter"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 610,
+    "kisi2_no": 11,
+    "question_text": "Nilai desimal dari 7/8 - 35% + 0,45 adalah...",
+    "options": {
+      "a": "0,975",
+      "b": "0,875",
+      "c": "0,925",
+      "d": "1,025"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 611,
+    "kisi2_no": 14,
+    "question_text": "Sebuah kubus memiliki volume 1.728 cm³. Jika panjang rusuk kubus tersebut diperbesar 1,5 kali, volume kubus yang baru adalah... cm³.",
+    "options": {
+      "a": "2.592",
+      "b": "3.888",
+      "c": "5.832",
+      "d": "4.096"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 612,
+    "kisi2_no": 14,
+    "question_text": "Sebuah balok memiliki perbandingan panjang : lebar : tinggi = 4 : 3 : 2. Jika luas permukaan balok tersebut 1.300 cm², volume balok adalah... cm³.",
+    "options": {
+      "a": 2400,
+      "b": 3000,
+      "c": 3600,
+      "d": 4800
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 613,
+    "kisi2_no": 14,
+    "question_text": "Volume sebuah kubus sama dengan volume sebuah balok dengan ukuran 16 cm x 12 cm x 9 cm. Selisih panjang rusuk kubus dan tinggi balok adalah... cm.",
+    "options": {
+      "a": 1,
+      "b": 2,
+      "c": 3,
+      "d": 4
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 614,
+    "kisi2_no": 14,
+    "question_text": "Sebuah akuarium berbentuk balok dengan ukuran bagian dalam 80 cm x 40 cm x 50 cm. Akuarium tersebut diisi air 3/4 bagian. Volume air dalam akuarium adalah... liter.",
+    "options": {
+      "a": 100,
+      "b": 120,
+      "c": 150,
+      "d": 160
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 615,
+    "kisi2_no": 13,
+    "question_text": "Akar pangkat tiga dari 9.261 adalah n. Nilai dari n x (n - 5) adalah...",
+    "options": {
+      "a": 336,
+      "b": 357,
+      "c": 420,
+      "d": 441
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 616,
+    "kisi2_no": 13,
+    "question_text": "Sebuah kotak berbentuk kubus dapat menampung 64 kubus satuan dengan rusuk 3 cm. Volume kotak tersebut adalah... cm³.",
+    "options": {
+      "a": 1728,
+      "b": 1944,
+      "c": 2197,
+      "d": 512
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 617,
+    "kisi2_no": 12,
+    "question_text": "Sebuah bangun ruang terbentuk dari dua kubus identik yang ditumpuk. Jika volume total bangun tersebut 432 cm³, luas permukaan bangun tersebut adalah... cm².",
+    "options": {
+      "a": 360,
+      "b": 396,
+      "c": 432,
+      "d": 512
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 618,
+    "kisi2_no": 12,
+    "question_text": "Sebuah balok kayu besar berukuran 60 cm x 48 cm x 72 cm akan dipotong menjadi kubus-kubus kecil dengan ukuran rusuk terbesar yang mungkin tanpa sisa. Berapa banyak kubus kecil yang dapat dibuat?",
+    "options": {
+      "a": 60,
+      "b": 80,
+      "c": 100,
+      "d": 120
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 619,
+    "kisi2_no": 15,
+    "question_text": "Titik A(-4, 5), B(6, 5), C(6, -3). Agar terbentuk bangun persegi panjang ABCD, koordinat titik D adalah...",
+    "options": {
+      "a": "(-4, -3)",
+      "b": "(-3, -4)",
+      "c": "(5, -3)",
+      "d": "(-4, 6)"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 620,
+    "kisi2_no": 15,
+    "question_text": "Diketahui titik P(2, -1) dan Q(7, 11). Jarak antara titik P dan Q adalah... satuan.",
+    "options": {
+      "a": "10",
+      "b": "12",
+      "c": "13",
+      "d": "15"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 621,
+    "kisi2_no": 15,
+    "question_text": "Titik K(x, y) dicerminkan terhadap sumbu Y menghasilkan bayangan K'(-3, 7). Koordinat titik K adalah...",
+    "options": {
+      "a": "(3, 7)",
+      "b": "(-3, -7)",
+      "c": "(3, -7)",
+      "d": "(7, -3)"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 622,
+    "kisi2_no": 15,
+    "question_text": "Sebuah segitiga memiliki titik sudut di L(-2, 1), M(5, 1). Jika luas segitiga LMN adalah 17,5 satuan luas dan N berada di atas garis LM, koordinat titik N yang mungkin adalah...",
+    "options": {
+      "a": "(0, 6)",
+      "b": "(1, 5)",
+      "c": "(1.5, 6)",
+      "d": "(2, 7)"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 623,
+    "kisi2_no": 16,
+    "question_text": "Rasio banyak kelereng Adi dan Budi adalah 3 : 5. Rasio banyak kelereng Budi dan Cici adalah 4 : 7. Jika jumlah kelereng mereka bertiga 201, banyak kelereng Cici adalah...",
+    "options": {
+      "a": 36,
+      "b": 60,
+      "c": 105,
+      "d": 84
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 624,
+    "kisi2_no": 16,
+    "question_text": "Perbandingan umur Ayah dan Ibu adalah 7 : 6. Perbandingan umur Ibu dan Anak adalah 8 : 3. Jika jumlah umur mereka bertiga 122 tahun, selisih umur Ayah dan Anak adalah... tahun.",
+    "options": {
+      "a": 25,
+      "b": 28,
+      "c": 31,
+      "d": 38
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 625,
+    "kisi2_no": 17,
+    "question_text": "Sebuah mobil memerlukan 8 liter bensin untuk menempuh jarak 96 km. Jika mobil tersebut akan menempuh jarak 150 km, berapa liter bensin yang diperlukan?",
+    "options": {
+      "a": "10 liter",
+      "b": "11,5 liter",
+      "c": "12 liter",
+      "d": "12,5 liter"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 626,
+    "kisi2_no": 17,
+    "question_text": "Untuk membuat 3 loyang kue diperlukan 750 gram tepung terigu. Jika Bu Ani ingin membuat 5 loyang kue yang sama, berapa kilogram tepung terigu yang dibutuhkan?",
+    "options": {
+      "a": "1,15 kg",
+      "b": "1,25 kg",
+      "c": "1,35 kg",
+      "d": "1,5 kg"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 627,
+    "kisi2_no": 18,
+    "question_text": "Sebuah pekerjaan dapat diselesaikan oleh 15 orang dalam 8 hari. Jika pekerjaan tersebut ingin diselesaikan dalam 6 hari, berapa tambahan pekerja yang dibutuhkan?",
+    "options": {
+      "a": 3,
+      "b": 4,
+      "c": 5,
+      "d": 6
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 628,
+    "kisi2_no": 18,
+    "question_text": "Harga 5 buku tulis adalah Rp 12.500. Jika Andi membeli 1 lusin (12 buah) buku tulis yang sama, berapa total uang yang harus dibayarkan Andi?",
+    "options": {
+      "a": "Rp 25.000",
+      "b": "Rp 27.500",
+      "c": "Rp 30.000",
+      "d": "Rp 32.500"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 629,
+    "kisi2_no": 19,
+    "question_text": "Dalam sebuah kantong terdapat 5 bola merah, 4 bola biru, dan 3 bola kuning. Jika diambil dua bola secara acak tanpa pengembalian, peluang terambilnya bola pertama merah dan bola kedua biru adalah...",
+    "options": {
+      "a": "5/33",
+      "b": "20/144",
+      "c": "20/132",
+      "d": "9/132"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 630,
+    "kisi2_no": 19,
+    "question_text": "Dua buah dadu dilempar bersamaan. Peluang munculnya mata dadu berjumlah 8 atau kedua mata dadu sama (kembar) adalah...",
+    "options": {
+      "a": "10/36",
+      "b": "11/36",
+      "c": "9/36",
+      "d": "5/18"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 631,
+    "kisi2_no": 20,
+    "question_text": "Data nilai ulangan matematika kelas 6: 8, 7, 9, 6, 8, 10, 7, 8, 9, 7, 6, 8. Mean (rata-rata) dan modus dari data tersebut berturut-turut adalah...",
+    "options": {
+      "a": "7,5 dan 8",
+      "b": "7,75 dan 8",
+      "c": "7,75 dan 7",
+      "d": "8 dan 8"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 632,
+    "kisi2_no": 20,
+    "question_text": "Median dari data nilai ulangan berikut: 70, 85, 90, 65, 75, 80, 95, 60, 70, 80 adalah...",
+    "options": {
+      "a": "75",
+      "b": "77,5",
+      "c": "80",
+      "d": "82,5"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 633,
+    "kisi2_no": 20,
+    "question_text": "Diagram batang menunjukkan hasil panen padi selama 5 tahun (dalam ton): 2019=5, 2020=7, 2021=6, 2022=8, 2023=9. Rata-rata hasil panen padi selama 5 tahun tersebut adalah... ton.",
+    "options": {
+      "a": "6,8",
+      "b": "7",
+      "c": "7,2",
+      "d": "7,5"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 634,
+    "kisi2_no": 20,
+    "question_text": "Rata-rata nilai 5 siswa adalah 78. Jika ditambah nilai seorang siswa baru, rata-ratanya menjadi 80. Berapa nilai siswa baru tersebut?",
+    "options": {
+      "a": "88",
+      "b": "90",
+      "c": "92",
+      "d": "96"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 635,
+    "kisi2_no": 10,
+    "question_text": "Seutas tali panjangnya 12 1/2 meter. Tali tersebut dipotong menjadi 5 bagian sama panjang. Kemudian setiap bagian dipotong lagi menjadi 2 bagian sama panjang. Panjang setiap potongan tali terakhir adalah... meter.",
+    "options": {
+      "a": "1 1/4",
+      "b": "1 1/2",
+      "c": "2 1/4",
+      "d": "2 1/2"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 636,
+    "kisi2_no": 10,
+    "question_text": "Dalam sebuah kelas, 3/8 siswanya laki-laki. Jika jumlah siswa perempuan 25 orang, berapa jumlah seluruh siswa di kelas tersebut?",
+    "options": {
+      "a": 35,
+      "b": 40,
+      "c": 45,
+      "d": 50
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 637,
+    "kisi2_no": 11,
+    "question_text": "Sebuah mobil menempuh jarak 180 km dengan kecepatan rata-rata 60 km/jam. Jika mobil berangkat pukul 07.15 dan istirahat selama 25 menit di perjalanan, pukul berapa mobil tiba di tujuan?",
+    "options": {
+      "a": "10.15",
+      "b": "10.30",
+      "c": "10.40",
+      "d": "11.00"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 638,
+    "kisi2_no": 11,
+    "question_text": "Harga 1 kg apel adalah Rp 35.000. Jika Ibu membeli 2,4 kg apel dan membayar dengan uang Rp 100.000, berapa kembalian yang diterima Ibu?",
+    "options": {
+      "a": "Rp 14.000",
+      "b": "Rp 15.000",
+      "c": "Rp 16.000",
+      "d": "Rp 18.000"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 639,
+    "kisi2_no": 14,
+    "question_text": "Luas alas sebuah kubus adalah 144 cm². Volume kubus tersebut adalah... cm³.",
+    "options": {
+      "a": "1.000",
+      "b": "1.331",
+      "c": "1.728",
+      "d": "2.197"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 640,
+    "kisi2_no": 14,
+    "question_text": "Sebuah balok memiliki panjang 15 cm, lebar 8 cm, dan luas permukaannya 700 cm². Tinggi balok tersebut adalah... cm.",
+    "options": {
+      "a": 9,
+      "b": 10,
+      "c": 11,
+      "d": 12
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 641,
+    "kisi2_no": 13,
+    "question_text": "Nilai dari (³√13.824) : (³√512) adalah...",
+    "options": {
+      "a": 2,
+      "b": 3,
+      "c": 4,
+      "d": 6
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 642,
+    "kisi2_no": 12,
+    "question_text": "Sebuah bak mandi berbentuk kubus dengan panjang rusuk bagian dalam 90 cm. Jika bak tersebut terisi air 2/3 bagian, berapa liter volume air dalam bak tersebut?",
+    "options": {
+      "a": 486,
+      "b": 512,
+      "c": 648,
+      "d": 729
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 643,
+    "kisi2_no": 15,
+    "question_text": "Titik P(-5, -2) digeser 7 satuan ke kanan dan 4 satuan ke atas. Koordinat bayangan titik P adalah...",
+    "options": {
+      "a": "(2, 2)",
+      "b": "(-12, 2)",
+      "c": "(2, -6)",
+      "d": "(-12, -6)"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 644,
+    "kisi2_no": 15,
+    "question_text": "Diketahui titik A(1, 2), B(7, 2), dan C(4, 6). Luas segitiga ABC adalah... satuan luas.",
+    "options": {
+      "a": 10,
+      "b": 12,
+      "c": 14,
+      "d": 16
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 645,
+    "kisi2_no": 16,
+    "question_text": "Rasio uang Ali dan Bima adalah 5 : 8. Jika jumlah uang mereka Rp 195.000, selisih uang mereka adalah...",
+    "options": {
+      "a": "Rp 30.000",
+      "b": "Rp 35.000",
+      "c": "Rp 40.000",
+      "d": "Rp 45.000"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 646,
+    "kisi2_no": 17,
+    "question_text": "Seorang peternak memiliki persediaan makanan untuk 40 ekor sapi selama 15 hari. Jika peternak tersebut menjual 10 ekor sapinya, persediaan makanan akan habis dalam... hari.",
+    "options": {
+      "a": 18,
+      "b": 20,
+      "c": 22,
+      "d": 25
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 647,
+    "kisi2_no": 18,
+    "question_text": "Skala sebuah peta adalah 1 : 2.500.000. Jika jarak dua kota pada peta adalah 6 cm, jarak sebenarnya kedua kota tersebut adalah... km.",
+    "options": {
+      "a": 120,
+      "b": 150,
+      "c": 180,
+      "d": 250
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 648,
+    "kisi2_no": 19,
+    "question_text": "Sebuah koin dan sebuah dadu dilempar bersamaan. Peluang munculnya sisi Angka pada koin dan mata dadu bilangan prima adalah...",
+    "options": {
+      "a": "1/4",
+      "b": "1/3",
+      "c": "3/12",
+      "d": "1/2"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 649,
+    "kisi2_no": 19,
+    "question_text": "Dari seperangkat kartu bridge (remi), diambil sebuah kartu secara acak. Peluang terambilnya kartu As atau kartu berwarna merah adalah...",
+    "options": {
+      "a": "28/52",
+      "b": "30/52",
+      "c": "7/13",
+      "d": "15/26"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 650,
+    "kisi2_no": 20,
+    "question_text": "Data berat badan (kg) siswa kelas 6: 35, 38, 36, 40, 38, 35, 39, 38, 37, 36. Median dan modus data tersebut adalah...",
+    "options": {
+      "a": "37 dan 38",
+      "b": "37,5 dan 38",
+      "c": "38 dan 38",
+      "d": "37,5 dan 36"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 651,
+    "kisi2_no": 10,
+    "question_text": "Pak Ali memanen 1 1/2 ton padi. Sebanyak 1/5 bagian dijual, dan 3/4 ton disimpan untuk kebutuhan sendiri. Sisanya dibagikan kepada 3 tetangganya sama banyak. Berapa kuintal padi yang diterima setiap tetangga?",
+    "options": {
+      "a": "1,5 kuintal",
+      "b": "1,75 kuintal",
+      "c": "2 kuintal",
+      "d": "2,5 kuintal"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 652,
+    "kisi2_no": 10,
+    "question_text": "Hasil dari 4 2/3 : 1 1/6 - 2 1/4 x 2/3 adalah...",
+    "options": {
+      "a": "1 1/2",
+      "b": "2",
+      "c": "2 1/2",
+      "d": "3"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 653,
+    "kisi2_no": 11,
+    "question_text": "Suhu udara di kota A adalah 25,5°C. Suhu udara di kota B 8,75°C lebih rendah dari kota A. Suhu udara di kota C 3,2°C lebih tinggi dari kota B. Berapa selisih suhu udara kota A dan kota C?",
+    "options": {
+      "a": "5,55°C",
+      "b": "5,75°C",
+      "c": "6,05°C",
+      "d": "6,25°C"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 654,
+    "kisi2_no": 11,
+    "question_text": "Bentuk pecahan paling sederhana dari 0,875 adalah...",
+    "options": {
+      "a": "3/4",
+      "b": "5/6",
+      "c": "7/8",
+      "d": "8/9"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 655,
+    "kisi2_no": 14,
+    "question_text": "Sebuah balok kayu berukuran 25 cm x 15 cm x 10 cm dicat seluruh permukaannya. Kemudian balok tersebut dipotong-potong menjadi kubus satuan dengan rusuk 5 cm. Berapa banyak kubus satuan yang dua sisinya terkena cat?",
+    "options": {
+      "a": "16",
+      "b": "20",
+      "c": "24",
+      "d": "32"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 656,
+    "kisi2_no": 13,
+    "question_text": "Jika a = ³√27 dan b = ³√216, maka nilai dari (a + b)³ adalah...",
+    "options": {
+      "a": "216",
+      "b": "512",
+      "c": "729",
+      "d": "1000"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 657,
+    "kisi2_no": 12,
+    "question_text": "Luas permukaan sebuah kubus adalah 864 cm². Volume kubus tersebut adalah... cm³.",
+    "options": {
+      "a": "1000",
+      "b": "1331",
+      "c": "1728",
+      "d": "2197"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 658,
+    "kisi2_no": 15,
+    "question_text": "Titik M(4, -6) dicerminkan terhadap sumbu X, kemudian hasilnya digeser 3 satuan ke kiri dan 5 satuan ke atas. Koordinat bayangan akhir titik M adalah...",
+    "options": {
+      "a": "(1, 11)",
+      "b": "(7, -1)",
+      "c": "(1, 1)",
+      "d": "(7, 11)"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 659,
+    "kisi2_no": 16,
+    "question_text": "Perbandingan siswa laki-laki dan perempuan di kelas 6 adalah 4 : 5. Jika selisih banyak siswa laki-laki dan perempuan adalah 6 orang, jumlah seluruh siswa kelas 6 adalah...",
+    "options": {
+      "a": 48,
+      "b": 54,
+      "c": 60,
+      "d": 63
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 660,
+    "kisi2_no": 17,
+    "question_text": "Seorang penjahit dapat menyelesaikan 4 potong baju dalam 6 jam. Jika dia bekerja selama 9 jam, berapa potong baju yang dapat diselesaikan?",
+    "options": {
+      "a": 5,
+      "b": 6,
+      "c": 7,
+      "d": 8
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 661,
+    "kisi2_no": 18,
+    "question_text": "Jarak kota P ke kota Q pada peta dengan skala 1 : 1.500.000 adalah 8 cm. Sebuah mobil berangkat dari kota P pukul 06.00 dengan kecepatan rata-rata 50 km/jam. Pukul berapa mobil tersebut tiba di kota Q?",
+    "options": {
+      "a": "08.12",
+      "b": "08.24",
+      "c": "08.36",
+      "d": "08.48"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 662,
+    "kisi2_no": 19,
+    "question_text": "Dalam sebuah acara, disediakan 3 jenis minuman (teh, kopi, susu) dan 4 jenis makanan (roti, pisang goreng, lemper, pastel). Jika setiap tamu boleh memilih satu minuman dan satu makanan, berapa banyak kombinasi pilihan yang mungkin?",
+    "options": {
+      "a": 7,
+      "b": 10,
+      "c": 12,
+      "d": 15
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 663,
+    "kisi2_no": 20,
+    "question_text": "Nilai rata-rata ulangan IPA dari 20 siswa adalah 75. Jika 5 siswa dengan nilai rata-rata 85 ikut bergabung, berapa nilai rata-rata gabungan sekarang?",
+    "options": {
+      "a": "76",
+      "b": "77",
+      "c": "78",
+      "d": "79"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 664,
+    "kisi2_no": 10,
+    "question_text": "Hitunglah: (1/2 + 1/3) / (1/2 - 1/3) x 1/5",
+    "options": {
+      "a": "1/6",
+      "b": "1",
+      "c": "5/6",
+      "d": "6/5"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 665,
+    "kisi2_no": 11,
+    "question_text": "Seorang pedagang membeli 50 kg beras dengan harga Rp 9.500/kg. Ia menjual 60% beras tersebut dengan keuntungan 20% dan sisanya dengan kerugian 10%. Berapa total keuntungan atau kerugian pedagang tersebut?",
+    "options": {
+      "a": "Untung Rp 28.500",
+      "b": "Rugi Rp 28.500",
+      "c": "Untung Rp 38.000",
+      "d": "Untung Rp 19.000"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 666,
+    "kisi2_no": 14,
+    "question_text": "Sebuah bak berbentuk balok dengan alas persegi. Jika volume bak 12.500 liter dan tinggi bak 2 meter, panjang sisi alas bak adalah... dm.",
+    "options": {
+      "a": "20",
+      "b": "25",
+      "c": "30",
+      "d": "35"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 667,
+    "kisi2_no": 13,
+    "question_text": "Hasil dari 6³ - ³√4.096 x 2³ adalah...",
+    "options": {
+      "a": 88,
+      "b": 108,
+      "c": 128,
+      "d": 144
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 668,
+    "kisi2_no": 15,
+    "question_text": "Garis k melalui titik (2, 5) dan (-1, -4). Gradien garis k adalah...",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "1/3",
+      "d": "-3"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 669,
+    "kisi2_no": 16,
+    "question_text": "Dalam sebuah adonan roti, rasio tepung terigu dan gula adalah 5 : 2. Jika digunakan 600 gram tepung terigu, berapa banyak gula yang dibutuhkan?",
+    "options": {
+      "a": "120 gram",
+      "b": "200 gram",
+      "c": "240 gram",
+      "d": "300 gram"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 670,
+    "kisi2_no": 17,
+    "question_text": "Debit air sebuah keran adalah 15 liter/menit. Berapa lama waktu yang dibutuhkan untuk mengisi bak bervolume 1,8 m³?",
+    "options": {
+      "a": "1 jam 20 menit",
+      "b": "1 jam 45 menit",
+      "c": "2 jam",
+      "d": "2 jam 15 menit"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 671,
+    "kisi2_no": 18,
+    "question_text": "Sebuah denah rumah digambar dengan skala 1 : 150. Jika ukuran kamar tidur pada denah adalah 3 cm x 2,5 cm, luas kamar tidur sebenarnya adalah... m².",
+    "options": {
+      "a": "11,25",
+      "b": "12,5",
+      "c": "15,75",
+      "d": "16,875"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 672,
+    "kisi2_no": 19,
+    "question_text": "Peluang seorang siswa lulus ujian adalah 0,85. Jika terdapat 200 siswa yang mengikuti ujian, perkiraan banyak siswa yang tidak lulus adalah...",
+    "options": {
+      "a": 15,
+      "b": 20,
+      "c": 25,
+      "d": 30
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 673,
+    "kisi2_no": 20,
+    "question_text": "Diagram lingkaran menunjukkan hobi 120 siswa: Sepak bola 120°, Membaca 90°, Musik 75°, Menari sisanya. Banyak siswa yang hobi menari adalah...",
+    "options": {
+      "a": 20,
+      "b": 25,
+      "c": 30,
+      "d": 35
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 674,
+    "kisi2_no": 10,
+    "question_text": "Tiga buah lampu menyala bersamaan. Lampu A menyala setiap 4 detik, lampu B setiap 6 detik, dan lampu C setiap 9 detik. Ketiga lampu akan menyala bersamaan lagi setelah... detik.",
+    "options": {
+      "a": "18",
+      "b": "24",
+      "c": "36",
+      "d": "72"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 675,
+    "kisi2_no": 11,
+    "question_text": "Bandingkan: 5/7 ... 71%. Tanda perbandingan yang tepat adalah...",
+    "options": {
+      "a": "<",
+      "b": "=",
+      "c": ">",
+      "d": "≤"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 676,
+    "kisi2_no": 14,
+    "question_text": "Kerangka sebuah balok terbuat dari kawat sepanjang 180 cm. Jika ukuran panjang dan lebar balok berturut-turut 20 cm dan 15 cm, tinggi balok tersebut adalah... cm.",
+    "options": {
+      "a": 8,
+      "b": 9,
+      "c": 10,
+      "d": 12
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 677,
+    "kisi2_no": 13,
+    "question_text": "Volume sebuah kubus adalah 512 cm³. Jika setiap rusuknya diperpendek 2 cm, volume kubus yang baru adalah... cm³.",
+    "options": {
+      "a": "125",
+      "b": "216",
+      "c": "343",
+      "d": "400"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 678,
+    "kisi2_no": 15,
+    "question_text": "Titik R(a, b) terletak di kuadran II. Jika jarak titik R ke sumbu X adalah 5 satuan dan jarak ke sumbu Y adalah 3 satuan, maka koordinat titik R adalah...",
+    "options": {
+      "a": "(3, 5)",
+      "b": "(-3, 5)",
+      "c": "(3, -5)",
+      "d": "(-3, -5)"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 679,
+    "kisi2_no": 16,
+    "question_text": "Rasio volume dua kubus adalah 8 : 27. Rasio luas permukaan kedua kubus tersebut adalah...",
+    "options": {
+      "a": "2 : 3",
+      "b": "4 : 9",
+      "c": "8 : 27",
+      "d": "16 : 81"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 680,
+    "kisi2_no": 17,
+    "question_text": "Sebuah pompa air dapat mengisi tangki bervolume 600 liter dalam waktu 12 menit. Debit pompa air tersebut adalah... liter/detik.",
+    "options": {
+      "a": "0,5",
+      "b": "0,75",
+      "c": "0,833",
+      "d": "1,25"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 681,
+    "kisi2_no": 18,
+    "question_text": "Sebuah proyek direncanakan selesai dalam 40 hari oleh 21 pekerja. Setelah dikerjakan 8 hari, proyek dihentikan selama 4 hari. Agar proyek selesai tepat waktu, berapa banyak pekerja tambahan yang diperlukan?",
+    "options": {
+      "a": 3,
+      "b": 4,
+      "c": 5,
+      "d": 6
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 682,
+    "kisi2_no": 19,
+    "question_text": "Dari angka 1, 2, 3, 4, 5 akan dibentuk bilangan ratusan ganjil tanpa ada angka yang berulang. Banyak bilangan yang dapat terbentuk adalah...",
+    "options": {
+      "a": "18",
+      "b": "24",
+      "c": "36",
+      "d": "48"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 683,
+    "kisi2_no": 20,
+    "question_text": "Rata-rata tinggi badan 10 siswa adalah 155 cm. Jika 2 siswa dengan tinggi 160 cm dan 162 cm keluar, rata-rata tinggi badan siswa yang tersisa adalah... cm.",
+    "options": {
+      "a": "152,75",
+      "b": "153",
+      "c": "153,25",
+      "d": "153,5"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 684,
+    "kisi2_no": 10,
+    "question_text": "Tentukan nilai N: (2 1/3 + N) x 1/4 = 5/6",
+    "options": {
+      "a": "1",
+      "b": "1 1/3",
+      "c": "4/3",
+      "d": "1 2/3"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 685,
+    "kisi2_no": 11,
+    "question_text": "0,125 : 1/4 + 2,5 x 40% = ...",
+    "options": {
+      "a": "1",
+      "b": "1,25",
+      "c": "1,5",
+      "d": "2"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 686,
+    "kisi2_no": 14,
+    "question_text": "Sebuah balok memiliki volume 480 cm³. Jika panjangnya 10 cm dan lebarnya 8 cm, luas permukaan balok tersebut adalah... cm².",
+    "options": {
+      "a": 352,
+      "b": 364,
+      "c": 376,
+      "d": 388
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 687,
+    "kisi2_no": 13,
+    "question_text": "³√(15.625) + 5³ - ³√1.000 = ...",
+    "options": {
+      "a": 130,
+      "b": 140,
+      "c": 150,
+      "d": 160
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 688,
+    "kisi2_no": 15,
+    "question_text": "Titik A(x, 3) dan B(5, y). Jika titik tengah ruas garis AB adalah M(1, -2), maka nilai x + y adalah...",
+    "options": {
+      "a": -10,
+      "b": -8,
+      "c": -6,
+      "d": -4
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 689,
+    "kisi2_no": 16,
+    "question_text": "Rasio kelereng merah, biru, kuning adalah 2 : 3 : 5. Jika jumlah kelereng merah dan kuning adalah 42 buah, berapa banyak kelereng biru?",
+    "options": {
+      "a": 12,
+      "b": 15,
+      "c": 18,
+      "d": 21
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 690,
+    "kisi2_no": 17,
+    "question_text": "Untuk mengecat dinding seluas 60 m² diperlukan 5 kaleng cat. Jika Pak Hasan ingin mengecat dinding seluas 84 m², berapa kaleng cat tambahan yang harus dibeli jika ia sudah memiliki 2 kaleng cat?",
+    "options": {
+      "a": 4,
+      "b": 5,
+      "c": 6,
+      "d": 7
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 691,
+    "kisi2_no": 18,
+    "question_text": "Sebuah mobil menempuh jarak tertentu selama 4 jam dengan kecepatan 60 km/jam. Jika kecepatan mobil ditambah menjadi 80 km/jam, berapa waktu tempuh untuk jarak yang sama?",
+    "options": {
+      "a": "2,5 jam",
+      "b": "3 jam",
+      "c": "3,5 jam",
+      "d": "4 jam"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 692,
+    "kisi2_no": 19,
+    "question_text": "Dalam sebuah kotak terdapat 10 bola bernomor 1 sampai 10. Diambil sebuah bola secara acak. Peluang terambilnya bola bernomor kelipatan 3 atau bernomor genap adalah...",
+    "options": {
+      "a": "6/10",
+      "b": "7/10",
+      "c": "8/10",
+      "d": "9/10"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 693,
+    "kisi2_no": 20,
+    "question_text": "Data hasil tangkapan ikan (kg) seorang nelayan selama seminggu: 15, 18, 12, 20, 15, 19, 14. Selisih antara mean dan median data tersebut adalah...",
+    "options": {
+      "a": "0",
+      "b": "0,5",
+      "c": "1",
+      "d": "1,5"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 694,
+    "kisi2_no": 10,
+    "question_text": "Ibu memiliki 2 3/4 liter minyak goreng. Digunakan untuk menggoreng ikan 1/2 liter dan untuk menumis sayur 1/3 liter. Kemudian ibu membeli lagi 1 1/4 liter. Minyak goreng ibu sekarang adalah... liter.",
+    "options": {
+      "a": "2 1/6",
+      "b": "2 5/12",
+      "c": "3 1/6",
+      "d": "3 5/12"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 695,
+    "kisi2_no": 11,
+    "question_text": "Seorang atlet berlari sejauh 5 km dalam waktu 25 menit. Kecepatan rata-rata lari atlet tersebut adalah... m/detik.",
+    "options": {
+      "a": "3,33",
+      "b": "4,17",
+      "c": "5",
+      "d": "8,33"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 696,
+    "kisi2_no": 14,
+    "question_text": "Sebuah kolam renang berbentuk balok dengan panjang 25 m, lebar 10 m, dan kedalaman 1,6 m. Jika kolam diisi air hingga penuh, volume air dalam kolam adalah... m³.",
+    "options": {
+      "a": "320",
+      "b": "360",
+      "c": "400",
+      "d": "450"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 697,
+    "kisi2_no": 13,
+    "question_text": "³√(n) = 14. Nilai n adalah...",
+    "options": {
+      "a": "196",
+      "b": "2744",
+      "c": "3844",
+      "d": "4096"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 698,
+    "kisi2_no": 15,
+    "question_text": "Persegi ABCD memiliki titik A(-2, 1) dan C(4, 7). Luas persegi ABCD adalah... satuan luas.",
+    "options": {
+      "a": "30",
+      "b": "32",
+      "c": "36",
+      "d": "40"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 699,
+    "kisi2_no": 18,
+    "question_text": "Uang saku Adi : Budi = 2 : 3. Uang saku Budi : Cici = 4 : 5. Jika jumlah uang saku mereka Rp 140.000, maka uang saku Cici adalah...",
+    "options": {
+      "a": "Rp 40.000",
+      "b": "Rp 48.000",
+      "c": "Rp 60.000",
+      "d": "Rp 75.000"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 700,
+    "kisi2_no": 20,
+    "question_text": "Modus dari data: 12, 15, 13, 12, 14, 15, 12, 16, 13, 12 adalah...",
+    "options": {
+      "a": "12",
+      "b": "13",
+      "c": "14",
+      "d": "15"
+    },
+    "correct_answers": ["a"]
+  }
+]

@@ -1,0 +1,1208 @@
+[
+  {
+    "id": 401,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Bentuk paruh burung kolibri yang kecil dan panjang sangat sesuai untuk fungsinya yaitu menghisap nektar bunga. Adaptasi bentuk paruh yang berbeda pada jenis burung lain menunjukkan hubungan erat antara...",
+    "options": {
+      "a": "Bentuk tubuh dan habitat",
+      "b": "Struktur organ dan jenis makanannya",
+      "c": "Warna bulu dan cara terbang",
+      "d": "Ukuran tubuh dan kecepatan lari"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 402,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Akar tunggang yang kuat dan dalam pada pohon jati berfungsi utama untuk menopang batang yang besar dan mencari air di tanah yang dalam. Fungsi sekunder yang juga penting dari sistem perakaran ini adalah...",
+    "options": {
+      "a": "Menyimpan cadangan makanan dalam jumlah besar",
+      "b": "Melakukan fotosintesis",
+      "c": "Mencegah erosi tanah di sekitar pohon",
+      "d": "Menarik serangga untuk penyerbukan"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 403,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Lapisan lemak tebal di bawah kulit beruang kutub memiliki fungsi ganda, yaitu sebagai cadangan energi dan...",
+    "options": {
+      "a": "Membantu pernapasan di air",
+      "b": "Mempertajam indra penciuman",
+      "c": "Sebagai isolator panas untuk menjaga suhu tubuh di lingkungan dingin",
+      "d": "Memudahkan pergerakan di salju"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 404,
+    "chapter_source": "Kisi-kisi No. 1",
+    "question_text": "Stomata pada daun tumbuhan darat umumnya terletak di bagian bawah daun. Hal ini merupakan adaptasi untuk...",
+    "options": {
+      "a": "Memaksimalkan penyerapan cahaya matahari",
+      "b": "Mengurangi penguapan air yang berlebihan",
+      "c": "Memudahkan penyerapan air hujan",
+      "d": "Menarik perhatian serangga"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 405,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "Metamorfosis sempurna pada kupu-kupu melibatkan tahapan telur, larva (ulat), pupa (kepompong), dan imago (dewasa). Tahap manakah yang paling rentan terhadap predator dan mengapa upaya pelestarian sering fokus pada habitat tahap ini?",
+    "options": {
+      "a": "Telur, karena ukurannya kecil",
+      "b": "Larva, karena aktif makan dan bergerak lambat",
+      "c": "Pupa, karena tidak bergerak dan tidak bisa melarikan diri",
+      "d": "Imago, karena mencolok dan mudah terlihat"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 406,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "Perbedaan mendasar antara daur hidup katak (amfibi) dan kecoak (serangga dengan metamorfosis tidak sempurna) terletak pada...",
+    "options": {
+      "a": "Katak mengalami tahap pupa, kecoak tidak",
+      "b": "Katak muda (berudu) hidup di air dan bernapas dengan insang, sedangkan nimfa kecoak mirip dewasa dan hidup di darat",
+      "c": "Kecoak bertelur, katak melahirkan",
+      "d": "Daur hidup katak lebih singkat dari kecoak"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 407,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "Upaya pelestarian penyu laut sering melibatkan perlindungan pantai tempat bertelur. Mengapa tahap awal siklus hidup penyu ini sangat krusial?",
+    "options": {
+      "a": "Karena telur penyu mudah pecah",
+      "b": "Karena tukik (bayi penyu) menghadapi banyak predator saat menuju laut",
+      "c": "Karena induk penyu akan mati setelah bertelur",
+      "d": "Jawaban a dan b benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 408,
+    "chapter_source": "Kisi-kisi No. 2",
+    "question_text": "Tanaman padi memiliki siklus hidup dari biji, tumbuh menjadi tanaman muda, berbunga, menghasilkan biji lagi, lalu mati. Siklus hidup ini tergolong...",
+    "options": {
+      "a": "Metamorfosis sempurna",
+      "b": "Metamorfosis tidak sempurna",
+      "c": "Siklus hidup tanpa metamorfosis",
+      "d": "Regenerasi"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 409,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Ketika kita menarik karet gelang, kita menggunakan gaya otot. Karet gelang yang meregang kemudian memiliki energi potensial elastis. Gaya yang menyebabkan karet kembali ke bentuk semula saat dilepaskan adalah...",
+    "options": {
+      "a": "Gaya gravitasi",
+      "b": "Gaya gesek",
+      "c": "Gaya pegas (elastis)",
+      "d": "Gaya magnet"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 410,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Penggaris plastik yang digosokkan ke rambut kering dapat menarik potongan kertas kecil. Fenomena ini menunjukkan adanya gaya...",
+    "options": {
+      "a": "Magnet",
+      "b": "Gravitasi",
+      "c": "Listrik statis",
+      "d": "Gesek"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 411,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Jarum kompas selalu menunjuk ke arah Utara-Selatan bumi. Hal ini disebabkan oleh interaksi antara magnet jarum kompas dengan...",
+    "options": {
+      "a": "Gaya gravitasi bumi",
+      "b": "Medan magnet bumi",
+      "c": "Listrik statis di atmosfer",
+      "d": "Gaya gesek udara"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 412,
+    "chapter_source": "Kisi-kisi No. 3",
+    "question_text": "Saat kita berjalan, ada gaya gesek antara alas sepatu dengan permukaan lantai. Gaya gesek ini bermanfaat untuk...",
+    "options": {
+      "a": "Membuat kita melayang",
+      "b": "Mencegah kita tergelincir",
+      "c": "Menambah kecepatan langkah",
+      "d": "Mengurangi berat badan"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 413,
+    "chapter_source": "Kisi-kisi No. 4",
+    "question_text": "Seorang anak menendang bola sehingga bola bergerak maju. Hubungan antara gaya tendangan dan gerak bola adalah...",
+    "options": {
+      "a": "Gaya menyebabkan perubahan bentuk bola",
+      "b": "Gaya menyebabkan perubahan arah gerak bola",
+      "c": "Gaya menyebabkan benda diam menjadi bergerak",
+      "d": "Gerak bola menyebabkan adanya gaya"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 414,
+    "chapter_source": "Kisi-kisi No. 4",
+    "question_text": "Mobil yang sedang melaju direm secara mendadak. Gaya rem bekerja berlawanan arah dengan gerak mobil, menyebabkan...",
+    "options": {
+      "a": "Mobil bertambah cepat",
+      "b": "Mobil berubah arah",
+      "c": "Mobil melambat atau berhenti",
+      "d": "Mobil berubah bentuk"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 415,
+    "chapter_source": "Kisi-kisi No. 4",
+    "question_text": "Pemain bulu tangkis memukul kok yang datang dari arah lawan sehingga kok berbalik arah. Gaya pukulan raket menyebabkan...",
+    "options": {
+      "a": "Perubahan kecepatan kok saja",
+      "b": "Perubahan arah gerak kok",
+      "c": "Perubahan bentuk kok",
+      "d": "Kok menjadi diam"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 416,
+    "chapter_source": "Kisi-kisi No. 4",
+    "question_text": "Semakin besar gaya yang diberikan pada suatu benda (misalnya mendorong meja), semakin besar pula percepatan geraknya, asalkan massa benda tetap. Pernyataan ini sesuai dengan Hukum...",
+    "options": {
+      "a": "I Newton (Kelembaman)",
+      "b": "II Newton (F=ma)",
+      "c": "III Newton (Aksi-Reaksi)",
+      "d": "Gravitasi Newton"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 417,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "Saat kita menyalakan kipas angin, terjadi perubahan bentuk energi dari energi ... menjadi energi ...",
+    "options": {
+      "a": "Listrik menjadi energi gerak (kinetik) dan sedikit energi panas",
+      "b": "Gerak menjadi energi listrik",
+      "c": "Listrik menjadi energi cahaya",
+      "d": "Panas menjadi energi listrik"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 418,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "Panel surya mengubah energi cahaya matahari menjadi energi listrik. Proses ini memanfaatkan efek fotovoltaik. Panel surya merupakan contoh pemanfaatan sumber energi...",
+    "options": {
+      "a": "Fosil yang tidak terbarukan",
+      "b": "Nuklir",
+      "c": "Alternatif yang terbarukan",
+      "d": "Kimia"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 419,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "Pembangkit Listrik Tenaga Air (PLTA) memanfaatkan energi potensial air di bendungan untuk memutar turbin yang terhubung ke generator. Perubahan energi utama yang terjadi pada generator adalah...",
+    "options": {
+      "a": "Energi listrik menjadi energi gerak",
+      "b": "Energi gerak (mekanik) menjadi energi listrik",
+      "c": "Energi panas menjadi energi listrik",
+      "d": "Energi kimia menjadi energi listrik"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 420,
+    "chapter_source": "Kisi-kisi No. 5",
+    "question_text": "Biogas yang dihasilkan dari kotoran ternak merupakan sumber energi alternatif yang berasal dari bahan bakar organik. Energi yang tersimpan dalam biogas adalah energi...",
+    "options": {
+      "a": "Listrik",
+      "b": "Kimia",
+      "c": "Panas bumi",
+      "d": "Nuklir"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 421,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Bunyi dapat merambat melalui medium padat, cair, dan gas, tetapi tidak dapat merambat melalui ruang hampa. Sifat bunyi ini menunjukkan bahwa bunyi memerlukan...",
+    "options": {
+      "a": "Cahaya untuk merambat",
+      "b": "Medium perambatan",
+      "c": "Suhu tinggi untuk merambat",
+      "d": "Tekanan rendah untuk merambat"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 422,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Gaung adalah bunyi pantul yang terdengar hampir bersamaan dengan bunyi asli sehingga mengganggu kejelasan bunyi asli. Gaung terjadi jika jarak antara sumber bunyi dan dinding pemantul...",
+    "options": {
+      "a": "Sangat jauh",
+      "b": "Relatif dekat",
+      "c": "Tidak berpengaruh",
+      "d": "Berada di ruang hampa"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 423,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Gema adalah bunyi pantul yang terdengar jelas setelah bunyi asli selesai diucapkan. Hal ini terjadi karena jarak sumber bunyi ke dinding pemantul cukup jauh. Sifat pemantulan bunyi ini dimanfaatkan dalam teknologi...",
+    "options": {
+      "a": "Sonar untuk mengukur kedalaman laut",
+      "b": "Mikroskop",
+      "c": "Telepon",
+      "d": "Panel surya"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 424,
+    "chapter_source": "Kisi-kisi No. 6",
+    "question_text": "Telinga manusia dapat mendengar bunyi dengan frekuensi antara 20 Hz hingga 20.000 Hz (audiosonik). Bunyi dengan frekuensi di bawah 20 Hz disebut infrasonik, sedangkan di atas 20.000 Hz disebut...",
+    "options": {
+      "a": "Supersonik",
+      "b": "Megasonik",
+      "c": "Ultrasonik",
+      "d": "Hipersonik"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 425,
+    "chapter_source": "Kisi-kisi No. 7",
+    "question_text": "Saat kita bercermin di depan cermin datar, bayangan yang terbentuk memiliki sifat: sama besar, tegak, dan maya. Sifat 'maya' berarti...",
+    "options": {
+      "a": "Bayangan dapat ditangkap oleh layar",
+      "b": "Bayangan terbentuk di belakang cermin dan tidak dapat ditangkap layar",
+      "c": "Bayangan lebih kecil dari benda asli",
+      "d": "Bayangan terbalik"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 426,
+    "chapter_source": "Kisi-kisi No. 7",
+    "question_text": "Pensil yang dicelupkan ke dalam gelas berisi air terlihat bengkok. Peristiwa ini terjadi karena cahaya mengalami...",
+    "options": {
+      "a": "Pemantulan sempurna",
+      "b": "Pembiasan (refraksi) saat melewati dua medium berbeda kerapatan (udara dan air)",
+      "c": "Penguraian (dispersi)",
+      "d": "Perambatan lurus"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 427,
+    "chapter_source": "Kisi-kisi No. 7",
+    "question_text": "Terjadinya pelangi setelah hujan menunjukkan bahwa cahaya putih matahari dapat diuraikan menjadi berbagai warna (merah, jingga, kuning, hijau, biru, nila, ungu). Sifat cahaya ini disebut...",
+    "options": {
+      "a": "Refleksi (pemantulan)",
+      "b": "Refraksi (pembiasan)",
+      "c": "Dispersi (penguraian)",
+      "d": "Difraksi (pelenturan)"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 428,
+    "chapter_source": "Kisi-kisi No. 7",
+    "question_text": "Lup (kaca pembesar) menggunakan lensa cembung untuk menghasilkan bayangan yang diperbesar dari objek kecil. Prinsip kerja lup memanfaatkan sifat cahaya yaitu...",
+    "options": {
+      "a": "Cahaya merambat lurus",
+      "b": "Cahaya dapat dipantulkan",
+      "c": "Cahaya dapat dibiaskan dan lensa cembung mengumpulkan cahaya",
+      "d": "Cahaya dapat diuraikan"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 429,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Penggunaan pupuk kimia yang berlebihan dalam pertanian dapat menyebabkan eutrofikasi di perairan. Eutrofikasi adalah...",
+    "options": {
+      "a": "Peningkatan kesuburan tanah",
+      "b": "Pertumbuhan alga (ganggang) yang sangat cepat akibat kelebihan nutrisi, yang kemudian mengurangi oksigen terlarut dan membahayakan biota air",
+      "c": "Pengendapan lumpur di dasar sungai",
+      "d": "Peningkatan suhu air"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 430,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Praktik tebang pilih tanam (memilih pohon yang cukup umur untuk ditebang dan menanam kembali) merupakan salah satu upaya pelestarian sumber daya alam hutan yang bertujuan untuk...",
+    "options": {
+      "a": "Menghabiskan semua pohon di hutan",
+      "b": "Menjaga keseimbangan ekosistem hutan dan keberlanjutan hasil hutan",
+      "c": "Mengubah hutan menjadi pemukiman",
+      "d": "Membuka lahan untuk perkebunan sawit"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 431,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Mengapa menjaga keanekaragaman hayati (biodiversitas) penting bagi keseimbangan alam?",
+    "options": {
+      "a": "Karena setiap makhluk hidup memiliki peran dalam ekosistem",
+      "b": "Karena hilangnya satu spesies dapat mengganggu jaring-jaring makanan",
+      "c": "Karena keanekaragaman hayati menyediakan sumber daya alam bagi manusia",
+      "d": "Semua jawaban benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 432,
+    "chapter_source": "Kisi-kisi No. 8",
+    "question_text": "Konsep 3R (Reduce, Reuse, Recycle) dalam pengelolaan sampah bertujuan utama untuk...",
+    "options": {
+      "a": "Menambah jumlah sampah",
+      "b": "Mengurangi timbulan sampah dan dampak negatifnya terhadap lingkungan",
+      "c": "Memindahkan sampah ke tempat lain",
+      "d": "Membakar semua sampah"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 433,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Tulang hasta dan tulang pengumpil terdapat pada lengan bawah manusia. Fungsi utama kedua tulang ini bersama dengan otot bisep dan trisep adalah untuk...",
+    "options": {
+      "a": "Menopang berat badan",
+      "b": "Memungkinkan gerakan memutar dan menekuk lengan bawah",
+      "c": "Melindungi organ jantung",
+      "d": "Menghasilkan sel darah merah"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 434,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Sendi peluru yang terdapat pada pangkal lengan atas dan pangkal paha memungkinkan gerakan...",
+    "options": {
+      "a": "Hanya satu arah seperti engsel",
+      "b": "Memutar pada satu poros",
+      "c": "Ke segala arah",
+      "d": "Hanya menggeser"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 435,
+    "chapter_source": "Kisi-kisi No. 9",
+    "question_text": "Cara memelihara kesehatan alat gerak manusia agar terhindar dari osteoporosis (pengeroposan tulang) di usia tua adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Mengonsumsi makanan kaya kalsium dan vitamin D",
+      "b": "Berolahraga secara teratur",
+      "c": "Menghindari kebiasaan merokok dan minum alkohol",
+      "d": "Menjaga postur tubuh yang benar saat duduk atau berdiri",
+      "e": "Hanya minum susu"
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 436,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Pertukaran gas oksigen (O2) dan karbon dioksida (CO2) pada sistem pernapasan manusia terjadi di dalam...",
+    "options": {
+      "a": "Hidung",
+      "b": "Tenggorokan (Faring)",
+      "c": "Bronkus",
+      "d": "Alveolus di paru-paru"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 437,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Ikan bernapas menggunakan insang. Mekanisme pernapasan ikan melibatkan proses masuknya air melalui mulut dan keluarnya melalui celah insang. Oksigen terlarut dalam air akan diserap oleh...",
+    "options": {
+      "a": "Gelembung renang",
+      "b": "Pembuluh darah kapiler pada lembaran insang",
+      "c": "Kulit ikan",
+      "d": "Spirakel"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 438,
+    "chapter_source": "Kisi-kisi No. 10",
+    "question_text": "Penyakit asma ditandai dengan penyempitan saluran pernapasan (bronkus dan bronkiolus) yang menyebabkan penderitanya kesulitan bernapas. Cara menjaga kesehatan bagi penderita asma adalah...",
+    "options": {
+      "a": "Menghindari pemicu alergi (debu, asap, bulu hewan)",
+      "b": "Rutin berolahraga ringan",
+      "c": "Menggunakan obat sesuai anjuran dokter",
+      "d": "Semua jawaban benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 439,
+    "chapter_source": "Kisi-kisi No. 11",
+    "question_text": "Proses pencernaan kimiawi karbohidrat dimulai di mulut dengan bantuan enzim ptialin (amilase) yang terdapat dalam air liur. Enzim ini mengubah amilum menjadi...",
+    "options": {
+      "a": "Protein",
+      "b": "Lemak",
+      "c": "Glukosa (gula sederhana)",
+      "d": "Asam amino"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 440,
+    "chapter_source": "Kisi-kisi No. 11",
+    "question_text": "Penyerapan sari-sari makanan hasil pencernaan pada manusia sebagian besar terjadi di...",
+    "options": {
+      "a": "Lambung",
+      "b": "Usus halus (ileum dan jejunum)",
+      "c": "Usus besar",
+      "d": "Rongga mulut"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 441,
+    "chapter_source": "Kisi-kisi No. 11",
+    "question_text": "Hewan ruminansia (memamah biak) seperti sapi memiliki lambung yang terdiri dari empat bagian: rumen, retikulum, omasum, dan abomasum. Fungsi utama rumen adalah...",
+    "options": {
+      "a": "Pencernaan kimiawi oleh enzim lambung",
+      "b": "Penyerapan air",
+      "c": "Tempat fermentasi selulosa oleh mikroorganisme",
+      "d": "Menggiling makanan secara mekanis"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 442,
+    "chapter_source": "Kisi-kisi No. 12",
+    "question_text": "Darah dalam bilik kanan jantung dipompa menuju paru-paru untuk melepaskan karbon dioksida dan mengambil oksigen. Jalur peredaran darah ini disebut peredaran darah...",
+    "options": {
+      "a": "Besar (sistemik)",
+      "b": "Kecil (pulmonal)",
+      "c": "Koroner",
+      "d": "Limfatik"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 443,
+    "chapter_source": "Kisi-kisi No. 12",
+    "question_text": "Fungsi utama sel darah merah (eritrosit) dalam sistem peredaran darah adalah...",
+    "options": {
+      "a": "Melawan kuman penyakit",
+      "b": "Membantu pembekuan darah",
+      "c": "Mengangkut oksigen dari paru-paru ke seluruh tubuh",
+      "d": "Mengangkut sari-sari makanan"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 444,
+    "chapter_source": "Kisi-kisi No. 12",
+    "question_text": "Anemia adalah kondisi kekurangan sel darah merah atau hemoglobin. Cara mencegah anemia defisiensi besi adalah dengan mengonsumsi makanan yang kaya zat besi, seperti...",
+    "options": {
+      "a": "Sayuran hijau tua (bayam), daging merah, hati",
+      "b": "Buah-buahan manis",
+      "c": "Nasi putih",
+      "d": "Makanan ringan"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 445,
+    "chapter_source": "Kisi-kisi No. 13",
+    "question_text": "Dalam ekosistem sawah, padi berperan sebagai produsen. Tikus yang memakan padi berperan sebagai konsumen tingkat I. Ular yang memakan tikus berperan sebagai...",
+    "options": {
+      "a": "Produsen",
+      "b": "Konsumen tingkat I",
+      "c": "Konsumen tingkat II",
+      "d": "Pengurai"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 446,
+    "chapter_source": "Kisi-kisi No. 13",
+    "question_text": "Jaring-jaring makanan menggambarkan hubungan makan dan dimakan yang kompleks dalam suatu ekosistem. Jika populasi ular sawah menurun drastis akibat perburuan, dampak langsung yang mungkin terjadi adalah...",
+    "options": {
+      "a": "Populasi padi meningkat",
+      "b": "Populasi tikus meningkat karena predatornya berkurang",
+      "c": "Populasi elang menurun karena sumber makanannya (ular) berkurang",
+      "d": "Jawaban b dan c benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 447,
+    "chapter_source": "Kisi-kisi No. 13",
+    "question_text": "Komponen abiotik (tidak hidup) yang sangat mempengaruhi kehidupan komponen biotik (hidup) dalam suatu ekosistem adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Cahaya matahari",
+      "b": "Air",
+      "c": "Udara (oksigen, karbon dioksida)",
+      "d": "Suhu",
+      "e": "Tanah"
+    },
+    "correct_answers": ["a", "b", "c", "d", "e"]
+  },
+  {
+    "id": 448,
+    "chapter_source": "Kisi-kisi No. 13",
+    "question_text": "Simbiosis mutualisme adalah hubungan antar makhluk hidup yang saling menguntungkan. Contohnya adalah...",
+    "options": {
+      "a": "Benalu pada pohon mangga",
+      "b": "Ikan remora dan ikan hiu",
+      "c": "Kupu-kupu dan bunga",
+      "d": "Kutu pada kepala manusia"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 449,
+    "chapter_source": "Kisi-kisi No. 14",
+    "question_text": "Saat memanaskan air dalam panci logam, panas dari api kompor berpindah ke panci melalui proses konduksi. Kemudian, air di bagian bawah panci memanas, menjadi lebih ringan, dan naik, sementara air dingin turun. Perpindahan panas melalui aliran zat cair atau gas ini disebut...",
+    "options": {
+      "a": "Konduksi",
+      "b": "Konveksi",
+      "c": "Radiasi",
+      "d": "Isolasi"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 450,
+    "chapter_source": "Kisi-kisi No. 14",
+    "question_text": "Panas matahari dapat sampai ke bumi meskipun melalui ruang hampa di angkasa. Perpindahan panas tanpa memerlukan medium perantara ini disebut...",
+    "options": {
+      "a": "Konduksi",
+      "b": "Konveksi",
+      "c": "Radiasi",
+      "d": "Adveksi"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 451,
+    "chapter_source": "Kisi-kisi No. 14",
+    "question_text": "Termos dirancang untuk menjaga suhu minuman tetap panas atau dingin dalam waktu lama. Dinding bagian dalam termos dibuat mengkilap dan terdapat ruang hampa di antara dinding ganda. Fungsi ruang hampa tersebut adalah...",
+    "options": {
+      "a": "Mempercepat perpindahan panas secara konduksi",
+      "b": "Mencegah perpindahan panas secara konduksi dan konveksi",
+      "c": "Mempercepat perpindahan panas secara radiasi",
+      "d": "Menambah berat termos"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 452,
+    "chapter_source": "Kisi-kisi No. 14",
+    "question_text": "Gagang panci biasanya terbuat dari bahan plastik atau kayu. Pemilihan bahan ini didasarkan pada sifat bahan tersebut sebagai...",
+    "options": {
+      "a": "Konduktor panas yang baik",
+      "b": "Isolator panas (penghantar panas yang buruk)",
+      "c": "Konvektor panas",
+      "d": "Radiator panas"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 453,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Saat es batu dipanaskan, suhunya akan naik hingga mencapai 0°C. Pada suhu 0°C, es akan melebur menjadi air tanpa mengalami kenaikan suhu sampai seluruh es mencair. Kalor yang dibutuhkan untuk mengubah wujud zat tanpa mengubah suhunya disebut...",
+    "options": {
+      "a": "Kalor jenis",
+      "b": "Kalor laten (kalor lebur atau kalor uap)",
+      "c": "Kapasitas kalor",
+      "d": "Konduktivitas kalor"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 454,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Peristiwa menguap (perubahan wujud dari cair ke gas) membutuhkan kalor, sedangkan peristiwa mengembun (perubahan wujud dari gas ke cair) justru...",
+    "options": {
+      "a": "Membutuhkan kalor juga",
+      "b": "Melepaskan kalor",
+      "c": "Tidak melibatkan kalor",
+      "d": "Hanya terjadi pada suhu tinggi"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 455,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Pemasangan rel kereta api diberi celah pada sambungannya. Hal ini bertujuan untuk...",
+    "options": {
+      "a": "Menghemat bahan rel",
+      "b": "Memberi ruang bagi pemuaian rel saat suhu udara panas agar rel tidak melengkung",
+      "c": "Memudahkan pemasangan rel",
+      "d": "Mengurangi getaran kereta"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 456,
+    "chapter_source": "Kisi-kisi No. 15",
+    "question_text": "Perubahan wujud zat yang terjadi saat kapur barus (kamper) menyublim adalah dari...",
+    "options": {
+      "a": "Padat ke cair",
+      "b": "Cair ke gas",
+      "c": "Padat ke gas",
+      "d": "Gas ke padat"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 457,
+    "chapter_source": "Kisi-kisi No. 16",
+    "question_text": "Tahapan siklus air dimana uap air di atmosfer mendingin dan berubah menjadi titik-titik air atau kristal es membentuk awan disebut...",
+    "options": {
+      "a": "Evaporasi (penguapan)",
+      "b": "Transpirasi (penguapan dari tumbuhan)",
+      "c": "Kondensasi (pengembunan)",
+      "d": "Presipitasi (hujan, salju)"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 458,
+    "chapter_source": "Kisi-kisi No. 16",
+    "question_text": "Air hujan yang jatuh ke permukaan bumi sebagian akan meresap ke dalam tanah (infiltrasi) dan menjadi air tanah, sebagian lagi akan mengalir di permukaan (run-off) menuju sungai dan laut. Faktor yang dapat mengurangi infiltrasi dan memperbesar run-off adalah...",
+    "options": {
+      "a": "Banyaknya pepohonan dan daerah resapan air",
+      "b": "Penutupan permukaan tanah oleh bangunan dan aspal",
+      "c": "Curah hujan yang rendah",
+      "d": "Tanah yang gembur"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 459,
+    "chapter_source": "Kisi-kisi No. 16",
+    "question_text": "Dampak negatif terganggunya siklus air akibat penebangan hutan secara liar adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Berkurangnya cadangan air tanah",
+      "b": "Meningkatnya risiko banjir saat musim hujan",
+      "c": "Meningkatnya risiko kekeringan saat musim kemarau",
+      "d": "Terjadinya tanah longsor",
+      "e": "Meningkatnya kesuburan tanah"
+    },
+    "correct_answers": ["a", "b", "c", "d"]
+  },
+  {
+    "id": 460,
+    "chapter_source": "Kisi-kisi No. 16",
+    "question_text": "Kegiatan manusia yang dapat membantu menjaga kelancaran siklus air dan ketersediaan air bersih adalah...",
+    "options": {
+      "a": "Membuang sampah ke sungai",
+      "b": "Melakukan reboisasi (penanaman kembali hutan)",
+      "c": "Membuat sumur resapan dan biopori",
+      "d": "Jawaban b dan c benar"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 461,
+    "chapter_source": "Kisi-kisi No. 17",
+    "question_text": "Air murni (H2O) dan gula pasir (C12H22O11) merupakan contoh zat tunggal karena...",
+    "options": {
+      "a": "Terdiri dari beberapa jenis zat yang tercampur rata",
+      "b": "Hanya tersusun dari satu jenis materi (molekul atau unsur) dengan komposisi tetap",
+      "c": "Tidak dapat dipisahkan lagi menjadi zat yang lebih sederhana",
+      "d": "Berwujud cair"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 462,
+    "chapter_source": "Kisi-kisi No. 17",
+    "question_text": "Air sirup adalah contoh campuran homogen (larutan) karena...",
+    "options": {
+      "a": "Komponen penyusunnya (air, gula, pewarna, perasa) masih dapat dibedakan secara kasat mata",
+      "b": "Komponen penyusunnya tercampur secara merata dan tidak dapat dibedakan lagi",
+      "c": "Dapat dipisahkan melalui penyaringan",
+      "d": "Hanya terdiri dari satu jenis zat"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 463,
+    "chapter_source": "Kisi-kisi No. 17",
+    "question_text": "Campuran antara pasir dan air merupakan contoh campuran heterogen karena...",
+    "options": {
+      "a": "Pasir larut sempurna dalam air",
+      "b": "Komponen penyusunnya (pasir dan air) tidak tercampur merata dan masih dapat dibedakan",
+      "c": "Memiliki warna yang seragam",
+      "d": "Tidak dapat dipisahkan kembali"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 464,
+    "chapter_source": "Kisi-kisi No. 17",
+    "question_text": "Udara bersih yang kita hirup merupakan contoh campuran homogen yang terdiri dari berbagai gas seperti nitrogen, oksigen, argon, dan karbon dioksida. Komponen terbesar dalam udara bersih adalah...",
+    "options": {
+      "a": "Oksigen",
+      "b": "Karbon dioksida",
+      "c": "Nitrogen",
+      "d": "Argon"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 465,
+    "chapter_source": "Kisi-kisi No. 18",
+    "question_text": "Perkembangbiakan tumbuhan secara vegetatif alami dengan menggunakan tunas adventif pada daun terjadi pada tanaman...",
+    "options": {
+      "a": "Pisang (tunas)",
+      "b": "Kentang (umbi batang)",
+      "c": "Cocor bebek",
+      "d": "Bawang merah (umbi lapis)"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 466,
+    "chapter_source": "Kisi-kisi No. 18",
+    "question_text": "Perkembangbiakan hewan secara generatif (seksual) selalu melibatkan peleburan antara sel kelamin jantan (sperma) dan sel kelamin betina (ovum) yang disebut proses...",
+    "options": {
+      "a": "Fragmentasi",
+      "b": "Pembentukan tunas",
+      "c": "Fertilisasi (pembuahan)",
+      "d": "Partenogenesis"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 467,
+    "chapter_source": "Kisi-kisi No. 18",
+    "question_text": "Hewan ovipar berkembang biak dengan cara bertelur, hewan vivipar dengan cara melahirkan, sedangkan hewan ovovivipar...",
+    "options": {
+      "a": "Bertelur dan melahirkan secara bergantian",
+      "b": "Berkembang biak dengan membelah diri",
+      "c": "Bertelur, tetapi telur menetas di dalam tubuh induk, kemudian melahirkan anaknya",
+      "d": "Tidak berkembang biak"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 468,
+    "chapter_source": "Kisi-kisi No. 18",
+    "question_text": "Penyerbukan silang pada tumbuhan terjadi jika serbuk sari dari satu bunga jatuh ke kepala putik bunga lain...",
+    "options": {
+      "a": "Pada tanaman yang sama",
+      "b": "Pada tanaman lain yang sejenis",
+      "c": "Pada tanaman lain yang berbeda jenis",
+      "d": "Tanpa bantuan perantara"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 469,
+    "chapter_source": "Kisi-kisi No. 19",
+    "question_text": "Salah satu ciri pubertas sekunder pada laki-laki adalah perubahan suara menjadi lebih berat (besar). Hal ini disebabkan oleh...",
+    "options": {
+      "a": "Pertumbuhan jakun (kartilago tiroid) dan pita suara",
+      "b": "Meningkatnya hormon estrogen",
+      "c": "Pertumbuhan kumis",
+      "d": "Mimpi basah"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 470,
+    "chapter_source": "Kisi-kisi No. 19",
+    "question_text": "Menstruasi yang dialami perempuan setelah memasuki masa pubertas adalah proses luruhnya dinding rahim bagian dalam (endometrium) karena...",
+    "options": {
+      "a": "Terjadi pembuahan sel telur oleh sperma",
+      "b": "Tidak terjadi pembuahan sel telur oleh sperma",
+      "c": "Aktivitas fisik yang berat",
+      "d": "Stres emosional"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 471,
+    "chapter_source": "Kisi-kisi No. 19",
+    "question_text": "Menjaga kebersihan organ reproduksi sangat penting selama masa pubertas untuk mencegah infeksi dan penyakit. Cara yang benar adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Mandi secara teratur",
+      "b": "Mengganti pakaian dalam minimal dua kali sehari atau jika lembab",
+      "c": "Membersihkan organ intim dengan benar setelah buang air",
+      "d": "Menggunakan sabun antiseptik berlebihan pada organ intim",
+      "e": "Memakai pakaian dalam yang ketat"
+    },
+    "correct_answers": ["a", "b", "c"]
+  },
+  {
+    "id": 472,
+    "chapter_source": "Kisi-kisi No. 19",
+    "question_text": "Perubahan emosi yang cenderung labil pada masa pubertas dipengaruhi oleh perubahan hormon. Sikap yang bijaksana dalam menghadapinya adalah...",
+    "options": {
+      "a": "Menyalurkan emosi dengan cara negatif (marah-marah, merusak)",
+      "b": "Memendam perasaan sendiri",
+      "c": "Mencari kegiatan positif (olahraga, hobi) dan berkomunikasi dengan orang tua atau orang yang dipercaya",
+      "d": "Menjauhi teman-teman"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 473,
+    "chapter_source": "Kisi-kisi No. 20",
+    "question_text": "Bunglon mengubah warna kulitnya sesuai dengan lingkungan sekitar (mimikri). Tujuan utama adaptasi tingkah laku ini adalah untuk...",
+    "options": {
+      "a": "Menarik pasangan",
+      "b": "Mengelabui mangsa dan melindungi diri dari predator",
+      "c": "Mengatur suhu tubuh",
+      "d": "Menunjukkan suasana hati"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 474,
+    "chapter_source": "Kisi-kisi No. 20",
+    "question_text": "Tanaman kaktus memiliki daun berbentuk duri dan batang yang tebal berlapis lilin. Adaptasi morfologi ini bertujuan untuk...",
+    "options": {
+      "a": "Menarik serangga penyerbuk",
+      "b": "Mempercepat penguapan air",
+      "c": "Mengurangi penguapan air dan menyimpan cadangan air di lingkungan kering",
+      "d": "Melindungi diri dari herbivora besar"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 475,
+    "chapter_source": "Kisi-kisi No. 20",
+    "question_text": "Paus dan lumba-lumba secara periodik muncul ke permukaan air. Adaptasi fisiologi yang mendasari perilaku ini adalah...",
+    "options": {
+      "a": "Mereka perlu berjemur",
+      "b": "Mereka bernapas menggunakan paru-paru dan perlu mengambil oksigen dari udara",
+      "c": "Mereka mencari makan di permukaan",
+      "d": "Mereka berkomunikasi dengan sesamanya"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 476,
+    "chapter_source": "Kisi-kisi No. 20",
+    "question_text": "Pohon jati menggugurkan daunnya (meranggas) pada musim kemarau. Adaptasi tingkah laku ini bertujuan untuk...",
+    "options": {
+      "a": "Menghasilkan pupuk kompos",
+      "b": "Mengurangi penguapan air saat kondisi lingkungan kering",
+      "c": "Menumbuhkan daun baru yang lebih segar",
+      "d": "Melindungi diri dari hama"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 477,
+    "chapter_source": "Kisi-kisi No. 21",
+    "question_text": "Dalam rangkaian listrik sederhana, baterai berfungsi sebagai...",
+    "options": {
+      "a": "Sumber arus listrik (menyediakan energi listrik)",
+      "b": "Penghantar arus listrik",
+      "c": "Sakelar (pemutus dan penyambung arus)",
+      "d": "Beban listrik (pengguna energi)"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 478,
+    "chapter_source": "Kisi-kisi No. 21",
+    "question_text": "Pada rangkaian listrik seri, jika salah satu lampu putus atau dilepas, maka lampu lainnya akan...",
+    "options": {
+      "a": "Tetap menyala",
+      "b": "Menyala lebih terang",
+      "c": "Ikut padam karena rangkaian menjadi terbuka",
+      "d": "Menyala lebih redup"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 479,
+    "chapter_source": "Kisi-kisi No. 21",
+    "question_text": "Keuntungan utama rangkaian listrik paralel dibandingkan rangkaian seri dalam instalasi listrik rumah adalah...",
+    "options": {
+      "a": "Membutuhkan kabel lebih sedikit",
+      "b": "Jika satu alat listrik mati, alat listrik lain pada cabang berbeda tetap menyala",
+      "c": "Semua alat listrik mendapat tegangan yang lebih kecil",
+      "d": "Lebih mudah dibuat"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 480,
+    "chapter_source": "Kisi-kisi No. 21",
+    "question_text": "Sakelar dalam rangkaian listrik berfungsi untuk...",
+    "options": {
+      "a": "Menghasilkan arus listrik",
+      "b": "Menghambat arus listrik",
+      "c": "Memutus dan menyambungkan aliran arus listrik",
+      "d": "Mengubah energi listrik menjadi energi lain"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 481,
+    "chapter_source": "Kisi-kisi No. 22",
+    "question_text": "Magnet memiliki dua kutub, yaitu kutub utara (U) dan kutub selatan (S). Jika dua kutub magnet yang senama (U dengan U, atau S dengan S) didekatkan, maka akan terjadi gaya...",
+    "options": {
+      "a": "Tarik-menarik",
+      "b": "Tolak-menolak",
+      "c": "Tidak ada interaksi",
+      "d": "Gesek"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 482,
+    "chapter_source": "Kisi-kisi No. 22",
+    "question_text": "Benda-benda yang dapat ditarik kuat oleh magnet disebut benda feromagnetik. Contoh benda feromagnetik adalah...",
+    "options": {
+      "a": "Besi, baja, nikel, kobalt",
+      "b": "Kayu, plastik, karet",
+      "c": "Aluminium, platina",
+      "d": "Kaca, kertas"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 483,
+    "chapter_source": "Kisi-kisi No. 22",
+    "question_text": "Medan magnet adalah daerah di sekitar magnet yang masih dipengaruhi oleh gaya magnet. Kekuatan medan magnet paling besar terdapat di bagian...",
+    "options": {
+      "a": "Tengah magnet",
+      "b": "Kutub-kutub magnet",
+      "c": "Seluruh permukaan magnet sama kuat",
+      "d": "Luar magnet"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 484,
+    "chapter_source": "Kisi-kisi No. 22",
+    "question_text": "Membuat magnet dengan cara induksi dilakukan dengan...",
+    "options": {
+      "a": "Menggosokkan magnet pada benda feromagnetik secara searah",
+      "b": "Mendekatkan magnet kuat pada benda feromagnetik tanpa menyentuhnya",
+      "c": "Mengalirkan arus listrik searah pada kumparan yang berinti besi",
+      "d": "Memanaskan benda feromagnetik"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 485,
+    "chapter_source": "Kisi-kisi No. 23",
+    "question_text": "Pembangkit listrik umumnya menggunakan generator untuk mengubah energi mekanik (gerak) menjadi energi listrik. Prinsip kerja generator didasarkan pada fenomena...",
+    "options": {
+      "a": "Induksi elektromagnetik (perubahan medan magnet menghasilkan arus listrik)",
+      "b": "Hukum Ohm",
+      "c": "Efek fotolistrik",
+      "d": "Reaksi kimia"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 486,
+    "chapter_source": "Kisi-kisi No. 23",
+    "question_text": "Energi listrik disalurkan dari pembangkit listrik ke konsumen melalui jaringan transmisi dan distribusi. Tegangan listrik dinaikkan menggunakan transformator step-up pada gardu induk sebelum transmisi jarak jauh. Tujuannya adalah...",
+    "options": {
+      "a": "Agar kabel tidak terlalu panas",
+      "b": "Mengurangi kehilangan energi (rugi-rugi daya) selama transmisi",
+      "c": "Agar listrik lebih aman digunakan",
+      "d": "Mempercepat aliran listrik"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 487,
+    "chapter_source": "Kisi-kisi No. 23",
+    "question_text": "Contoh perilaku menghemat energi listrik dalam kehidupan sehari-hari adalah... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Mematikan lampu dan peralatan elektronik jika tidak digunakan",
+      "b": "Menggunakan peralatan listrik berdaya rendah atau hemat energi",
+      "c": "Memanfaatkan cahaya matahari untuk penerangan di siang hari",
+      "d": "Menyalakan AC sepanjang hari dengan suhu terendah",
+      "e": "Memilih lampu LED daripada lampu pijar"
+    },
+    "correct_answers": ["a", "b", "c", "e"]
+  },
+  {
+    "id": 488,
+    "chapter_source": "Kisi-kisi No. 23",
+    "question_text": "Sekring (fuse) pada instalasi listrik berfungsi sebagai pengaman yang akan putus jika terjadi...",
+    "options": {
+      "a": "Pemadaman listrik dari PLN",
+      "b": "Arus listrik yang mengalir terlalu kecil",
+      "c": "Kelebihan beban atau hubungan singkat (korsleting) yang menyebabkan arus listrik terlalu besar",
+      "d": "Penghematan energi"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 489,
+    "chapter_source": "Kisi-kisi No. 24",
+    "question_text": "Pusat tata surya kita adalah Matahari. Matahari tergolong sebagai...",
+    "options": {
+      "a": "Planet",
+      "b": "Bintang (karena dapat menghasilkan cahayanya sendiri)",
+      "c": "Satelit",
+      "d": "Asteroid"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 490,
+    "chapter_source": "Kisi-kisi No. 24",
+    "question_text": "Planet-planet dalam tata surya dikelompokkan menjadi planet dalam (Merkurius, Venus, Bumi, Mars) dan planet luar (Jupiter, Saturnus, Uranus, Neptunus). Pembatas antara kedua kelompok planet ini adalah...",
+    "options": {
+      "a": "Sabuk Kuiper",
+      "b": "Awan Oort",
+      "c": "Sabuk asteroid",
+      "d": "Bulan"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 491,
+    "chapter_source": "Kisi-kisi No. 24",
+    "question_text": "Planet Jupiter dikenal sebagai planet terbesar di tata surya dan memiliki ciri khas berupa Bintik Merah Raksasa, yang sebenarnya merupakan...",
+    "options": {
+      "a": "Gunung berapi raksasa",
+      "b": "Danau metana cair",
+      "c": "Badai antisiklon permanen yang sangat besar",
+      "d": "Kawah tumbukan asteroid"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 492,
+    "chapter_source": "Kisi-kisi No. 24",
+    "question_text": "Komet adalah benda langit yang mengorbit Matahari dengan lintasan sangat lonjong, terdiri dari es, debu, dan gas. Saat mendekati Matahari, komet akan membentuk...",
+    "options": {
+      "a": "Cincin seperti Saturnus",
+      "b": "Atmosfer tebal",
+      "c": "Koma (selubung gas) dan ekor yang arahnya selalu menjauhi Matahari",
+      "d": "Kawah di permukaannya"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 493,
+    "chapter_source": "Kisi-kisi No. 25",
+    "question_text": "Peristiwa rotasi Bumi (perputaran Bumi pada porosnya) menyebabkan terjadinya... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Pergantian siang dan malam",
+      "b": "Gerak semu harian Matahari (terbit di timur, terbenam di barat)",
+      "c": "Perbedaan waktu di berbagai tempat di Bumi",
+      "d": "Pergantian musim",
+      "e": "Pembelokan arah angin dan arus laut (Efek Coriolis)"
+    },
+    "correct_answers": ["a", "b", "c", "e"]
+  },
+  {
+    "id": 494,
+    "chapter_source": "Kisi-kisi No. 25",
+    "question_text": "Peristiwa revolusi Bumi (peredaran Bumi mengelilingi Matahari) dengan sumbu rotasi yang miring menyebabkan terjadinya...",
+    "options": {
+      "a": "Gerhana Matahari",
+      "b": "Pergantian musim di belahan Bumi utara dan selatan",
+      "c": "Pasang surut air laut",
+      "d": "Perbedaan lama siang dan malam sepanjang tahun"
+    },
+    "correct_answers": ["b", "d"]
+  },
+  {
+    "id": 495,
+    "chapter_source": "Kisi-kisi No. 25",
+    "question_text": "Gerhana Bulan total terjadi ketika...",
+    "options": {
+      "a": "Bulan berada di antara Matahari dan Bumi",
+      "b": "Bumi berada tepat di antara Matahari dan Bulan dalam satu garis lurus, sehingga seluruh Bulan masuk ke dalam bayangan umbra Bumi",
+      "c": "Matahari berada di antara Bumi dan Bulan",
+      "d": "Bulan memasuki bayangan penumbra Bumi saja"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 496,
+    "chapter_source": "Kisi-kisi No. 25",
+    "question_text": "Gerhana Matahari cincin terjadi ketika Bulan berada di antara Matahari dan Bumi, namun piringan Bulan terlihat lebih kecil dari piringan Matahari (karena Bulan berada pada titik terjauh dari Bumi/apogee). Akibatnya...",
+    "options": {
+      "a": "Seluruh piringan Matahari tertutup sempurna",
+      "b": "Hanya sebagian piringan Matahari yang tertutup",
+      "c": "Bagian tengah piringan Matahari tertutup, menyisakan cincin cahaya di tepinya",
+      "d": "Tidak terjadi gerhana"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 497,
+    "chapter_source": "Kisi-kisi No. 1 & 20",
+    "question_text": "Bentuk kaki bebek yang berselaput adalah adaptasi morfologi yang berkaitan langsung dengan fungsinya untuk...",
+    "options": {
+      "a": "Mencengkeram mangsa",
+      "b": "Berjalan di lumpur dan berenang di air",
+      "c": "Memanjat pohon",
+      "d": "Terbang"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 498,
+    "chapter_source": "Kisi-kisi No. 3 & 4",
+    "question_text": "Gaya gesek udara bekerja pada penerjun payung. Saat parasut mengembang, luas permukaan menjadi besar sehingga gaya gesek udara meningkat. Hal ini menyebabkan...",
+    "options": {
+      "a": "Penerjun jatuh lebih cepat",
+      "b": "Penerjun melambat dan turun dengan kecepatan konstan yang aman",
+      "c": "Penerjun berubah arah",
+      "d": "Penerjun naik ke atas"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 499,
+    "chapter_source": "Kisi-kisi No. 5 & 23",
+    "question_text": "Menggunakan lampu hemat energi (LED) adalah upaya penghematan energi listrik. Perubahan energi utama pada lampu LED adalah...",
+    "options": {
+      "a": "Listrik menjadi panas",
+      "b": "Listrik menjadi cahaya (dengan sedikit panas)",
+      "c": "Listrik menjadi gerak",
+      "d": "Listrik menjadi bunyi"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 500,
+    "chapter_source": "Kisi-kisi No. 14 & 15",
+    "question_text": "Proses pengeringan pakaian basah di bawah sinar matahari melibatkan dua mekanisme utama: perpindahan kalor secara radiasi dari matahari ke pakaian, dan perubahan wujud air menjadi uap (menguap) yang membutuhkan kalor dari pakaian dan lingkungan.",
+    "options": {
+      "a": "Pernyataan salah, pengeringan hanya karena angin.",
+      "b": "Pernyataan benar.",
+      "c": "Hanya melibatkan radiasi.",
+      "d": "Hanya melibatkan penguapan."
+    },
+    "correct_answers": ["b"]
+  }
+]

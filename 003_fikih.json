@@ -1,0 +1,1203 @@
+[
+  {
+    "id": 801,
+    "kisi2_no": 24,
+    "question_text": "Makanan yang diolah dari bahan dasar halal, namun dalam proses pengolahannya menggunakan wadah yang sebelumnya digunakan untuk memasak babi tanpa disucikan terlebih dahulu, hukumnya menjadi...",
+    "options": {
+      "a": "Halal karena bahan dasarnya halal.",
+      "b": "Makruh karena ada keraguan.",
+      "c": "Haram karena terkontaminasi najis mughallazhah.",
+      "d": "Subhat sampai ada kejelasan."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 802,
+    "kisi2_no": 24,
+    "question_text": "Seorang Muslim menemukan makanan kaleng dari luar negeri tanpa label halal yang jelas. Komposisinya mencantumkan 'lemak hewan'. Sikap yang paling hati-hati menurut syariat adalah...",
+    "options": {
+      "a": "Langsung mengonsumsinya karena lapar.",
+      "b": "Menganggapnya halal karena tidak ada tulisan 'haram'.",
+      "c": "Menghindarinya karena ada unsur subhat yang kuat dan potensi keharaman.",
+      "d": "Memberikannya kepada non-Muslim."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 803,
+    "kisi2_no": 24,
+    "question_text": "Prinsip utama dalam menentukan kehalalan makanan selain dari zatnya adalah cara memperolehnya. Makanan yang zatnya halal namun diperoleh dengan cara mencuri, hukum mengonsumsinya adalah...",
+    "options": {
+      "a": "Halal karena zatnya halal.",
+      "b": "Makruh karena ada unsur keburukan.",
+      "c": "Haram karena cara memperolehnya tidak sah.",
+      "d": "Mubah jika sangat terpaksa."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 804,
+    "kisi2_no": 24,
+    "question_text": "Makanan yang memiliki manfaat bagi tubuh, tidak membahayakan, tidak najis, dan diperoleh dengan cara yang baik disebut makanan halal thayyiban. 'Thayyiban' dalam konteks ini lebih menekankan pada aspek...",
+    "options": {
+      "a": "Kelezatan rasa.",
+      "b": "Kualitas, kebaikan, dan kelayakan konsumsi dari segi kesehatan dan syariat.",
+      "c": "Harga yang mahal.",
+      "d": "Kemasan yang menarik."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 805,
+    "kisi2_no": 24,
+    "question_text": "Mengonsumsi makanan yang jelas keharamannya secara sengaja padahal mengetahui hukumnya, selain berdosa juga dapat berdampak negatif pada...",
+    "options": {
+      "a": "Kecerdasan intelektual saja.",
+      "b": "Kesehatan fisik dan kejernihan hati serta spiritualitas.",
+      "c": "Hubungan sosial dengan teman.",
+      "d": "Kemampuan berolahraga."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 806,
+    "kisi2_no": 25,
+    "question_text": "Makanan yang diharamkan karena zatnya, seperti babi dan darah, keharamannya bersifat 'ainiyah. Artinya, zat tersebut...",
+    "options": {
+      "a": "Boleh dikonsumsi dalam kondisi darurat.",
+      "b": "Haram dikonsumsi dalam kondisi apapun kecuali darurat yang mengancam jiwa.",
+      "c": "Bisa menjadi halal jika diolah dengan cara tertentu.",
+      "d": "Hanya haram bagi orang dewasa."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 807,
+    "kisi2_no": 25,
+    "question_text": "Salah satu hikmah diharamkannya beberapa jenis makanan adalah untuk menjaga kesehatan manusia. Makanan yang dapat memabukkan atau merusak akal sehat termasuk dalam kategori ini. Contohnya adalah...",
+    "options": {
+      "a": "Buah-buahan yang terlalu matang.",
+      "b": "Makanan yang difermentasi hingga menghasilkan alkohol dalam kadar tinggi.",
+      "c": "Daging sapi yang dimasak kurang matang.",
+      "d": "Sayuran yang tidak dicuci bersih."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 808,
+    "kisi2_no": 25,
+    "question_text": "Makanan yang diharamkan karena cara memperolehnya, misalnya hasil korupsi, meskipun zatnya halal seperti nasi dan lauk pauk, tetap haram dikonsumsi. Dampak dari mengonsumsi harta haram tersebut adalah...",
+    "options": {
+      "a": "Doa akan mudah terkabul.",
+      "b": "Tidak berpengaruh pada ibadah.",
+      "c": "Menghalangi terkabulnya doa dan merusak keberkahan hidup.",
+      "d": "Menambah kekuatan fisik."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 809,
+    "kisi2_no": 25,
+    "question_text": "Kondisi darurat (dharurat) yang memperbolehkan seseorang mengonsumsi makanan haram memiliki batasan yang ketat, yaitu...",
+    "options": {
+      "a": "Ketika merasa sangat lapar meskipun masih ada makanan halal.",
+      "b": "Ketika tidak ada makanan halal sama sekali dan jika tidak makan akan mengancam jiwa, serta dikonsumsi secukupnya untuk bertahan hidup.",
+      "c": "Ketika ingin mencoba rasa makanan haram.",
+      "d": "Ketika diajak teman untuk makan bersama."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 810,
+    "kisi2_no": 25,
+    "question_text": "Allah mengharamkan bangkai (hewan yang mati tidak disembelih secara syar'i) kecuali beberapa jenis bangkai. Bangkai hewan laut dan belalang hukumnya...",
+    "options": {
+      "a": "Haram mutlak.",
+      "b": "Halal untuk dikonsumsi.",
+      "c": "Makruh.",
+      "d": "Subhat."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 811,
+    "kisi2_no": 26,
+    "question_text": "Analisis terhadap ketentuan makanan halal dan haram menunjukkan bahwa Islam sangat memperhatikan aspek kebaikan (thayyib) dan kebersihan. Makanan yang kotor, menjijikkan, atau bercampur najis, meskipun asalnya halal, hukumnya menjadi...",
+    "options": {
+      "a": "Tetap halal karena asalnya.",
+      "b": "Makruh jika tidak terlalu kotor.",
+      "c": "Haram karena tidak memenuhi syarat thayyib dan berpotensi membahayakan.",
+      "d": "Mubah jika dicuci kembali."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 812,
+    "kisi2_no": 26,
+    "question_text": "Makanan yang disajikan untuk sesajen atau persembahan kepada selain Allah, meskipun bahan dasarnya halal, hukum mengonsumsinya bagi seorang Muslim adalah...",
+    "options": {
+      "a": "Halal karena makanannya enak.",
+      "b": "Makruh karena ada unsur syirik.",
+      "c": "Haram karena telah dipersembahkan untuk selain Allah dan mengandung unsur syirik.",
+      "d": "Boleh jika tidak ada makanan lain."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 813,
+    "kisi2_no": 26,
+    "question_text": "Seorang Muslim bekerja di restoran yang menyajikan menu halal dan haram (misalnya, ada menu babi). Jika ia bertugas memasak atau menyajikan menu haram tersebut, maka pendapatannya dari pekerjaan itu menjadi...",
+    "options": {
+      "a": "Sepenuhnya halal karena ia hanya bekerja.",
+      "b": "Makruh karena lingkungannya kurang baik.",
+      "c": "Tercampur antara halal dan haram, dan sebaiknya dihindari jika memungkinkan.",
+      "d": "Sepenuhnya haram karena mendukung kemaksiatan."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 814,
+    "kisi2_no": 26,
+    "question_text": "Dalam menganalisis kehalalan suatu produk makanan olahan, selain memperhatikan bahan baku, penting juga untuk memastikan proses produksi tidak melibatkan bahan tambahan atau penolong yang haram atau najis. Contoh bahan penolong yang sering menjadi titik kritis adalah...",
+    "options": {
+      "a": "Garam dan gula.",
+      "b": "Air mineral.",
+      "c": "Gelatin dari babi, kuas dari bulu babi, atau alkohol sebagai pelarut.",
+      "d": "Pewarna makanan alami dari tumbuhan."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 815,
+    "kisi2_no": 26,
+    "question_text": "Jika seseorang ragu-ragu (subhat) terhadap status kehalalan suatu makanan dan tidak ada informasi yang jelas, sikap yang paling dianjurkan dalam Islam adalah...",
+    "options": {
+      "a": "Tetap mengonsumsinya karena 'yang penting niatnya baik'.",
+      "b": "Meninggalkannya untuk kehati-hatian dan menjaga diri dari yang haram.",
+      "c": "Bertanya kepada orang yang tidak ahli.",
+      "d": "Mengonsumsinya sedikit saja."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 816,
+    "kisi2_no": 27,
+    "question_text": "Makanan yang diharamkan dalam Al-Qur'an dan Hadits memiliki 'illah (alasan) tertentu. Memahami 'illah ini membantu kita untuk menerapkan hukum pada kasus-kasus baru. Misalnya, 'illah diharamkannya khamr adalah karena memabukkan. Maka, semua yang memabukkan hukumnya...",
+    "options": {
+      "a": "Halal jika sedikit.",
+      "b": "Haram, meskipun namanya berbeda atau bentuknya baru.",
+      "c": "Makruh.",
+      "d": "Mubah."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 817,
+    "kisi2_no": 27,
+    "question_text": "Dampak mengonsumsi makanan haram tidak hanya bersifat individual (kesehatan, spiritual), tetapi juga bisa berdampak sosial, seperti...",
+    "options": {
+      "a": "Meningkatkan kerukunan masyarakat.",
+      "b": "Jika makanan haram diperoleh dari kezaliman (korupsi, mencuri), maka akan merugikan hak orang lain dan merusak tatanan sosial.",
+      "c": "Membuat masyarakat lebih maju.",
+      "d": "Tidak ada dampak sosial sama sekali."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 818,
+    "kisi2_no": 27,
+    "question_text": "Seorang koki Muslim secara tidak sengaja menggunakan sedikit bumbu yang ternyata mengandung unsur haram dalam jumlah sangat kecil pada masakan dalam porsi besar. Bagaimana status hukum masakan tersebut menurut sebagian ulama jika unsur haram tersebut sudah larut dan tidak mengubah sifat (rasa, bau, warna) makanan?",
+    "options": {
+      "a": "Tetap haram secara mutlak.",
+      "b": "Ada pendapat ulama yang memaafkan (ma'fu 'anhu) karena jumlahnya sangat sedikit dan tidak mengubah sifat, namun kehati-hatian lebih utama.",
+      "c": "Menjadi halal sepenuhnya.",
+      "d": "Hanya makruh."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 819,
+    "kisi2_no": 27,
+    "question_text": "Dalam menganalisis kehalalan makanan impor, peran lembaga sertifikasi halal yang kredibel sangat penting. Fungsi utama lembaga sertifikasi halal adalah...",
+    "options": {
+      "a": "Menentukan harga jual produk.",
+      "b": "Memastikan bahwa produk makanan telah memenuhi standar kehalalan dari bahan baku, proses produksi, hingga penyajian.",
+      "c": "Mempromosikan produk impor.",
+      "d": "Memberikan izin edar produk."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 820,
+    "kisi2_no": 27,
+    "question_text": "Makanan yang jelas halalnya namun dikonsumsi secara berlebihan (israf) hingga membahayakan kesehatan atau melalaikan dari ibadah, hukum perbuatan berlebihannya itu adalah...",
+    "options": {
+      "a": "Sangat dianjurkan.",
+      "b": "Mubah saja.",
+      "c": "Tercela dan bisa mendekati haram jika menimbulkan mudharat.",
+      "d": "Sunnah."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 821,
+    "kisi2_no": 28,
+    "question_text": "Minuman yang difermentasi dari buah-buahan seperti anggur atau kurma, jika proses fermentasinya menghasilkan alkohol yang memabukkan, maka minuman tersebut dikenal dengan istilah khamr dan hukumnya haram. Ketentuan ini berlaku meskipun...",
+    "options": {
+      "a": "Diminum dalam jumlah sedikit dan tidak sampai mabuk.",
+      "b": "Warnanya menarik dan rasanya enak.",
+      "c": "Harganya mahal.",
+      "d": "Dibuat oleh seorang Muslim."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 822,
+    "kisi2_no": 28,
+    "question_text": "Air putih, jus buah murni (tanpa tambahan alkohol), dan susu adalah contoh minuman yang halal. Kehalalan minuman ini didasarkan pada kriteria...",
+    "options": {
+      "a": "Warnanya bening.",
+      "b": "Rasanya manis.",
+      "c": "Tidak memabukkan, tidak najis, tidak membahayakan, dan berasal dari sumber yang halal.",
+      "d": "Harganya murah."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 823,
+    "kisi2_no": 28,
+    "question_text": "Minuman yang tercampur najis, misalnya air sumur yang kemasukan bangkai tikus dan berubah sifatnya (bau, rasa, warna), hukumnya menjadi...",
+    "options": {
+      "a": "Tetap halal jika disaring.",
+      "b": "Makruh jika diminum sedikit.",
+      "c": "Haram untuk dikonsumsi atau digunakan bersuci.",
+      "d": "Halal jika dimasak hingga mendidih."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 824,
+    "kisi2_no": 28,
+    "question_text": "Selain khamr, minuman yang diharamkan adalah yang membahayakan kesehatan secara langsung meskipun tidak memabukkan, seperti minuman yang mengandung racun atau bahan kimia berbahaya. Prinsip ini sejalan dengan kaidah...",
+    "options": {
+      "a": "Memudahkan urusan.",
+      "b": "Menolak kemudharatan lebih diutamakan daripada mengambil kemaslahatan (Dar'ul mafasid muqaddamun 'ala jalbil mashalih).",
+      "c": "Segala sesuatu pada asalnya mubah.",
+      "d": "Mengikuti tradisi nenek moyang."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 825,
+    "kisi2_no": 29,
+    "question_text": "Minuman energi yang mengandung kafein dalam kadar sangat tinggi dan bahan stimulan lain yang jika dikonsumsi berlebihan dapat membahayakan jantung, status kehalalannya perlu dipertimbangkan dari aspek...",
+    "options": {
+      "a": "Rasanya yang enak.",
+      "b": "Kemampuannya menghilangkan kantuk.",
+      "c": "Potensi bahaya (mudharat) bagi kesehatan jika dikonsumsi tidak sesuai takaran.",
+      "d": "Popularitasnya di kalangan remaja."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 826,
+    "kisi2_no": 29,
+    "question_text": "Air kelapa muda murni adalah minuman halal dan menyegarkan. Namun, jika air kelapa tersebut dicampur dengan arak atau bahan memabukkan lainnya, maka campuran tersebut hukumnya...",
+    "options": {
+      "a": "Tetap halal karena dominan air kelapa.",
+      "b": "Makruh.",
+      "c": "Haram karena telah tercampur dengan zat yang haram dan memabukkan.",
+      "d": "Halal jika diminum sedikit."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 827,
+    "kisi2_no": 29,
+    "question_text": "Meminum air zam-zam diyakini membawa keberkahan dan memiliki khasiat. Kehalalan air zam-zam tidak diragukan lagi. Anjuran meminum air zam-zam dengan niat baik termasuk dalam kategori...",
+    "options": {
+      "a": "Minuman haram.",
+      "b": "Minuman makruh.",
+      "c": "Minuman halal yang disunnahkan atau dianjurkan karena keutamaannya.",
+      "d": "Minuman mubah biasa."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 828,
+    "kisi2_no": 29,
+    "question_text": "Minuman tradisional seperti wedang jahe atau bandrek yang terbuat dari rempah-rempah alami dan tidak memabukkan hukumnya halal dan bahkan bermanfaat bagi kesehatan. Hal ini menunjukkan bahwa Islam...",
+    "options": {
+      "a": "Melarang semua minuman tradisional.",
+      "b": "Mendorong konsumsi minuman yang baik, bermanfaat, dan tidak bertentangan dengan syariat.",
+      "c": "Hanya memperbolehkan air putih.",
+      "d": "Tidak peduli dengan jenis minuman."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 829,
+    "kisi2_no": 30,
+    "question_text": "Analisis terhadap minuman kemasan yang beredar di pasaran memerlukan kehati-hatian. Jika komposisi menyebutkan 'alkohol' sebagai pelarut essen dalam jumlah sangat kecil dan tidak memabukkan, bagaimana pandangan ulama mengenai hal ini?",
+    "options": {
+      "a": "Semua ulama sepakat haram mutlak.",
+      "b": "Ada perbedaan pendapat; sebagian menganggapnya ma'fu (dimaafkan) jika kadarnya sangat kecil dan tidak memabukkan, sebagian tetap mengharamkan. Kehati-hatian lebih utama.",
+      "c": "Semua ulama sepakat halal.",
+      "d": "Hanya makruh."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 830,
+    "kisi2_no": 30,
+    "question_text": "Minuman yang diperas dari buah anggur (jus anggur) hukumnya halal. Namun, jika jus anggur tersebut dibiarkan terfermentasi dalam waktu lama hingga berubah menjadi minuman keras (khamr), maka hukumnya menjadi haram. Perubahan hukum ini disebabkan oleh...",
+    "options": {
+      "a": "Perubahan warna minuman.",
+      "b": "Perubahan sifat zat yang menghasilkan efek memabukkan.",
+      "c": "Perubahan kemasan.",
+      "d": "Perubahan harga."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 831,
+    "kisi2_no": 30,
+    "question_text": "Larangan mengonsumsi minuman keras (khamr) dalam Islam sangat tegas karena dampak negatifnya yang luas, tidak hanya pada individu peminum tetapi juga pada...",
+    "options": {
+      "a": "Pertumbuhan ekonomi negara.",
+      "b": "Keluarga, masyarakat (kriminalitas, kecelakaan), dan tatanan sosial secara umum.",
+      "c": "Kualitas udara.",
+      "d": "Hubungan internasional."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 832,
+    "kisi2_no": 30,
+    "question_text": "Jika seseorang terpaksa berada dalam situasi di mana tidak ada minuman lain selain khamr untuk menghilangkan dahaga yang mengancam jiwa, ulama fiqih memberikan rukhsah (keringanan) untuk meminumnya secukupnya. Namun, jika ada air kotor yang masih bisa disucikan (misalnya dengan merebus), maka air kotor tersebut lebih utama daripada khamr. Mengapa demikian?",
+    "options": {
+      "a": "Karena khamr lebih mahal.",
+      "b": "Karena bahaya khamr terhadap akal dan agama lebih besar daripada bahaya air kotor yang masih bisa diatasi.",
+      "c": "Karena air kotor lebih mudah didapat.",
+      "d": "Karena khamr tidak bisa menghilangkan dahaga."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 833,
+    "kisi2_no": 31,
+    "question_text": "Hewan yang disembelih dengan menyebut nama selain Allah, meskipun jenis hewannya halal (misalnya sapi), hukum dagingnya menjadi...",
+    "options": {
+      "a": "Halal karena jenisnya halal.",
+      "b": "Makruh.",
+      "c": "Haram karena cara penyembelihannya tidak sesuai syariat dan mengandung unsur syirik.",
+      "d": "Subhat."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 834,
+    "kisi2_no": 31,
+    "question_text": "Semua jenis ikan dan hewan yang hidup di air (laut maupun tawar) pada dasarnya halal dikonsumsi, kecuali jika...",
+    "options": {
+      "a": "Warnanya tidak menarik.",
+      "b": "Ukurannya terlalu besar.",
+      "c": "Mengandung racun atau membahayakan kesehatan jika dikonsumsi.",
+      "d": "Sulit ditangkap."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 835,
+    "kisi2_no": 31,
+    "question_text": "Hewan yang mati karena tercekik, dipukul, jatuh, ditanduk hewan lain, atau diterkam binatang buas (selain yang sempat disembelih sebelum mati) disebut bangkai dan hukumnya haram, kecuali...",
+    "options": {
+      "a": "Bangkai ayam.",
+      "b": "Bangkai sapi.",
+      "c": "Bangkai ikan dan belalang.",
+      "d": "Bangkai kambing."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 836,
+    "kisi2_no": 31,
+    "question_text": "Hewan yang memiliki taring kuat untuk memangsa (seperti singa, harimau, serigala) atau cakar tajam untuk mencengkeram mangsa (seperti elang, rajawali) umumnya diharamkan. 'Illah (alasan) pengharaman ini adalah karena sifatnya sebagai...",
+    "options": {
+      "a": "Hewan langka.",
+      "b": "Hewan buas (pemangsa) dan berpotensi membahayakan atau memiliki tabiat buruk.",
+      "c": "Hewan herbivora.",
+      "d": "Hewan yang sulit dijinakkan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 837,
+    "kisi2_no": 32,
+    "question_text": "Hewan yang diperintahkan untuk dibunuh dalam Islam (seperti ular, kalajengking, tikus) karena sifatnya yang mengganggu atau membahayakan, hukum mengonsumsinya adalah...",
+    "options": {
+      "a": "Halal karena sudah dibunuh.",
+      "b": "Makruh.",
+      "c": "Haram.",
+      "d": "Mubah."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 838,
+    "kisi2_no": 32,
+    "question_text": "Hewan yang hidup di dua alam (amfibi) seperti katak, para ulama berbeda pendapat mengenai kehalalannya. Pendapat yang lebih kuat dan dipegang mayoritas ulama adalah...",
+    "options": {
+      "a": "Halal secara mutlak.",
+      "b": "Haram karena dianggap menjijikkan atau karena ada larangan membunuhnya (dalam beberapa riwayat).",
+      "c": "Makruh.",
+      "d": "Halal jika dimasak dengan benar."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 839,
+    "kisi2_no": 32,
+    "question_text": "Keledai jinak (himar ahliyah) diharamkan dagingnya berdasarkan hadits Nabi Saw. Namun, kuda hukumnya diperselisihkan, mayoritas ulama berpendapat...",
+    "options": {
+      "a": "Haram seperti keledai.",
+      "b": "Halal untuk dikonsumsi.",
+      "c": "Makruh.",
+      "d": "Hanya boleh dimakan saat perang."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 840,
+    "kisi2_no": 32,
+    "question_text": "Proses penyembelihan hewan yang halal harus memenuhi beberapa syarat, di antaranya adalah penyembelih beragama Islam (atau ahli kitab menurut sebagian pendapat), menggunakan alat yang tajam, dan memutus...",
+    "options": {
+      "a": "Hanya kulit leher.",
+      "b": "Kepala hewan hingga putus.",
+      "c": "Saluran pernapasan (hulqum), saluran makanan (mari'), dan dua urat leher (wadajain).",
+      "d": "Ekor hewan."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 841,
+    "kisi2_no": 33,
+    "question_text": "Hewan yang halal namun disembelih tanpa menyebut nama Allah dengan sengaja, hukum dagingnya menjadi...",
+    "options": {
+      "a": "Tetap halal karena jenisnya halal.",
+      "b": "Makruh.",
+      "c": "Haram menurut mayoritas ulama.",
+      "d": "Halal jika lupa menyebut nama Allah."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 842,
+    "kisi2_no": 33,
+    "question_text": "Bagian dari hewan halal yang telah disembelih secara syar'i, namun tetap diharamkan untuk dikonsumsi adalah...",
+    "options": {
+      "a": "Daging dan tulangnya.",
+      "b": "Kulitnya.",
+      "c": "Darah yang mengalir, kotoran, dan kemaluan.",
+      "d": "Hatinya."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 843,
+    "kisi2_no": 33,
+    "question_text": "Jika menemukan hewan buruan yang mati karena tertembak oleh seorang Muslim dengan menyebut nama Allah, namun baru ditemukan setelah beberapa waktu dan tidak sempat disembelih, hukumnya adalah...",
+    "options": {
+      "a": "Haram karena menjadi bangkai.",
+      "b": "Halal jika matinya murni karena luka tembakan tersebut dan tidak ada sebab lain.",
+      "c": "Makruh.",
+      "d": "Subhat."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 844,
+    "kisi2_no": 33,
+    "question_text": "Hewan yang menjijikkan (khabaits) seperti cacing atau serangga tertentu, umumnya diharamkan karena tidak sesuai dengan fitrah manusia yang baik dan berpotensi membawa penyakit. Prinsip ini menunjukkan bahwa Islam memperhatikan aspek...",
+    "options": {
+      "a": "Kelangkaan hewan.",
+      "b": "Kebersihan, kesehatan, dan kelayakan (thayyib).",
+      "c": "Ukuran hewan.",
+      "d": "Warna hewan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 845,
+    "kisi2_no": 34,
+    "question_text": "Analisis terhadap status kehalalan hewan ternak seperti sapi, kambing, dan ayam menunjukkan bahwa kehalalannya sangat bergantung pada dua faktor utama, yaitu...",
+    "options": {
+      "a": "Jenis makanannya dan cara berkembang biaknya.",
+      "b": "Jenis hewannya itu sendiri (halal zatnya) dan cara penyembelihannya yang sesuai syariat.",
+      "c": "Harganya di pasaran dan ukurannya.",
+      "d": "Warna bulunya dan suaranya."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 846,
+    "kisi2_no": 34,
+    "question_text": "Hewan jallalah adalah hewan pemakan kotoran atau najis. Jika hewan halal (misalnya ayam) menjadi jallalah, maka daging dan telurnya menjadi...",
+    "options": {
+      "a": "Tetap halal tanpa syarat.",
+      "b": "Haram atau makruh untuk dikonsumsi sampai dikarantina dan diberi pakan yang bersih selama beberapa waktu hingga pengaruh najisnya hilang.",
+      "c": "Lebih enak rasanya.",
+      "d": "Otomatis menjadi halal setelah dimasak."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 847,
+    "kisi2_no": 34,
+    "question_text": "Dalam kondisi terpaksa di hutan dan tidak ada makanan lain selain hewan haram yang bisa ditangkap untuk menyambung hidup, maka dibolehkan memakannya secukupnya. Namun, jika ada pilihan antara babi dan hewan buas bertaring, mana yang lebih diutamakan untuk dihindari jika memungkinkan?",
+    "options": {
+      "a": "Babi, karena keharamannya lebih tegas disebut dalam Al-Qur'an.",
+      "b": "Hewan buas, karena lebih berbahaya saat ditangkap.",
+      "c": "Keduanya sama saja tingkat keharamannya dalam kondisi darurat.",
+      "d": "Tidak ada yang boleh dimakan sama sekali."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 848,
+    "kisi2_no": 34,
+    "question_text": "Mengonsumsi produk turunan dari hewan haram, seperti gelatin dari kulit babi atau minyak dari lemak babi, hukumnya adalah...",
+    "options": {
+      "a": "Halal jika sudah diolah.",
+      "b": "Makruh.",
+      "c": "Haram karena berasal dari sumber yang haram.",
+      "d": "Halal jika jumlahnya sedikit."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 849,
+    "kisi2_no": 35,
+    "question_text": "Salah satu rukun jual beli adalah adanya ijab dan qabul. Ijab adalah pernyataan menjual dari penjual, sedangkan qabul adalah pernyataan membeli dari pembeli. Jika salah satu tidak ada, maka jual beli dianggap...",
+    "options": {
+      "a": "Sah tetapi makruh.",
+      "b": "Tidak sah.",
+      "c": "Sah tetapi haram.",
+      "d": "Sah dan sempurna."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 850,
+    "kisi2_no": 35,
+    "question_text": "Objek jual beli (barang yang diperjualbelikan) harus memenuhi syarat tertentu, di antaranya adalah suci (tidak najis), bermanfaat, milik penjual atau dikuasainya, dan jelas diketahui jenis, sifat, serta ukurannya. Jual beli anak sapi yang masih dalam kandungan induknya hukumnya...",
+    "options": {
+      "a": "Sah karena calonnya sudah ada.",
+      "b": "Tidak sah karena mengandung unsur gharar (ketidakjelasan objek).",
+      "c": "Sah jika harganya murah.",
+      "d": "Makruh."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 851,
+    "kisi2_no": 35,
+    "question_text": "Penjual dan pembeli dalam transaksi jual beli disyaratkan baligh, berakal sehat, dan melakukan transaksi atas kehendak sendiri (tidak ada paksaan). Jika seorang anak kecil yang belum mumayyiz melakukan jual beli barang berharga tanpa izin walinya, hukum jual belinya...",
+    "options": {
+      "a": "Sah secara mutlak.",
+      "b": "Tidak sah karena belum memenuhi syarat pelaku akad.",
+      "c": "Sah jika barangnya murah.",
+      "d": "Sah jika penjualnya setuju."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 852,
+    "kisi2_no": 35,
+    "question_text": "Jual beli dengan sistem 'online' di mana pembeli tidak melihat barang secara langsung namun berdasarkan deskripsi dan gambar, dianggap sah jika...",
+    "options": {
+      "a": "Deskripsi barang sangat minim.",
+      "b": "Barang yang dikirim tidak sesuai dengan deskripsi sama sekali.",
+      "c": "Deskripsi barang jelas, spesifik, dan barang yang dikirim sesuai dengan deskripsi tersebut, serta ada hak khiyar (memilih lanjut atau batal) jika tidak sesuai.",
+      "d": "Penjual tidak mau bertanggung jawab jika ada kerusakan."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 853,
+    "kisi2_no": 36,
+    "question_text": "Khiyar dalam jual beli adalah hak bagi penjual atau pembeli untuk meneruskan atau membatalkan transaksi dalam kondisi tertentu. Khiyar majlis adalah hak yang berlaku selama...",
+    "options": {
+      "a": "Tiga hari setelah transaksi.",
+      "b": "Penjual dan pembeli masih berada di tempat akad (transaksi) dan belum berpisah.",
+      "c": "Barang belum diterima pembeli.",
+      "d": "Barang sudah rusak."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 854,
+    "kisi2_no": 36,
+    "question_text": "Jual beli yang mengandung unsur riba hukumnya haram. Salah satu bentuk riba dalam jual beli adalah riba fadhl, yaitu...",
+    "options": {
+      "a": "Menjual barang yang belum dimiliki.",
+      "b": "Menukar barang sejenis (misalnya emas dengan emas, kurma dengan kurma) dengan takaran atau kualitas yang berbeda dan ada kelebihan yang disyaratkan.",
+      "c": "Menunda pembayaran tanpa alasan.",
+      "d": "Membeli barang dengan harga sangat murah."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 855,
+    "kisi2_no": 36,
+    "question_text": "Seorang pedagang buah menjual mangga dengan mengatakan, 'Saya jual mangga ini sekilo Rp 20.000, tapi kalau beli dua kilo Rp 35.000.' Jenis jual beli ini diperbolehkan karena merupakan bentuk...",
+    "options": {
+      "a": "Riba karena ada perbedaan harga.",
+      "b": "Gharar karena tidak jelas.",
+      "c": "Pemberian diskon untuk pembelian dalam jumlah lebih banyak, dan jelas harganya untuk setiap pilihan.",
+      "d": "Paksaan."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 856,
+    "kisi2_no": 36,
+    "question_text": "Jual beli sistem ijon, yaitu menjual buah-buahan yang masih sangat muda di pohon dan belum jelas hasilnya, dilarang karena...",
+    "options": {
+      "a": "Menguntungkan petani.",
+      "b": "Mengandung unsur spekulasi dan gharar (ketidakpastian) yang tinggi.",
+      "c": "Harganya pasti mahal.",
+      "d": "Sudah menjadi tradisi."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 857,
+    "kisi2_no": 37,
+    "question_text": "Menjual barang yang sudah dibeli tetapi belum diterima atau dikuasai sepenuhnya (qabdh) oleh penjual pertama kepada pihak lain, hukumnya menurut mayoritas ulama adalah...",
+    "options": {
+      "a": "Sah dan dianjurkan.",
+      "b": "Makruh.",
+      "c": "Tidak sah atau dilarang karena berpotensi menimbulkan sengketa dan gharar.",
+      "d": "Sah jika harganya lebih tinggi."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 858,
+    "kisi2_no": 37,
+    "question_text": "Jika dalam suatu transaksi jual beli terdapat cacat pada barang yang tidak diketahui pembeli saat akad, maka pembeli memiliki hak...",
+    "options": {
+      "a": "Untuk menambah harga.",
+      "b": "Khiyar 'aib, yaitu memilih untuk mengembalikan barang dan meminta uang kembali, atau menerimanya dengan ganti rugi (jika disepakati).",
+      "c": "Untuk merusak barang tersebut.",
+      "d": "Untuk tetap diam dan menerima apa adanya."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 859,
+    "kisi2_no": 37,
+    "question_text": "Jual beli dengan menimbun barang kebutuhan pokok saat masyarakat sangat membutuhkan dengan tujuan untuk menaikkan harga setinggi-tingginya (ihtikar) hukumnya...",
+    "options": {
+      "a": "Dianjurkan karena menguntungkan pedagang.",
+      "b": "Mubah karena hak pedagang.",
+      "c": "Haram karena merugikan masyarakat luas dan merupakan kezaliman.",
+      "d": "Makruh jika tidak terlalu banyak."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 860,
+    "kisi2_no": 37,
+    "question_text": "Seorang penjual melebih-lebihkan kualitas barang dagangannya dengan sumpah palsu agar pembeli tertarik. Perbuatan ini dalam jual beli hukumnya...",
+    "options": {
+      "a": "Diperbolehkan sebagai strategi pemasaran.",
+      "b": "Makruh.",
+      "c": "Haram karena mengandung unsur penipuan dan sumpah palsu.",
+      "d": "Sunnah."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 861,
+    "kisi2_no": 38,
+    "question_text": "Jual beli barang curian, meskipun pembeli tidak tahu bahwa barang itu curian, tetap berisiko. Jika kemudian diketahui, maka pembeli...",
+    "options": {
+      "a": "Berhak memiliki barang tersebut sepenuhnya.",
+      "b": "Wajib mengembalikan barang tersebut kepada pemilik aslinya dan bisa menuntut ganti rugi kepada penjual (pencuri).",
+      "c": "Boleh menjualnya lagi kepada orang lain.",
+      "d": "Tidak perlu melakukan apa-apa."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 862,
+    "kisi2_no": 38,
+    "question_text": "Dalam jual beli kredit (angsuran), harga barang biasanya lebih tinggi daripada harga tunai. Hal ini diperbolehkan dalam Islam selama...",
+    "options": {
+      "a": "Tidak ada akad yang jelas di awal mengenai harga dan jangka waktu.",
+      "b": "Harga kredit dan jangka waktu angsuran disepakati dengan jelas di awal akad, dan tidak ada denda keterlambatan yang bersifat riba.",
+      "c": "Bunga kreditnya sangat tinggi.",
+      "d": "Pembeli dipaksa untuk membeli secara kredit."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 863,
+    "kisi2_no": 38,
+    "question_text": "Jual beli yang dilakukan saat adzan Jumat sudah berkumandang bagi laki-laki Muslim yang wajib shalat Jumat hukumnya...",
+    "options": {
+      "a": "Sah dan dianjurkan.",
+      "b": "Makruh, namun sebagian ulama mengharamkannya karena melalaikan dari kewajiban shalat Jumat.",
+      "c": "Sunnah.",
+      "d": "Tidak ada larangan sama sekali."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 864,
+    "kisi2_no": 38,
+    "question_text": "Seorang pedagang mengurangi takaran atau timbangan barang yang dijualnya. Perbuatan ini termasuk bentuk kecurangan dalam jual beli yang hukumnya...",
+    "options": {
+      "a": "Diperbolehkan jika pembeli tidak tahu.",
+      "b": "Makruh.",
+      "c": "Haram dan merupakan dosa besar.",
+      "d": "Hanya tidak etis."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 865,
+    "kisi2_no": 39,
+    "question_text": "Transaksi jual beli saham di pasar modal modern memiliki aspek yang kompleks. Agar sesuai syariah, transaksi tersebut harus terhindar dari unsur...",
+    "options": {
+      "a": "Keuntungan yang wajar.",
+      "b": "Maysir (judi/spekulasi berlebihan), gharar (ketidakjelasan), dan riba.",
+      "c": "Analisis fundamental perusahaan.",
+      "d": "Penggunaan teknologi canggih."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 866,
+    "kisi2_no": 39,
+    "question_text": "Jual beli dengan sistem 'dropshipping' di mana penjual tidak memiliki stok barang tetapi langsung memesan dari supplier untuk dikirim ke pembeli, hukumnya menjadi perdebatan. Agar lebih aman secara syar'i, sebaiknya penjual...",
+    "options": {
+      "a": "Tidak memberitahu pembeli bahwa ia dropshipper.",
+      "b": "Memastikan ia memiliki hak jual atas barang tersebut (misalnya dengan akad salam atau menjadi wakil supplier) dan deskripsi barang sangat jelas.",
+      "c": "Menjual barang fiktif.",
+      "d": "Menetapkan harga setinggi-tingginya."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 867,
+    "kisi2_no": 39,
+    "question_text": "Jika terjadi perselisihan dalam jual beli dan tidak ada kesepakatan damai, langkah yang dianjurkan dalam Islam adalah...",
+    "options": {
+      "a": "Bertengkar dan saling mencaci.",
+      "b": "Menyelesaikan melalui jalur hukum yang adil atau melalui penengah (hakam) yang dipercaya.",
+      "c": "Membiarkan masalah berlarut-larut.",
+      "d": "Menggunakan kekerasan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 868,
+    "kisi2_no": 39,
+    "question_text": "Etika penting dalam jual beli menurut Islam adalah kejujuran dan transparansi. Menyembunyikan cacat barang yang dijual hukumnya...",
+    "options": {
+      "a": "Diperbolehkan jika pembeli tidak bertanya.",
+      "b": "Haram karena termasuk penipuan.",
+      "c": "Makruh.",
+      "d": "Bagian dari strategi dagang."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 869,
+    "kisi2_no": 40,
+    "question_text": "Pinjam meminjam ('ariyah) dalam Islam adalah akad pemberian manfaat suatu barang halal kepada orang lain untuk dimanfaatkan tanpa merusak zatnya, dengan ketentuan akan dikembalikan setelah selesai digunakan. Hukum asal pinjam meminjam adalah...",
+    "options": {
+      "a": "Wajib.",
+      "b": "Haram.",
+      "c": "Sunnah atau dianjurkan, bahkan bisa wajib jika sangat dibutuhkan.",
+      "d": "Makruh."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 870,
+    "kisi2_no": 40,
+    "question_text": "Barang yang dipinjamkan ('ariyah) haruslah barang yang memiliki manfaat dan tidak habis dipakai. Meminjamkan makanan untuk dimakan tidak termasuk 'ariyah, melainkan lebih dekat kepada...",
+    "options": {
+      "a": "Sewa menyewa (ijarah).",
+      "b": "Pemberian (hibah) atau sedekah.",
+      "c": "Jual beli.",
+      "d": "Titipan (wadi'ah)."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 871,
+    "kisi2_no": 40,
+    "question_text": "Peminjam ('musta'ir') berkewajiban menjaga barang pinjaman dengan baik seperti menjaga barang miliknya sendiri dan mengembalikannya sesuai waktu yang disepakati atau setelah selesai digunakan. Jika barang pinjaman rusak karena kelalaian peminjam, maka ia...",
+    "options": {
+      "a": "Tidak perlu bertanggung jawab.",
+      "b": "Wajib mengganti kerugian atau memperbaiki barang tersebut.",
+      "c": "Boleh menyalahkan pemilik barang.",
+      "d": "Boleh membuang barang tersebut."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 872,
+    "kisi2_no": 40,
+    "question_text": "Meminjamkan barang untuk digunakan dalam kemaksiatan (misalnya meminjamkan pisau untuk merampok) hukumnya...",
+    "options": {
+      "a": "Dianjurkan karena membantu teman.",
+      "b": "Mubah saja.",
+      "c": "Haram karena termasuk tolong-menolong dalam dosa.",
+      "d": "Makruh."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 873,
+    "kisi2_no": 41,
+    "question_text": "Akad pinjam meminjam berakhir jika... (Pilih semua jawaban yang benar)",
+    "options": {
+      "a": "Barang pinjaman telah dikembalikan.",
+      "b": "Salah satu pihak (peminjam atau pemberi pinjaman) meninggal dunia.",
+      "c": "Pemberi pinjaman meminta kembali barangnya (jika akadnya tidak dibatasi waktu).",
+      "d": "Barang pinjaman hilang dicuri.",
+      "e": "Masa peminjaman yang disepakati telah habis."
+    },
+    "correct_answers": ["a", "b", "c", "e"]
+  },
+  {
+    "id": 874,
+    "kisi2_no": 41,
+    "question_text": "Jika seseorang meminjam buku dari perpustakaan dan sengaja tidak mengembalikannya padahal sudah jatuh tempo, perbuatan tersebut termasuk...",
+    "options": {
+      "a": "Sikap yang terpuji.",
+      "b": "Pelanggaran amanah dan berpotensi menjadi ghashab jika niat memiliki.",
+      "c": "Hal yang biasa saja.",
+      "d": "Bentuk sedekah."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 875,
+    "kisi2_no": 41,
+    "question_text": "Manfaat dari praktik pinjam meminjam dalam masyarakat adalah...",
+    "options": {
+      "a": "Menimbulkan permusuhan.",
+      "b": "Mempererat tali silaturahmi, saling membantu memenuhi kebutuhan, dan menumbuhkan rasa kepedulian sosial.",
+      "c": "Membuat orang menjadi malas.",
+      "d": "Hanya menguntungkan peminjam."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 876,
+    "kisi2_no": 41,
+    "question_text": "Meminjamkan kendaraan kepada teman yang tidak memiliki SIM dan belum mahir berkendara, meskipun tujuannya baik, mengandung risiko besar. Dari sisi fiqih, pemberi pinjaman juga bisa ikut bertanggung jawab jika terjadi kecelakaan akibat kelalaian ini karena...",
+    "options": {
+      "a": "Kendaraan tersebut miliknya.",
+      "b": "Tidak mempertimbangkan kemampuan dan keamanan peminjam.",
+      "c": "Temannya yang bersalah penuh.",
+      "d": "Hukum pinjam meminjam tidak mengatur hal ini."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 877,
+    "kisi2_no": 42,
+    "question_text": "Jika barang pinjaman ('ariyah) menghasilkan manfaat atau keuntungan selama masa peminjaman (misalnya, sapi pinjaman melahirkan anak), maka manfaat atau anak sapi tersebut menjadi milik...",
+    "options": {
+      "a": "Peminjam sepenuhnya.",
+      "b": "Pemberi pinjaman (pemilik asli barang), kecuali ada kesepakatan lain.",
+      "c": "Dibagi dua antara peminjam dan pemberi pinjaman.",
+      "d": "Milik negara."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 878,
+    "kisi2_no": 42,
+    "question_text": "Perbedaan mendasar antara pinjam meminjam ('ariyah) dengan sewa menyewa (ijarah) adalah...",
+    "options": {
+      "a": "Dalam 'ariyah ada imbalan, dalam ijarah tidak ada.",
+      "b": "Dalam 'ariyah tidak ada imbalan (manfaat diberikan cuma-cuma), sedangkan dalam ijarah ada imbalan (uang sewa) atas manfaat barang.",
+      "c": "Barang 'ariyah boleh dirusak, barang ijarah tidak.",
+      "d": "Tidak ada perbedaan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 879,
+    "kisi2_no": 42,
+    "question_text": "Seseorang meminjam motor temannya untuk pergi ke pasar. Di tengah jalan, tanpa disengaja motor tersebut tertabrak dari belakang oleh pengendara lain hingga rusak. Tanggung jawab peminjam dalam kasus ini adalah...",
+    "options": {
+      "a": "Wajib mengganti semua kerusakan karena dia yang memakai.",
+      "b": "Tidak bertanggung jawab sama sekali karena bukan kesalahannya.",
+      "c": "Bertanggung jawab jika kerusakan disebabkan kelalaiannya, namun jika murni kecelakaan di luar kuasanya dan ia sudah berhati-hati, maka tidak wajib ganti rugi (amanah yad al-amanah), kecuali ada syarat lain di awal.",
+      "d": "Menyalahkan temannya karena meminjamkan motor."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 880,
+    "kisi2_no": 42,
+    "question_text": "Hukum pinjam meminjam uang dengan syarat peminjam harus mengembalikan dengan jumlah lebih besar dari yang dipinjam (bunga) adalah...",
+    "options": {
+      "a": "Diperbolehkan karena saling menguntungkan.",
+      "b": "Makruh.",
+      "c": "Haram karena termasuk riba qardh.",
+      "d": "Sunnah."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 881,
+    "kisi2_no": 43,
+    "question_text": "Ghashab adalah mengambil atau menggunakan hak milik orang lain secara paksa atau tanpa izin, meskipun berniat mengembalikannya. Contoh perbuatan ghashab adalah...",
+    "options": {
+      "a": "Meminjam buku teman dengan izin.",
+      "b": "Memakai sandal teman di masjid tanpa izin lalu mengembalikannya diam-diam.",
+      "c": "Membeli barang di toko.",
+      "d": "Menemukan uang di jalan lalu mengumumkannya."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 882,
+    "kisi2_no": 43,
+    "question_text": "Meskipun barang yang dighashab dikembalikan dalam keadaan utuh, pelaku ghashab tetap berdosa karena...",
+    "options": {
+      "a": "Barangnya menjadi miliknya.",
+      "b": "Telah melanggar hak milik orang lain dan menggunakan manfaatnya tanpa izin.",
+      "c": "Pemiliknya tidak tahu.",
+      "d": "Tidak ada dosa jika dikembalikan."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 883,
+    "kisi2_no": 43,
+    "question_text": "Jika barang yang dighashab rusak atau hilang di tangan pelaku ghashab, maka ia wajib...",
+    "options": {
+      "a": "Mendoakan pemiliknya saja.",
+      "b": "Mengganti rugi senilai barang tersebut kepada pemiliknya.",
+      "c": "Melaporkan kepada polisi.",
+      "d": "Tidak perlu melakukan apa-apa."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 884,
+    "kisi2_no": 44,
+    "question_text": "Larangan ghashab dalam Islam bertujuan untuk...",
+    "options": {
+      "a": "Mempersulit hubungan sosial.",
+      "b": "Menjaga kehormatan harta dan hak milik individu, serta mencegah timbulnya perselisihan.",
+      "c": "Mendorong orang untuk mengambil hak orang lain.",
+      "d": "Membuat semua barang menjadi milik bersama."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 885,
+    "kisi2_no": 44,
+    "question_text": "Memanfaatkan fasilitas umum seperti taman atau jalan raya tidak termasuk ghashab selama penggunaannya...",
+    "options": {
+      "a": "Merusak fasilitas tersebut.",
+      "b": "Sesuai dengan peruntukannya dan tidak melanggar hak pengguna lain.",
+      "c": "Untuk kepentingan pribadi secara berlebihan.",
+      "d": "Tanpa membayar pajak."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 886,
+    "kisi2_no": 44,
+    "question_text": "Seseorang mengambil buah mangga dari pohon tetangganya tanpa izin karena mengira pohon itu tidak ada pemiliknya. Setelah tahu ada pemiliknya, tindakan yang seharusnya ia lakukan adalah...",
+    "options": {
+      "a": "Memakan buah mangga itu secepatnya.",
+      "b": "Meminta maaf kepada pemiliknya dan meminta kerelaannya, atau mengganti jika diminta.",
+      "c": "Membuang buah mangga itu.",
+      "d": "Menjual buah mangga itu."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 887,
+    "kisi2_no": 45,
+    "question_text": "Barang temuan (luqathah) adalah harta benda berharga milik orang lain yang hilang dan ditemukan oleh seseorang. Jika menemukan barang berharga di tempat umum, kewajiban pertama penemu adalah...",
+    "options": {
+      "a": "Langsung memilikinya.",
+      "b": "Mengumumkannya selama satu tahun (jika nilainya signifikan) agar pemiliknya dapat mengambil kembali.",
+      "c": "Menjualnya dan menggunakan uangnya.",
+      "d": "Membiarkannya saja."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 888,
+    "kisi2_no": 45,
+    "question_text": "Jika setelah diumumkan selama satu tahun tidak ada yang mengaku sebagai pemilik barang temuan, maka barang tersebut boleh...",
+    "options": {
+      "a": "Dibuang begitu saja.",
+      "b": "Dimanfaatkan oleh penemu dengan niat jika suatu saat pemiliknya datang akan diganti, atau disedekahkan atas nama pemiliknya.",
+      "c": "Dihancurkan.",
+      "d": "Disembunyikan selamanya."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 889,
+    "kisi2_no": 45,
+    "question_text": "Menemukan barang yang nilainya sangat kecil dan diperkirakan pemiliknya tidak akan mencarinya lagi (misalnya, uang receh di jalan), hukumnya...",
+    "options": {
+      "a": "Wajib diumumkan selama setahun.",
+      "b": "Boleh langsung dimanfaatkan oleh penemu atau disedekahkan.",
+      "c": "Harus diserahkan ke polisi.",
+      "d": "Tidak boleh diambil sama sekali."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 890,
+    "kisi2_no": 45,
+    "question_text": "Jika seseorang datang mengaku sebagai pemilik barang temuan, penemu berhak meminta...",
+    "options": {
+      "a": "Imbalan yang besar.",
+      "b": "Bukti atau ciri-ciri spesifik barang tersebut untuk memastikan kebenarannya.",
+      "c": "Agar barang itu dibagi dua.",
+      "d": "Agar orang tersebut tidak mengambilnya."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 891,
+    "kisi2_no": 45,
+    "question_text": "Tanggung jawab penemu terhadap barang temuan adalah menjaganya sebagai amanah. Jika barang temuan rusak atau hilang karena kelalaian penemu sebelum diserahkan kepada pemiliknya atau sebelum masa pengumuman berakhir, maka penemu...",
+    "options": {
+      "a": "Tidak bertanggung jawab.",
+      "b": "Wajib mengganti rugi.",
+      "c": "Boleh menyalahkan pemiliknya.",
+      "d": "Hanya perlu meminta maaf."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 892,
+    "kisi2_no": 24,
+    "question_text": "Makanan yang mengandung 'emulsifier E471' sering menjadi perdebatan kehalalannya karena sumbernya bisa dari lemak hewani (babi) atau nabati. Untuk memastikan kehalalannya, konsumen Muslim sebaiknya...",
+    "options": {
+      "a": "Menghindari semua produk dengan E471.",
+      "b": "Menganggapnya halal jika tidak ada keterangan lain.",
+      "c": "Mencari produk yang memiliki sertifikasi halal atau keterangan sumber emulsifier yang jelas (nabati).",
+      "d": "Bertanya kepada penjual yang mungkin tidak tahu."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 893,
+    "kisi2_no": 31,
+    "question_text": "Penyembelihan hewan dengan mesin otomatis di rumah potong hewan modern bisa dianggap sah secara syar'i jika memenuhi syarat utama, yaitu...",
+    "options": {
+      "a": "Mesinnya sangat canggih dan mahal.",
+      "b": "Operator mesin adalah Muslim, pisau mesin sangat tajam, proses pemotongan memutuskan saluran yang disyaratkan, dan basmalah dibacakan (minimal sekali untuk sejumlah hewan jika sulit satu per satu).",
+      "c": "Hewan dipingsankan terlebih dahulu dengan cara apapun.",
+      "d": "Tidak ada pengawasan dari ulama."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 894,
+    "kisi2_no": 35,
+    "question_text": "Dalam jual beli, harga barang harus jelas dan disepakati oleh kedua belah pihak saat akad. Jika harga diserahkan pada 'harga pasar saat barang diterima nanti' tanpa angka yang pasti, maka jual beli tersebut mengandung unsur...",
+    "options": {
+      "a": "Riba.",
+      "b": "Gharar (ketidakjelasan) yang bisa membatalkan akad.",
+      "c": "Khiyar.",
+      "d": "Ihtikar."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 895,
+    "kisi2_no": 40,
+    "question_text": "Meminjamkan uang kepada seseorang yang sangat membutuhkan dengan niat ikhlas membantu adalah perbuatan mulia. Jika peminjam mengalami kesulitan mengembalikan tepat waktu, sikap pemberi pinjaman yang dianjurkan adalah...",
+    "options": {
+      "a": "Langsung menagih dengan paksa dan bunga.",
+      "b": "Memberikan tenggang waktu atau bahkan membebaskan utangnya jika benar-benar tidak mampu.",
+      "c": "Menyebarkan berita keburukan peminjam.",
+      "d": "Melaporkannya ke polisi tanpa musyawarah."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 896,
+    "kisi2_no": 43,
+    "question_text": "Menggunakan jaringan WiFi tetangga tanpa izin, meskipun tidak mengurangi kuota mereka secara signifikan, tetap termasuk perbuatan yang mendekati ghashab karena...",
+    "options": {
+      "a": "Jaringan WiFi adalah milik umum.",
+      "b": "Memanfaatkan hak milik orang lain (layanan internet) tanpa keridhaan pemiliknya.",
+      "c": "Tidak ada kerugian materi bagi tetangga.",
+      "d": "Sudah menjadi kebiasaan umum."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 897,
+    "kisi2_no": 45,
+    "question_text": "Menemukan dompet berisi uang dan kartu identitas pemiliknya. Tindakan yang paling tepat dan amanah adalah...",
+    "options": {
+      "a": "Mengambil uangnya dan membuang dompetnya.",
+      "b": "Menyimpan dompet tersebut dan berharap pemiliknya tidak mencari.",
+      "c": "Berusaha menghubungi pemiliknya berdasarkan kartu identitas atau menyerahkannya kepada pihak berwenang (misalnya, kantor polisi terdekat).",
+      "d": "Mengumumkan di media sosial dengan menyebutkan jumlah uangnya secara detail."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 898,
+    "kisi2_no": 26,
+    "question_text": "Makanan yang diolah dengan 'arak masak' (cooking wine) meskipun alkoholnya diklaim menguap saat dimasak, mayoritas ulama tetap menghukuminya haram karena...",
+    "options": {
+      "a": "Rasanya menjadi tidak enak.",
+      "b": "Arak masak pada dasarnya adalah khamr yang najis dan haram, dan kaidah fiqih menyatakan 'sesuatu yang dicampur dengan yang haram maka hukumnya haram'.",
+      "c": "Harganya menjadi mahal.",
+      "d": "Hanya tradisi masakan tertentu."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 899,
+    "kisi2_no": 34,
+    "question_text": "Hewan yang secara alami halal, namun diberi pakan yang bercampur dengan bahan haram atau najis secara terus-menerus hingga mempengaruhi dagingnya, status kehalalannya menjadi...",
+    "options": {
+      "a": "Tetap halal karena asalnya halal.",
+      "b": "Diragukan (subhat) dan sebaiknya dihindari, atau perlu dikarantina dengan pakan halal terlebih dahulu.",
+      "c": "Otomatis menjadi haram permanen.",
+      "d": "Halal jika dimasak dengan bumbu yang banyak."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 900,
+    "kisi2_no": 39,
+    "question_text": "Jual beli dengan sistem 'lelang' diperbolehkan dalam Islam selama tidak ada unsur penipuan, paksaan, atau persekongkolan untuk merugikan salah satu pihak. Kenaikan harga dalam lelang yang wajar dianggap sebagai...",
+    "options": {
+      "a": "Riba.",
+      "b": "Gharar.",
+      "c": "Tawar-menawar yang sah antar calon pembeli.",
+      "d": "Ihtikar."
+    },
+    "correct_answers": ["c"]
+  }
+]

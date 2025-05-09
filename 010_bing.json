@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1101,
+    "kisi2_tp_no": "1.1",
+    "question_text": "Dialogue:\nA: Look at that cheetah! It runs incredibly fast.\nB: Yes, its streamlined body and long legs are perfectly adapted for speed. What does it primarily hunt?\nA: It mainly preys on gazelles and impalas, using its speed to catch them.\n\nBased on the dialogue, which characteristic allows the cheetah to run fast?",
+    "options": {
+      "a": "Its spotted coat.",
+      "b": "Its diet of gazelles.",
+      "c": "Its streamlined body and long legs.",
+      "d": "Its ability to climb trees."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1102,
+    "kisi2_tp_no": "1.1",
+    "question_text": "Dialogue:\nA: My parrot is so clever, it can mimic human speech.\nB: Wow! What does it eat?\nA: It enjoys a mix of seeds, fruits, and some vegetables. It especially loves sunflower seeds.\n\nWhat is the parrot's favorite food according to the dialogue?",
+    "options": {
+      "a": "Insects",
+      "b": "Vegetables",
+      "c": "Sunflower seeds",
+      "d": "Only fruits"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1103,
+    "kisi2_tp_no": "1.1",
+    "question_text": "Dialogue:\nA: This is Snowball, my pet rabbit.\nB: Oh, he's adorable! Why is he called Snowball?\nA: Because his fur is completely white and fluffy, just like a snowball.\n\nWhat characteristic of the rabbit led to its name?",
+    "options": {
+      "a": "Its long ears.",
+      "b": "Its diet of carrots.",
+      "c": "Its white and fluffy fur.",
+      "d": "Its ability to hop."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1104,
+    "kisi2_tp_no": "1.1",
+    "question_text": "Which set of words best describes a lion?",
+    "options": {
+      "a": "Small, herbivorous, quiet",
+      "b": "Large, carnivorous, roaring",
+      "c": "Aquatic, scaled, silent",
+      "d": "Feathered, flying, chirping"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1105,
+    "kisi2_tp_no": "1.1",
+    "question_text": "Dialogue:\nA: Is that a panda?\nB: Yes, it's known for its distinctive black and white markings.\nA: What's its main diet?\nB: It almost exclusively eats bamboo.\n\nWhat are two key features of a panda mentioned?",
+    "options": {
+      "a": "Fast runner, eats meat",
+      "b": "Black and white markings, eats bamboo",
+      "c": "Lives in water, eats fish",
+      "d": "Small size, eats fruits"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1106,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Dialogue:\nA: What day comes two days after Wednesday?\nB: That would be ______.\n\nComplete the dialogue.",
+    "options": {
+      "a": "Thursday",
+      "b": "Friday",
+      "c": "Saturday",
+      "d": "Tuesday"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1107,
+    "kisi2_tp_no": "2.2",
+    "question_text": "The day before Monday is ______.",
+    "options": {
+      "a": "Tuesday",
+      "b": "Sunday",
+      "c": "Saturday",
+      "d": "Wednesday"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1108,
+    "kisi2_tp_no": "2.2",
+    "question_text": "There are ______ days in a fortnight (two weeks).",
+    "options": {
+      "a": "seven",
+      "b": "ten",
+      "c": "twelve",
+      "d": "fourteen"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1109,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Read the number on the calendar: '31st'. How do you say this date?",
+    "options": {
+      "a": "Thirty-one",
+      "b": "Thirty-first",
+      "c": "Thirteen-one",
+      "d": "Three-one"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1110,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Arrange the words into a correct sentence: is / favorite / my / Friday / day / week / the / of",
+    "options": {
+      "a": "My favorite day is Friday of the week.",
+      "b": "Friday is my favorite day of the week.",
+      "c": "The week favorite day is my Friday.",
+      "d": "My favorite week is Friday of the day."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1111,
+    "kisi2_tp_no": "1.1",
+    "question_text": "Text: The library is a quiet place filled with books. Students go there to read, study, and borrow books. The librarian helps students find the information they need. We must keep silent in the library.\n\nWhat is the main idea of the text?",
+    "options": {
+      "a": "The librarian's job.",
+      "b": "The importance of reading.",
+      "c": "Describing the library and its rules.",
+      "d": "Different types of books."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1112,
+    "kisi2_tp_no": "1.1",
+    "question_text": "My classroom is bright and ______. There are twenty desks and chairs.",
+    "options": {
+      "a": "dirty",
+      "b": "noisy",
+      "c": "spacious",
+      "d": "dark"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1113,
+    "kisi2_tp_no": "1.1",
+    "question_text": "Image: [Gambar sebuah taman bermain dengan ayunan, perosotan, dan jungkat-jungkit]\n\nThis place is a ______. Children like to play here.",
+    "options": {
+      "a": "classroom",
+      "b": "library",
+      "c": "playground",
+      "d": "canteen"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1114,
+    "kisi2_tp_no": "1.1",
+    "question_text": "Arrange the words: school / canteen / buy / I / snacks / the / in",
+    "options": {
+      "a": "I buy snacks the canteen in school.",
+      "b": "In the school I buy snacks canteen.",
+      "c": "I buy snacks in the school canteen.",
+      "d": "The school canteen I buy in snacks."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1115,
+    "kisi2_tp_no": "1.1",
+    "question_text": "Table:\n| Animal | Food Type |\n|---|---|\n| Cow | Herbivore |\n| Tiger | Carnivore |\n| Bear | Omnivore |\n| Rabbit | Herbivore |\n\nWhich animals from the table are herbivores?",
+    "options": {
+      "a": "Cow and Tiger",
+      "b": "Tiger and Bear",
+      "c": "Cow and Rabbit",
+      "d": "Bear and Rabbit"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1116,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Text: The Human Body\nThe human body is an amazing machine. It has many parts working together. The brain controls everything. The heart pumps blood. The lungs help us breathe. Bones give support, and muscles help us move.\n\nWhat is a suitable title for this text?",
+    "options": {
+      "a": "How to Exercise",
+      "b": "The Amazing Human Body",
+      "c": "Diseases of the Body",
+      "d": "The Function of the Brain"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1117,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Image: [Gambar hidung manusia]\n\nThis part of the body helps us to ______.",
+    "options": {
+      "a": "see",
+      "b": "hear",
+      "c": "smell",
+      "d": "taste"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1118,
+    "kisi2_tp_no": "2.2",
+    "question_text": "We use our ______ to chew food.",
+    "options": {
+      "a": "eyes",
+      "b": "ears",
+      "c": "hands",
+      "d": "teeth"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1119,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Arrange the words: pump / heart / blood / body / our / the / around",
+    "options": {
+      "a": "Our heart pump blood around the body.",
+      "b": "Blood pump our heart around the body.",
+      "c": "The body pump blood around our heart.",
+      "d": "Our heart pumps blood around the body."
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1120,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Illustration: The skeleton provides structure and protection for internal organs.\n\nWhat is the main function of the skeleton mentioned?",
+    "options": {
+      "a": "Helping digestion",
+      "b": "Pumping blood",
+      "c": "Providing support and protection",
+      "d": "Allowing us to breathe"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1121,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Dialogue:\nA: What do we use to listen to music?\nB: We use our ______.\n\nWhich word fits the context?",
+    "options": {
+      "a": "nose",
+      "b": "eyes",
+      "c": "ears",
+      "d": "mouth"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1122,
+    "kisi2_tp_no": "3.1",
+    "question_text": "Dialogue:\nA: What did you do last weekend?\nB: I ______ my grandparents in the village.\n\nChoose the correct past form verb.",
+    "options": {
+      "a": "visit",
+      "b": "visits",
+      "c": "visited",
+      "d": "visiting"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1123,
+    "kisi2_tp_no": "3.1",
+    "question_text": "Text: Yesterday, Rina went to the bookstore. She bought a novel and two pens. After that, she met her friend, Dewi, at the cafe nearby.\n\nWhere did Rina meet Dewi?",
+    "options": {
+      "a": "At the bookstore",
+      "b": "At her house",
+      "c": "At the cafe",
+      "d": "At school"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1124,
+    "kisi2_tp_no": "3.1",
+    "question_text": "My brother ______ football with his friends yesterday afternoon.",
+    "options": {
+      "a": "play",
+      "b": "plays",
+      "c": "playing",
+      "d": "played"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1125,
+    "kisi2_no": "3.1",
+    "question_text": "Image: [Gambar anak-anak bermain layang-layang di lapangan kemarin sore]\n\nThe children ______ kites in the field yesterday evening.",
+    "options": {
+      "a": "fly",
+      "b": "flew",
+      "c": "flies",
+      "d": "flown"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1126,
+    "kisi2_tp_no": "3.1",
+    "question_text": "Arrange the words into a correct past tense sentence: movie / watched / family / last / my / night / a",
+    "options": {
+      "a": "My family watched a movie last night.",
+      "b": "A movie watched my family last night.",
+      "c": "Last night my family a movie watched.",
+      "d": "My family last night watched a movie."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 1127,
+    "kisi2_tp_no": "4.1",
+    "question_text": "Paragraph: Last holiday, my family and I traveled to Bali. We visited Kuta beach and watched the beautiful sunset. We also went to Ubud to see the rice terraces and traditional dances. It was an unforgettable experience.\n\nWhat is the main idea of the paragraph?",
+    "options": {
+      "a": "Describing Kuta beach.",
+      "b": "Explaining Balinese traditional dances.",
+      "c": "Recounting the family's holiday experience in Bali.",
+      "d": "The beauty of rice terraces."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1128,
+    "kisi2_tp_no": "4.1",
+    "question_text": "Dialogue:\nA: Did you finish your homework last night?\nB: Yes, I ______ it before I went to bed.\n\nComplete with the correct past verb.",
+    "options": {
+      "a": "do",
+      "b": "does",
+      "c": "did",
+      "d": "done"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1129,
+    "kisi2_tp_no": "4.1",
+    "question_text": "We didn't go to school ______ because it was a national holiday.",
+    "options": {
+      "a": "tomorrow",
+      "b": "next week",
+      "c": "yesterday",
+      "d": "every day"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1130,
+    "kisi2_tp_no": "4.1",
+    "question_text": "Image: [Foto anak-anak merayakan pesta ulang tahun kemarin]\n\nThey ______ a birthday party yesterday.",
+    "options": {
+      "a": "have",
+      "b": "has",
+      "c": "had",
+      "d": "having"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1131,
+    "kisi2_tp_no": "4.1",
+    "question_text": "After hiking for hours, the scouts felt very ______.",
+    "options": {
+      "a": "energetic",
+      "b": "fresh",
+      "c": "tired",
+      "d": "bored"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1132,
+    "kisi2_tp_no": "4.1",
+    "question_text": "Dialogue:\nA: Why do you look so ______?\nB: I won the storytelling competition!\n\nComplete with the appropriate adjective.",
+    "options": {
+      "a": "sad",
+      "b": "angry",
+      "c": "happy",
+      "d": "sleepy"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1133,
+    "kisi2_tp_no": "4.1",
+    "question_text": "Dialogue:\nA: Did you see the accident this morning?\nB: Yes, it happened ______ ago.\n\nWhich time expression fits best?",
+    "options": {
+      "a": "two hours",
+      "b": "next month",
+      "c": "tomorrow morning",
+      "d": "last year"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 1134,
+    "kisi2_tp_no": "5.1",
+    "question_text": "Dialogue:\nA: Did she bring the dictionary yesterday?\nB: No, she ______.\n\nComplete the short answer.",
+    "options": {
+      "a": "did",
+      "b": "didn't",
+      "c": "does",
+      "d": "doesn't"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1135,
+    "kisi2_tp_no": "5.1",
+    "question_text": "Image: [Gambar seorang anak laki-laki sedang makan es krim kemarin]\n\nWhat did he do yesterday?",
+    "options": {
+      "a": "He eats ice cream.",
+      "b": "He ate ice cream.",
+      "c": "He is eating ice cream.",
+      "d": "He will eat ice cream."
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1136,
+    "kisi2_tp_no": "5.1",
+    "question_text": "Text: The students cleaned the classroom last Friday. They swept the floor, wiped the windows, and arranged the desks. The classroom looked neat afterwards.\n\nIn one word, what did the students do?",
+    "options": {
+      "a": "Studied",
+      "b": "Played",
+      "c": "Cleaned",
+      "d": "Ate"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1137,
+    "kisi2_tp_no": "5.1",
+    "question_text": "Arrange the words into a correct question: you / go / park / Did / the / yesterday / to ?",
+    "options": {
+      "a": "Did you go to the park yesterday?",
+      "b": "Yesterday did you go to the park?",
+      "c": "Go to the park did you yesterday?",
+      "d": "Did go you to the park yesterday?"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 1138,
+    "kisi2_tp_no": "5.1",
+    "question_text": "Instruction: 'Please, ______ the door. It's cold outside.'",
+    "options": {
+      "a": "open",
+      "b": "close",
+      "c": "break",
+      "d": "paint"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1139,
+    "kisi2_tp_no": "6.1",
+    "question_text": "Text: Future Plans\nNext weekend, our class will have a study tour. We will visit the National Museum in the morning. After lunch, we are going to watch a traditional puppet show. I think it will be an exciting and educational trip.\n\nWhat is the main purpose of the text?",
+    "options": {
+      "a": "To describe the National Museum.",
+      "b": "To explain how puppets work.",
+      "c": "To inform about the class's future study tour plans.",
+      "d": "To recount a past trip."
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1140,
+    "kisi2_no": "6.1",
+    "question_text": "Dialogue:\nA: What will you do after finishing school today?\nB: I ______ my grandmother. She is sick.\n\nComplete with the correct future form.",
+    "options": {
+      "a": "visit",
+      "b": "visited",
+      "c": "am visiting / will visit",
+      "d": "visits"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1141,
+    "kisi2_no": "6.1",
+    "question_text": "My father ______ a new car next month.",
+    "options": {
+      "a": "buys",
+      "b": "bought",
+      "c": "will buy",
+      "d": "buy"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1142,
+    "kisi2_tp_no": "6.1",
+    "question_text": "Arrange the words: competition / join / singing / she / the / will / tomorrow",
+    "options": {
+      "a": "She will join the singing competition tomorrow.",
+      "b": "Tomorrow she the singing competition will join.",
+      "c": "The singing competition she will join tomorrow.",
+      "d": "Will she join tomorrow the singing competition."
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 1143,
+    "kisi2_tp_no": "6.1",
+    "question_text": "Image: [Gambar jadwal penerbangan yang menunjukkan keberangkatan besok pagi]\n\nThe plane ______ tomorrow morning.",
+    "options": {
+      "a": "departed",
+      "b": "departs",
+      "c": "will depart / is departing",
+      "d": "departing"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1144,
+    "kisi2_tp_no": "6.2",
+    "question_text": "Last night, the children ______ sleeping when the phone rang.",
+    "options": {
+      "a": "is",
+      "b": "am",
+      "c": "were",
+      "d": "was"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1145,
+    "kisi2_tp_no": "6.2",
+    "question_text": "She ______ happy because she received a present, but her brother ______ sad because he lost his toy.",
+    "options": {
+      "a": "was / were",
+      "b": "were / was",
+      "c": "was / was",
+      "d": "were / were"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1146,
+    "kisi2_tp_no": "6.2",
+    "question_text": "Text: My First Camping Trip\nLast month, I went camping with my scout troop. It ______ my first time. We set up tents near a river. At night, we ______ sitting around a campfire, singing songs. I ______ a bit scared, but also excited.\n\nComplete the text with 'was' or 'were'.",
+    "options": {
+      "a": "was, were, was",
+      "b": "were, was, were",
+      "c": "was, was, were",
+      "d": "were, were, was"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 1147,
+    "kisi2_tp_no": "6.2",
+    "question_text": "The questions in the test ______ difficult, but I tried my best.",
+    "options": {
+      "a": "wasn't",
+      "b": "was",
+      "c": "weren't",
+      "d": "were"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1148,
+    "kisi2_tp_no": "6.2",
+    "question_text": "______ you at the library yesterday afternoon?",
+    "options": {
+      "a": "Was",
+      "b": "Is",
+      "c": "Were",
+      "d": "Are"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1149,
+    "kisi2_tp_no": "1.1",
+    "question_text": "A dolphin is an intelligent ______ mammal known for its playful behavior.",
+    "options": {
+      "a": "land",
+      "b": "flying",
+      "c": "marine",
+      "d": "reptilian"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1150,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Which sequence of days is correct?",
+    "options": {
+      "a": "Monday, Wednesday, Tuesday",
+      "b": "Saturday, Sunday, Monday",
+      "c": "Thursday, Friday, Wednesday",
+      "d": "Sunday, Tuesday, Thursday"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1151,
+    "kisi2_tp_no": "1.1",
+    "question_text": "The school ______ has many useful facilities like computers and printers for students.",
+    "options": {
+      "a": "garden",
+      "b": "laboratory",
+      "c": "toilet",
+      "d": "parking lot"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1152,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Our ______ allow us to see the world around us.",
+    "options": {
+      "a": "tongue",
+      "b": "skin",
+      "c": "eyes",
+      "d": "feet"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1153,
+    "kisi2_tp_no": "3.1",
+    "question_text": "They ______ the museum last Saturday and learned a lot about history.",
+    "options": {
+      "a": "explore",
+      "b": "explored",
+      "c": "explores",
+      "d": "exploring"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1154,
+    "kisi2_tp_no": "4.1",
+    "question_text": "He felt ______ after receiving the bad news.",
+    "options": {
+      "a": "delighted",
+      "b": "cheerful",
+      "c": "miserable",
+      "d": "excited"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1155,
+    "kisi2_tp_no": "5.1",
+    "question_text": "Instruction: '______ attention while the teacher is explaining.'",
+    "options": {
+      "a": "Give",
+      "b": "Pay",
+      "c": "Take",
+      "d": "Look"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1156,
+    "kisi2_tp_no": "6.1",
+    "question_text": "I promise I ______ study harder for the next exam.",
+    "options": {
+      "a": "am",
+      "b": "did",
+      "c": "will",
+      "d": "was"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1157,
+    "kisi2_tp_no": "6.2",
+    "question_text": "My little sister ______ afraid of the dark when she was younger.",
+    "options": {
+      "a": "were",
+      "b": "is",
+      "c": "was",
+      "d": "are"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1158,
+    "kisi2_tp_no": "1.1",
+    "question_text": "A giraffe is easily recognizable by its very long ______ and spotted pattern.",
+    "options": {
+      "a": "tail",
+      "b": "neck",
+      "c": "trunk",
+      "d": "wings"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1159,
+    "kisi2_tp_no": "2.2",
+    "question_text": "The month before July is ______.",
+    "options": {
+      "a": "May",
+      "b": "August",
+      "c": "June",
+      "d": "September"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1160,
+    "kisi2_tp_no": "1.1",
+    "question_text": "The ______ is where students usually have their physical education lessons.",
+    "options": {
+      "a": "library",
+      "b": "canteen",
+      "c": "classroom",
+      "d": "sports field / gymnasium"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1161,
+    "kisi2_tp_no": "2.2",
+    "question_text": "We use our ______ to taste sweet, sour, salty, and bitter flavors.",
+    "options": {
+      "a": "nose",
+      "b": "tongue",
+      "c": "ears",
+      "d": "skin"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1162,
+    "kisi2_tp_no": "3.1",
+    "question_text": "She ______ a beautiful song at the concert last week.",
+    "options": {
+      "a": "sings",
+      "b": "singing",
+      "c": "sang",
+      "d": "sung"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1163,
+    "kisi2_tp_no": "4.1",
+    "question_text": "The little boy was ______ when his balloon flew away.",
+    "options": {
+      "a": "joyful",
+      "b": "upset",
+      "c": "calm",
+      "d": "proud"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1164,
+    "kisi2_tp_no": "5.1",
+    "question_text": "Dialogue:\nA: Did they win the match?\nB: Yes, they ______. They played brilliantly.",
+    "options": {
+      "a": "weren't",
+      "b": "didn't",
+      "c": "did",
+      "d": "were"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1165,
+    "kisi2_tp_no": "6.1",
+    "question_text": "Look at those dark clouds! It ______ rain soon.",
+    "options": {
+      "a": "will",
+      "b": "would",
+      "c": "was",
+      "d": "is going to"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1166,
+    "kisi2_tp_no": "6.2",
+    "question_text": "The food at the party ______ delicious, everyone enjoyed it.",
+    "options": {
+      "a": "were",
+      "b": "was",
+      "c": "is",
+      "d": "are"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1167,
+    "kisi2_tp_no": "1.1",
+    "question_text": "A snake moves by ______ its body along the ground.",
+    "options": {
+      "a": "flying",
+      "b": "hopping",
+      "c": "slithering",
+      "d": "swimming"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1168,
+    "kisi2_tp_no": "2.2",
+    "question_text": "What is the third month of the year?",
+    "options": {
+      "a": "January",
+      "b": "February",
+      "c": "March",
+      "d": "April"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1169,
+    "kisi2_tp_no": "1.1",
+    "question_text": "The ______ is responsible for leading the school and making important decisions.",
+    "options": {
+      "a": "janitor",
+      "b": "librarian",
+      "c": "principal / headmaster",
+      "d": "gardener"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1170,
+    "kisi2_tp_no": "2.2",
+    "question_text": "The ______ protects our body and helps regulate temperature.",
+    "options": {
+      "a": "bones",
+      "b": "muscles",
+      "c": "skin",
+      "d": "brain"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1171,
+    "kisi2_tp_no": "3.1",
+    "question_text": "My uncle ______ me a bicycle for my birthday last year.",
+    "options": {
+      "a": "give",
+      "b": "gives",
+      "c": "giving",
+      "d": "gave"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1172,
+    "kisi2_tp_no": "4.1",
+    "question_text": "She was ______ when she found out she passed the difficult exam.",
+    "options": {
+      "a": "disappointed",
+      "b": "relieved",
+      "c": "anxious",
+      "d": "confused"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1173,
+    "kisi2_tp_no": "5.1",
+    "question_text": "Instruction: 'Please ______ your books on page 50.'",
+    "options": {
+      "a": "close",
+      "b": "write",
+      "c": "read",
+      "d": "open"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1174,
+    "kisi2_tp_no": "6.1",
+    "question_text": "Perhaps they ______ us for dinner next Saturday.",
+    "options": {
+      "a": "invited",
+      "b": "inviting",
+      "c": "will invite",
+      "d": "invites"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1175,
+    "kisi2_tp_no": "6.2",
+    "question_text": "The students ______ very noisy during the break time yesterday.",
+    "options": {
+      "a": "was",
+      "b": "is",
+      "c": "are",
+      "d": "were"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1176,
+    "kisi2_tp_no": "1.1",
+    "question_text": "An elephant uses its long ______ to drink water and pick up objects.",
+    "options": {
+      "a": "neck",
+      "b": "tail",
+      "c": "trunk",
+      "d": "horn"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1177,
+    "kisi2_tp_no": "2.2",
+    "question_text": "How many days are there typically in February?",
+    "options": {
+      "a": "Twenty-eight or twenty-nine",
+      "b": "Thirty",
+      "c": "Thirty-one",
+      "d": "Twenty-seven"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 1178,
+    "kisi2_tp_no": "1.1",
+    "question_text": "We conduct experiments and learn about science in the school ______.",
+    "options": {
+      "a": "hall",
+      "b": "library",
+      "c": "laboratory",
+      "d": "office"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1179,
+    "kisi2_tp_no": "2.2",
+    "question_text": "The ______ connects the head to the rest of the body.",
+    "options": {
+      "a": "arm",
+      "b": "leg",
+      "c": "neck",
+      "d": "foot"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1180,
+    "kisi2_tp_no": "3.1",
+    "question_text": "The cat ______ the mouse across the garden yesterday.",
+    "options": {
+      "a": "chase",
+      "b": "chases",
+      "c": "chased",
+      "d": "chasing"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1181,
+    "kisi2_tp_no": "4.1",
+    "question_text": "He felt ______ because he couldn't solve the math problem.",
+    "options": {
+      "a": "proud",
+      "b": "confident",
+      "c": "frustrated",
+      "d": "amused"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1182,
+    "kisi2_tp_no": "5.1",
+    "question_text": "Dialogue:\nA: Did you understand the instruction?\nB: Yes, it was quite ______.",
+    "options": {
+      "a": "confusing",
+      "b": "difficult",
+      "c": "clear",
+      "d": "vague"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1183,
+    "kisi2_tp_no": "6.1",
+    "question_text": "The weather forecast says it ______ be sunny tomorrow.",
+    "options": {
+      "a": "was",
+      "b": "will",
+      "c": "did",
+      "d": "is"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1184,
+    "kisi2_tp_no": "6.2",
+    "question_text": "I ______ at home last Sunday because I felt unwell.",
+    "options": {
+      "a": "were",
+      "b": "am",
+      "c": "was",
+      "d": "are"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1185,
+    "kisi2_tp_no": "1.1",
+    "question_text": "A spider spins a ______ to catch insects.",
+    "options": {
+      "a": "nest",
+      "b": "web",
+      "c": "hive",
+      "d": "burrow"
+    },
+    "correct_answers": ["b"]
+  },
+  {
+    "id": 1186,
+    "kisi2_tp_no": "2.2",
+    "question_text": "Which day marks the beginning of the weekend for most people?",
+    "options": {
+      "a": "Monday",
+      "b": "Wednesday",
+      "c": "Friday evening or Saturday",
+      "d": "Sunday evening"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1187,
+    "kisi2_tp_no": "1.1",
+    "question_text": "Students borrow and return books at the circulation ______ in the library.",
+    "options": {
+      "a": "desk",
+      "b": "shelf",
+      "c": "corner",
+      "d": "room"
+    },
+    "correct_answers": ["a"]
+  },
+  {
+    "id": 1188,
+    "kisi2_tp_no": "2.2",
+    "question_text": "We use our ______ to walk, run, and jump.",
+    "options": {
+      "a": "hands",
+      "b": "head",
+      "c": "legs and feet",
+      "d": "shoulders"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1189,
+    "kisi2_tp_no": "3.1",
+    "question_text": "The artist ______ a beautiful landscape painting two days ago.",
+    "options": {
+      "a": "paint",
+      "b": "paints",
+      "c": "painted",
+      "d": "painting"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1190,
+    "kisi2_tp_no": "4.1",
+    "question_text": "She felt ______ when her best friend moved to another city.",
+    "options": {
+      "a": "ecstatic",
+      "b": "indifferent",
+      "c": "lonely",
+      "d": "amused"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1191,
+    "kisi2_tp_no": "5.1",
+    "question_text": "Instruction: 'Please ______ the whiteboard after use.'",
+    "options": {
+      "a": "draw",
+      "b": "write",
+      "c": "erase / clean",
+      "d": "break"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1192,
+    "kisi2_tp_no": "6.1",
+    "question_text": "Don't worry, I ______ help you with your project tomorrow.",
+    "options": {
+      "a": "am",
+      "b": "was",
+      "c": "will",
+      "d": "did"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1193,
+    "kisi2_tp_no": "6.2",
+    "question_text": "______ the shops open last Sunday?",
+    "options": {
+      "a": "Was",
+      "b": "Is",
+      "c": "Were",
+      "d": "Are"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1194,
+    "kisi2_tp_no": "1.1",
+    "question_text": "A penguin is a bird that cannot fly but is an excellent ______.",
+    "options": {
+      "a": "runner",
+      "b": "climber",
+      "c": "swimmer",
+      "d": "jumper"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1195,
+    "kisi2_tp_no": "2.2",
+    "question_text": "The season that comes after summer is ______.",
+    "options": {
+      "a": "Spring",
+      "b": "Winter",
+      "c": "Autumn / Fall",
+      "d": "Monsoon"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1196,
+    "kisi2_tp_no": "1.1",
+    "question_text": "The teacher writes notes and explanations on the ______ in front of the class.",
+    "options": {
+      "a": "desk",
+      "b": "chair",
+      "c": "floor",
+      "d": "whiteboard / blackboard"
+    },
+    "correct_answers": ["d"]
+  },
+  {
+    "id": 1197,
+    "kisi2_tp_no": "2.2",
+    "question_text": "The joint that allows us to bend our arm is the ______.",
+    "options": {
+      "a": "knee",
+      "b": "ankle",
+      "c": "elbow",
+      "d": "wrist"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1198,
+    "kisi2_tp_no": "3.1",
+    "question_text": "We ______ our grandparents house during the holidays last year.",
+    "options": {
+      "a": "stay",
+      "b": "stays",
+      "c": "stayed",
+      "d": "staying"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1199,
+    "kisi2_tp_no": "4.1",
+    "question_text": "The audience was ______ by the magician's incredible tricks.",
+    "options": {
+      "a": "bored",
+      "b": "annoyed",
+      "c": "amazed",
+      "d": "scared"
+    },
+    "correct_answers": ["c"]
+  },
+  {
+    "id": 1200,
+    "kisi2_tp_no": "6.1",
+    "question_text": "She believes she ______ pass the exam if she studies hard.",
+    "options": {
+      "a": "will",
+      "b": "was",
+      "c": "did",
+      "d": "is"
+    },
+    "correct_answers": ["a"]
+  }
+]

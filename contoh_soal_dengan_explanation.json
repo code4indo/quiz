@@ -1,0 +1,114 @@
+[
+  {
+    "id": 29,
+    "chapter_source": "ujian_mts",
+    "question_text": "Kata manakah yang TIDAK sama dengan kata-kata yang lain?",
+    "options": {
+      "a": "Biola",
+      "b": "Gitar",
+      "c": "Piano",
+      "d": "Seruling",
+      "e": "Radio"
+    },
+    "correct_answers": ["e"],
+    "poin_benar": 1,
+    "poin_salah": 0,
+    "explanation": "Biola, Gitar, Piano, dan Seruling adalah alat musik yang dimainkan untuk menghasilkan suara/musik. Radio adalah alat elektronik untuk menerima siaran suara, bukan alat musik yang dimainkan secara langsung."
+  },
+  {
+    "id": 30,
+    "chapter_source": "ujian_mts", 
+    "question_text": "Manakah dari berikut ini yang merupakan bilangan prima?",
+    "options": {
+      "a": "15",
+      "b": "21",
+      "c": "17", 
+      "d": "25",
+      "e": "27"
+    },
+    "correct_answers": ["c"],
+    "poin_benar": 2,
+    "poin_salah": -1,
+    "explanation": "Bilangan prima adalah bilangan yang hanya dapat dibagi oleh 1 dan dirinya sendiri. Dari pilihan yang ada, hanya 17 yang merupakan bilangan prima. Yang lain: 15 (3×5), 21 (3×7), 25 (5×5), 27 (3×9)."
+  },
+  {
+    "id": 31,
+    "chapter_source": "ujian_mts",
+    "question_text": "Apa fungsi utama dari sistem peredaran darah?",
+    "options": {
+      "a": "Mencerna makanan",
+      "b": "Mengatur suhu tubuh",
+      "c": "Mengangkut oksigen dan nutrisi",
+      "d": "Memproduksi hormon",
+      "e": "Menyaring racun"
+    },
+    "correct_answers": ["c"],
+    "poin_benar": 2,
+    "poin_salah": -1,
+    "explanation": "Sistem peredaran darah memiliki fungsi utama mengangkut oksigen, nutrisi, dan zat-zat penting lainnya ke seluruh tubuh, serta membuang sisa metabolisme. Darah dipompa oleh jantung melalui pembuluh darah."
+  },
+  {
+    "id": 32,
+    "chapter_source": "ujian_mts",
+    "question_text": "Siapa penemu lampu pijar?",
+    "options": {
+      "a": "Alexander Graham Bell",
+      "b": "Thomas Alva Edison",
+      "c": "Nikola Tesla", 
+      "d": "Albert Einstein",
+      "e": "Isaac Newton"
+    },
+    "correct_answers": ["b"],
+    "poin_benar": 2,
+    "poin_salah": -1,
+    "explanation": "Thomas Alva Edison adalah penemu lampu pijar yang praktis dan tahan lama pada tahun 1879. Meskipun ada inventor lain yang mengembangkan lampu pijar sebelumnya, Edison yang berhasil membuatnya komersial dan dapat diproduksi massal."
+  },
+  {
+    "id": 33,
+    "chapter_source": "ujian_mts",
+    "question_text": "Manakah dari berikut yang termasuk ciri-ciri makhluk hidup? (Pilih lebih dari satu)",
+    "options": {
+      "a": "Bernapas",
+      "b": "Tumbuh dan berkembang",
+      "c": "Dapat berpindah tempat",
+      "d": "Memerlukan makanan",
+      "e": "Bereproduksi"
+    },
+    "correct_answers": ["a", "b", "d", "e"],
+    "poin_benar": 1,
+    "poin_salah": -0.5,
+    "explanation": "Ciri-ciri makhluk hidup meliputi: bernapas, tumbuh dan berkembang, memerlukan makanan, bereproduksi, bergerak, peka terhadap rangsang, dan mengeluarkan zat sisa. 'Dapat berpindah tempat' tidak tepat karena tumbuhan adalah makhluk hidup tapi tidak berpindah tempat."
+  },
+  {
+    "id": 34,
+    "chapter_source": "ujian_mts",
+    "question_text": "Rumus kimia air adalah?",
+    "options": {
+      "a": "H2O2",
+      "b": "H2O",
+      "c": "HO2",
+      "d": "H3O",
+      "e": "OH2"
+    },
+    "correct_answers": ["b"],
+    "poin_benar": 1,
+    "poin_salah": 0,
+    "explanation": "Air memiliki rumus kimia H2O, yang berarti setiap molekul air terdiri dari 2 atom hidrogen (H) dan 1 atom oksigen (O). Rumus ini menunjukkan komposisi dan struktur molekul air."
+  },
+  {
+    "id": 35,
+    "chapter_source": "ujian_mts",
+    "question_text": "Manakah yang termasuk planet dalam tata surya? (Pilih semua yang benar)",
+    "options": {
+      "a": "Mars",
+      "b": "Venus", 
+      "c": "Bulan",
+      "d": "Jupiter",
+      "e": "Matahari"
+    },
+    "correct_answers": ["a", "b", "d"],
+    "poin_benar": 1,
+    "poin_salah": -0.3,
+    "explanation": "Planet dalam tata surya adalah benda langit yang mengelilingi matahari. Mars, Venus, dan Jupiter adalah planet. Bulan adalah satelit alami Bumi, sedangkan Matahari adalah bintang pusat tata surya."
+  }
+]

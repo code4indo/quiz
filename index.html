@@ -25,12 +25,35 @@
 <body>
 
   <div class="container">
-    <h1>Latihan Ujian Interaktif</h1>
-    <!-- Subject Menu Section -->
+    <h1>Latihan Ujian Interaktif</h1>    <!-- Subject Menu Section -->
     <div id="subject-menu">
       <p>Pilih mata pelajaran:</p>
       <div id="subject-buttons">
         <!-- Buttons will be added by JS -->
+      </div>
+        <!-- Add New Subject Section -->
+      <div id="add-subject-section" class="add-subject-container">
+        <h3>Tambah Mata Pelajaran Baru</h3>
+        <div style="margin-bottom: 15px; padding: 10px; background-color: #e3f2fd; border-left: 4px solid #2196f3; border-radius: 4px;">
+          <small style="color: #1976d2;">
+            💾 <strong>Info:</strong> Mata pelajaran yang ditambahkan akan tersimpan permanen di browser Anda dan bisa digunakan kembali tanpa perlu upload ulang.
+          </small>
+        </div>
+        <div class="form-group">
+          <label for="subject-name">Nama Mata Pelajaran:</label>
+          <input type="text" id="subject-name" placeholder="Contoh: Bahasa Jawa" maxlength="50">
+        </div>
+        <div class="form-group">
+          <label for="json-file">Upload File JSON Soal:</label>
+          <input type="file" id="json-file" accept=".json,application/json">
+          <small>Format file harus .json dengan struktur soal yang benar</small>
+        </div>
+        <div class="form-actions">
+          <button id="add-subject-btn" class="btn-add">➕ Tambah Mata Pelajaran</button>
+          <button id="preview-json-btn" class="btn-preview" style="display:none;">👁️ Preview JSON</button>
+        </div>
+        <div id="add-subject-error" class="error-message"></div>
+        <div id="add-subject-success" class="success-message"></div>
       </div>
     </div>
     <!-- Upload Section (now hidden by default) -->
@@ -38,26 +61,59 @@
       <p>Upload file soal ujian (format JSON):</p>
       <input type="file" id="file-input" accept="application/json">
       <div id="upload-error" style="color:red;"></div>
-    </div>
-    <!-- Quiz Section (hidden at first) -->
+    </div>    <!-- Quiz Section with Side Panel Layout -->
     <div id="quiz-section" style="display:none;">
-      <div id="score-info"></div>
-      <div id="question-nav"></div>
-      <div id="question-box">
-        <div id="question-number"></div>
-        <div id="question-text"></div>
-        <form id="options-form"></form>
-        <div class="button-row">
-          <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px;">
-            <button id="prev-btn" class="btn-prev">⏮️ Sebelumnya</button>
-            <button id="next-btn" class="btn-next">Selanjutnya ⏭️</button>
-            <button id="reset-btn" class="btn-reset">🔄 Reset</button>
-            <button id="check-btn" class="btn-check">✔️ Periksa Jawaban</button>
-            <button id="back-to-menu-btn" class="btn-menu">⬅️ Kembali ke Menu</button> <!-- Added Back Button -->
+      <div class="quiz-layout">
+        <!-- Left Panel: Main Quiz Content -->
+        <div class="quiz-main-panel">
+          <div id="score-info"></div>
+          <div id="question-nav"></div>
+          
+          <!-- Timer Section -->
+          <div id="timer-section" class="timer-container">
+            <div class="timer-row">
+              <div class="timer-item">
+                <span class="timer-label">⏱️ Waktu Soal:</span>
+                <span id="question-timer" class="timer-value">00:00</span>
+              </div>
+              <div class="timer-item">
+                <span class="timer-label">🕐 Total Waktu:</span>
+                <span id="total-timer" class="timer-value">00:00</span>
+              </div>
+            </div>
+          </div>
+          
+          <div id="question-box">
+            <div id="question-number"></div>
+            <div id="question-text"></div>
+            <form id="options-form"></form>
+            <div class="button-row">
+              <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px;">
+                <button id="prev-btn" class="btn-prev">⏮️ Sebelumnya</button>
+                <button id="next-btn" class="btn-next">Selanjutnya ⏭️</button>
+                <button id="reset-btn" class="btn-reset">🔄 Reset</button>
+                <button id="check-btn" class="btn-check">✔️ Periksa Jawaban</button>
+                <button id="back-to-menu-btn" class="btn-menu">⬅️ Kembali ke Menu</button>
+              </div>
+            </div>
+            <div id="feedback"></div>
+            <div id="point-info"></div>
           </div>
         </div>
-        <div id="feedback"></div>
-        <div id="point-info"></div>
+        
+        <!-- Right Panel: Explanation -->
+        <div class="quiz-side-panel">
+          <div id="explanation-panel" class="explanation-side-panel">
+            <div class="panel-header">
+              <h3>💡 Penjelasan Jawaban</h3>
+            </div>
+            <div id="explanation-content" class="panel-content">
+              <div class="no-explanation">
+                <p>Silakan jawab soal dan klik "Periksa Jawaban" untuk melihat penjelasan.</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>

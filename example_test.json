@@ -1,0 +1,73 @@
+[  {
+    "id": 1,
+    "chapter_source": "Contoh Soal Test",
+    "question_text": "Apa ibu kota Indonesia?",
+    "options": {
+      "a": "Bandung",
+      "b": "Jakarta",
+      "c": "Surabaya",
+      "d": "Medan"
+    },
+    "correct_answers": ["b"],
+    "poin_benar": 3,
+    "poin_salah": -1,
+    "explanation": "Jakarta adalah ibu kota Indonesia sejak kemerdekaan tahun 1945. Jakarta juga merupakan pusat pemerintahan dan ekonomi Indonesia."
+  },  {
+    "id": 2,
+    "chapter_source": "Contoh Soal Test",
+    "question_text": "Siapa presiden pertama Indonesia?",
+    "options": {
+      "a": "Soekarno",
+      "b": "Soeharto", 
+      "c": "B.J. Habibie",
+      "d": "Megawati"
+    },
+    "correct_answers": ["a"],
+    "poin_benar": 3,
+    "poin_salah": -1,
+    "explanation": "Ir. Soekarno adalah presiden pertama Republik Indonesia yang menjabat dari tahun 1945-1967. Beliau juga dikenal sebagai Proklamator kemerdekaan Indonesia bersama Mohammad Hatta."
+  },  {
+    "id": 3,
+    "chapter_source": "Contoh Soal Test",
+    "question_text": "Manakah yang termasuk pulau besar di Indonesia? (Pilih lebih dari satu)",
+    "options": {
+      "a": "Jawa",
+      "b": "Sumatra",
+      "c": "Kalimantan",
+      "d": "Bali",
+      "e": "Papua"
+    },
+    "correct_answers": ["a", "b", "c", "e"],
+    "poin_benar": 2,
+    "poin_salah": -0.5,
+    "explanation": "Indonesia memiliki 5 pulau besar: Jawa, Sumatra, Kalimantan, Sulawesi, dan Papua. Bali meskipun terkenal, termasuk pulau kecil dengan luas sekitar 5.780 km²."
+  },
+  {
+    "id": 4,
+    "chapter_source": "Contoh Soal Test", 
+    "question_text": "Apa mata uang Indonesia?",
+    "options": {
+      "a": "Ringgit",
+      "b": "Rupiah", 
+      "c": "Dollar",
+      "d": "Yen"
+    },
+    "correct_answers": ["b"],
+    "poin_benar": 2,
+    "poin_salah": -1
+  },  {
+    "id": 5,
+    "chapter_source": "Contoh Soal Test",
+    "question_text": "Kapan Indonesia merdeka?",
+    "options": {
+      "a": "17 Agustus 1945",
+      "b": "17 Agustus 1944",
+      "c": "17 Juli 1945", 
+      "d": "17 September 1945"
+    },
+    "correct_answers": ["a"],
+    "poin_benar": 2,
+    "poin_salah": -1,
+    "explanation": "Indonesia memproklamasikan kemerdekaannya pada tanggal 17 Agustus 1945. Proklamasi ini dibacakan oleh Ir. Soekarno dan ditulis oleh Ir. Soekarno bersama Drs. Mohammad Hatta."
+  }
+]

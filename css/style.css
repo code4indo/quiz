@@ -112,11 +112,196 @@ h1 {
   text-align: center;
   margin-bottom: 20px;
 }
-#subject-menu p {
-  font-size: 1.1em;
+
+#subject-menu h2 {
+  font-size: 1.5em;
   color: #3a4d39;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
+  font-weight: 600;
 }
+
+/* Two Panel Layout for Subject Selection */
+.subject-panels-container {
+  display: flex;
+  gap: 25px;
+  max-width: 1400px;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.subject-panel {
+  flex: 1;
+  min-width: 380px;
+  max-width: 600px;
+  background: #ffffff;
+  border: 3px solid #e0e0e0;
+  border-radius: 15px;
+  padding: 25px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.subject-panel:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+
+.subject-panel .panel-header {
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid #ddd;
+  text-align: center;
+}
+
+.subject-panel .panel-header h3 {
+  margin: 0;
+  font-size: 1.3em;
+  color: #333;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.existing-subjects-panel {
+  border-color: #4CAF50;
+  background: linear-gradient(135deg, #f8fff8 0%, #f0f8f0 100%);
+}
+
+.existing-subjects-panel .panel-header {
+  border-bottom-color: #4CAF50;
+}
+
+.existing-subjects-panel .panel-header h3 {
+  color: #2E7D32;
+}
+
+.custom-subjects-panel {
+  border-color: #2196F3;
+  background: linear-gradient(135deg, #f8fbff 0%, #f0f6ff 100%);
+}
+
+.custom-subjects-panel .panel-header {
+  border-bottom-color: #2196F3;
+}
+
+.custom-subjects-panel .panel-header h3 {
+  color: #1565C0;
+}
+
+.subject-buttons-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 15px;
+  margin-bottom: 20px;
+  min-height: 200px;
+}
+
+.subject-buttons-grid button {
+  padding: 15px 12px;
+  font-size: 0.95em;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-weight: 600;
+  position: relative;
+  overflow: hidden;
+}
+
+.subject-buttons-grid button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+  transition: left 0.5s;
+}
+
+.subject-buttons-grid button:hover::before {
+  left: 100%;
+}
+
+.existing-subjects-panel .subject-buttons-grid button {
+  border-color: #4CAF50;
+  background: linear-gradient(135deg, #E8F5E8 0%, #D4EDD4 100%);
+  color: #2E7D32;
+}
+
+.existing-subjects-panel .subject-buttons-grid button:hover {
+  background: linear-gradient(135deg, #C8E6C9 0%, #A5D6A7 100%);
+  border-color: #388E3C;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(76, 175, 80, 0.3);
+}
+
+.custom-subjects-panel .subject-buttons-grid button {
+  border-color: #2196F3;
+  background: linear-gradient(135deg, #E3F2FD 0%, #D1E7FD 100%);
+  color: #1565C0;
+}
+
+.custom-subjects-panel .subject-buttons-grid button:hover {
+  background: linear-gradient(135deg, #BBDEFB 0%, #90CAF9 100%);
+  border-color: #1976D2;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(33, 150, 243, 0.3);
+}
+
+.custom-management {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #ddd;
+  text-align: center;
+}
+
+/* Button container for custom subjects with delete buttons */
+.custom-subject-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #E3F2FD;
+  border: 2px solid #2196F3;
+  border-radius: 8px;
+  padding: 4px;
+}
+
+.custom-subject-container .subject-btn {
+  flex: 1;
+  border: none !important;
+  background: transparent !important;
+  padding: 8px 12px;
+  margin: 0;
+}
+
+.custom-subject-container .delete-btn {
+  background: #f44336 !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 6px !important;
+  padding: 8px 10px !important;
+  font-size: 14px !important;
+  cursor: pointer !important;
+  min-width: auto !important;
+  min-height: auto !important;
+  flex: none !important;
+}
+
+.custom-subject-container .delete-btn:hover {
+  background: #d32f2f !important;
+  transform: none !important;
+  box-shadow: none !important;
+}
+
+/* Legacy styles - keep for backward compatibility */
 #subject-buttons {
   display: flex;
   flex-wrap: wrap;
@@ -859,8 +1044,13 @@ h1 {
 
 .explanation-active .explanation-text {
   color: #1b5e20;
-  line-height: 1.6;
+  line-height: 1.8;
   font-size: 15px;
+  white-space: pre-line; /* Preserve line breaks */
+}
+
+.explanation-active .explanation-text br {
+  line-height: 2.2; /* Extra spacing for numbered lists */
 }
 
 /* Responsive Design for Side Panel */
@@ -1059,4 +1249,160 @@ h1 {
     font-size: 16px;
     border-radius: 6px;
   }
+}
+
+/* Responsive design for subject panels */
+@media (max-width: 768px) {
+  .subject-panels-container {
+    flex-direction: column;
+    gap: 20px;
+    padding: 0 10px;
+  }
+  
+  .subject-panel {
+    min-width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 20px 15px;
+  }
+  
+  .subject-buttons-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    min-height: 150px;
+  }
+  
+  .subject-buttons-grid button {
+    min-height: 50px;
+    padding: 12px;
+    font-size: 0.9em;
+  }
+  
+  .custom-subject-container {
+    flex-direction: column;
+    gap: 8px;
+    padding: 8px;
+  }
+  
+  .custom-subject-container .subject-btn {
+    width: 100%;
+    margin: 0;
+  }
+  
+  .custom-subject-container .delete-btn {
+    align-self: center;
+    width: auto;
+    padding: 6px 12px !important;
+  }
+  
+  .subject-panel .panel-header h3 {
+    font-size: 1.1em;
+  }
+}
+
+@media (max-width: 1024px) {
+  .subject-panels-container {
+    max-width: 95%;
+    gap: 20px;
+  }
+  
+  .subject-panel {
+    min-width: 300px;
+    padding: 20px;
+  }
+  
+  .subject-buttons-grid {
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  #subject-menu h2 {
+    font-size: 1.3em;
+    margin-bottom: 20px;
+  }
+  
+  .subject-panel {
+    padding: 15px 12px;
+  }
+  
+  .subject-panel .panel-header {
+    margin-bottom: 20px;
+    padding-bottom: 12px;
+  }
+  
+  .subject-buttons-grid {
+    min-height: 120px;
+  }
+  
+  .empty-custom-subjects div[style*="padding"] {
+    padding: 20px 15px !important;
+  }
+}
+
+/* Enhanced styling for empty state and animations */
+.empty-custom-subjects {
+  grid-column: 1 / -1; /* Span across all columns */
+  background: linear-gradient(135deg, #f0f6ff 0%, #e3f2fd 100%);
+  border: 2px dashed #2196F3;
+  border-radius: 12px;
+  margin: 10px 0;
+  transition: all 0.3s ease;
+}
+
+.empty-custom-subjects:hover {
+  background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+  border-color: #1976D2;
+}
+
+/* Add some animation to the subject panels */
+.subject-panel {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Stagger animation for panels */
+.existing-subjects-panel {
+  animation-delay: 0.1s;
+}
+
+.custom-subjects-panel {
+  animation-delay: 0.2s;
+}
+
+/* Button loading effect when clicked */
+.subject-buttons-grid button:active {
+  transform: scale(0.95);
+  transition: transform 0.1s ease;
+}
+
+/* Enhanced custom management section */
+.custom-management {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 2px solid #e3f2fd;
+  text-align: center;
+}
+
+.custom-management button {
+  transition: all 0.3s ease;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(220, 53, 69, 0.2);
+}
+
+.custom-management button:hover {
+  background-color: #c82333 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(220, 53, 69, 0.3);
 }

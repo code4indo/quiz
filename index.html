@@ -27,9 +27,32 @@
   <div class="container">
     <h1>Latihan Ujian Interaktif</h1>    <!-- Subject Menu Section -->
     <div id="subject-menu">
-      <p>Pilih mata pelajaran:</p>
-      <div id="subject-buttons">
-        <!-- Buttons will be added by JS -->
+      <h2>Pilih Mata Pelajaran</h2>
+      
+      <!-- Two Panel Layout for Subjects -->
+      <div class="subject-panels-container">
+        <!-- Existing Subjects Panel -->
+        <div class="subject-panel existing-subjects-panel">
+          <div class="panel-header">
+            <h3>Mata Pelajaran Existing</h3>
+          </div>
+          <div id="existing-subject-buttons" class="subject-buttons-grid">
+            <!-- Existing subject buttons will be added by JS -->
+          </div>
+        </div>
+        
+        <!-- Custom Subjects Panel -->
+        <div class="subject-panel custom-subjects-panel">
+          <div class="panel-header">
+            <h3>Mata Pelajaran Custom</h3>
+          </div>
+          <div id="custom-subject-buttons" class="subject-buttons-grid">
+            <!-- Custom subject buttons will be added by JS -->
+          </div>
+          <div id="custom-subject-management" class="custom-management">
+            <!-- Management buttons will be added by JS -->
+          </div>
+        </div>
       </div>
         <!-- Add New Subject Section -->
       <div id="add-subject-section" class="add-subject-container">

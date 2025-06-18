@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "question_text": "Tentukan nilai k dari persamaan k/3 + 2 = 7",
+    "options": {
+      "a": "10",
+      "b": "12", 
+      "c": "15",
+      "d": "18"
+    },
+    "correct_answers": ["c"],
+    "poin_benar": 2,
+    "poin_salah": -1,
+    "explanation": "Untuk menyelesaikan k/3 + 2 = 7: 1. Pindahkan 2 ke ruas kanan: k/3 = 7 - 2. 2. Hitung selisihnya: k/3 = 5. 3. Kalikan kedua ruas dengan 3: k = 5 x 3. Maka, k = 15."
+  },
+  {
+    "id": 2,
+    "question_text": "Hitunglah luas persegi panjang dengan panjang 8 cm dan lebar 5 cm",
+    "options": {
+      "a": "30 cm²",
+      "b": "35 cm²",
+      "c": "40 cm²", 
+      "d": "45 cm²"
+    },
+    "correct_answers": ["c"],
+    "poin_benar": 2,
+    "poin_salah": -1,
+    "explanation": "Untuk menghitung luas persegi panjang: 1. Gunakan rumus: Luas = panjang × lebar. 2. Substitusi nilai: Luas = 8 cm × 5 cm. 3. Hitung hasil: Luas = 40 cm². Jadi, luas persegi panjang adalah 40 cm²."
+  }
+]

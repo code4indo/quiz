@@ -17,7 +17,9 @@ let totalTimeSpent = 0;
 
 // --- DOM Elements ---
 const subjectMenuSection = document.getElementById('subject-menu');
-const subjectButtonsContainer = document.getElementById('subject-buttons');
+const existingSubjectButtonsContainer = document.getElementById('existing-subject-buttons');
+const customSubjectButtonsContainer = document.getElementById('custom-subject-buttons');
+const customSubjectManagement = document.getElementById('custom-subject-management');
 const uploadSection = document.getElementById('upload-section'); // Keep reference if needed later
 const quizSection = document.getElementById('quiz-section');
 const fileInput = document.getElementById('file-input'); // Keep reference if needed later
@@ -74,78 +76,75 @@ function initializeApp() {
 }
 
 function renderSubjectMenu() {
-    subjectButtonsContainer.innerHTML = ''; // Clear existing buttons
-    subjects.forEach(subject => {
+    // Clear both containers
+    existingSubjectButtonsContainer.innerHTML = '';
+    customSubjectButtonsContainer.innerHTML = '';
+    customSubjectManagement.innerHTML = '';
+    
+    // Separate subjects into existing and custom
+    const existingSubjects = subjects.filter(subject => !subject.isCustom);
+    const customSubjects = subjects.filter(subject => subject.isCustom);
+    
+    // Render existing subjects
+    existingSubjects.forEach(subject => {
+        const button = document.createElement('button');
+        button.textContent = subject.name;
+        button.dataset.subjectCode = subject.code;
+        button.dataset.subjectFile = subject.file;
+        button.dataset.isCustom = false;
+        button.classList.add('existing-subject-btn');
+        button.addEventListener('click', handleSubjectSelection);
+        existingSubjectButtonsContainer.appendChild(button);
+    });
+    
+    // Render custom subjects
+    customSubjects.forEach(subject => {
         const buttonContainer = document.createElement('div');
-        buttonContainer.style.display = 'flex';
-        buttonContainer.style.alignItems = 'center';
-        buttonContainer.style.marginBottom = '8px';
-        buttonContainer.style.gap = '8px';
+        buttonContainer.classList.add('custom-subject-container');
         
         const button = document.createElement('button');
         button.textContent = subject.name;
         button.dataset.subjectCode = subject.code;
-        button.dataset.subjectFile = subject.file; // Store filename
-        button.dataset.isCustom = subject.isCustom || false; // Mark if it's custom
+        button.dataset.subjectFile = subject.file;
+        button.dataset.isCustom = true;
+        button.classList.add('subject-btn', 'custom-subject');
         
-        // Add different styling for custom subjects
-        if (subject.isCustom) {
-            button.classList.add('custom-subject');
-            button.style.backgroundColor = '#28a745';
-            button.style.color = 'white';
-            button.title = 'Mata pelajaran yang ditambahkan pengguna (tersimpan permanen)';
-            
-            // Add delete button for custom subjects
-            const deleteBtn = document.createElement('button');
-            deleteBtn.textContent = '🗑️';
-            deleteBtn.title = `Hapus mata pelajaran "${subject.name}"`;
-            deleteBtn.style.backgroundColor = '#dc3545';
-            deleteBtn.style.color = 'white';
-            deleteBtn.style.border = 'none';
-            deleteBtn.style.borderRadius = '4px';
-            deleteBtn.style.padding = '5px 8px';
-            deleteBtn.style.cursor = 'pointer';
-            deleteBtn.style.fontSize = '14px';
-            
-            deleteBtn.onclick = (e) => {
-                e.stopPropagation();
-                if (confirm(`Apakah Anda yakin ingin menghapus mata pelajaran "${subject.name}"?\n\nData soal akan hilang permanen.`)) {
-                    deleteCustomSubjectFromStorage(subject.name);
-                    renderSubjectMenu();
-                    showSuccess(`Mata pelajaran "${subject.name}" berhasil dihapus.`);
-                }
-            };
-            
-            buttonContainer.appendChild(button);
-            buttonContainer.appendChild(deleteBtn);
-        } else {
-            buttonContainer.appendChild(button);
-        }
+        const deleteBtn = document.createElement('button');
+        deleteBtn.textContent = '🗑️';
+        deleteBtn.classList.add('delete-btn');
+        deleteBtn.title = `Hapus mata pelajaran "${subject.name}"`;
+        
+        deleteBtn.onclick = (e) => {
+            e.stopPropagation();
+            if (confirm(`Apakah Anda yakin ingin menghapus mata pelajaran "${subject.name}"?\n\nData soal akan hilang permanen.`)) {
+                deleteCustomSubjectFromStorage(subject.name);
+                renderSubjectMenu();
+                showSuccess(`Mata pelajaran "${subject.name}" berhasil dihapus.`);
+            }
+        };
         
         button.addEventListener('click', handleSubjectSelection);
-        subjectButtonsContainer.appendChild(buttonContainer);
+        
+        buttonContainer.appendChild(button);
+        buttonContainer.appendChild(deleteBtn);
+        customSubjectButtonsContainer.appendChild(buttonContainer);
     });
     
     // Add management buttons for custom subjects
-    if (subjects.some(subject => subject.isCustom)) {
-        const managementContainer = document.createElement('div');
-        managementContainer.style.marginTop = '20px';
-        managementContainer.style.textAlign = 'center';
-        managementContainer.style.borderTop = '1px solid #ddd';
-        managementContainer.style.paddingTop = '15px';
-        
+    if (customSubjects.length > 0) {
         const clearAllBtn = document.createElement('button');
         clearAllBtn.textContent = '🗑️ Hapus Semua Mata Pelajaran Custom';
         clearAllBtn.style.backgroundColor = '#dc3545';
         clearAllBtn.style.color = 'white';
         clearAllBtn.style.border = 'none';
-        clearAllBtn.style.padding = '8px 15px';
-        clearAllBtn.style.borderRadius = '5px';
+        clearAllBtn.style.padding = '10px 15px';
+        clearAllBtn.style.borderRadius = '6px';
         clearAllBtn.style.cursor = 'pointer';
         clearAllBtn.style.fontSize = '14px';
+        clearAllBtn.style.fontWeight = '500';
         
         clearAllBtn.onclick = () => {
-            const customCount = subjects.filter(s => s.isCustom).length;
+            const customCount = customSubjects.length;
             if (confirm(`Apakah Anda yakin ingin menghapus SEMUA ${customCount} mata pelajaran custom?\n\nSemua data soal akan hilang permanen.`)) {
                 clearAllCustomSubjects();
                 renderSubjectMenu();
@@ -153,8 +152,23 @@ function renderSubjectMenu() {
             }
         };
         
-        managementContainer.appendChild(clearAllBtn);
-        subjectButtonsContainer.appendChild(managementContainer);
+        customSubjectManagement.appendChild(clearAllBtn);    } else {
+        // Show message when no custom subjects
+        const emptyMessage = document.createElement('div');
+        emptyMessage.classList.add('empty-custom-subjects');
+        emptyMessage.innerHTML = `
+            <div style="text-align: center; padding: 30px 20px; color: #666;">
+                <div style="font-size: 3em; margin-bottom: 15px; color: #2196F3;">📚</div>
+                <div style="font-size: 1.1em; margin-bottom: 10px; color: #1565C0; font-weight: 600;">
+                    Belum Ada Mata Pelajaran Custom
+                </div>
+                <div style="font-size: 0.9em; line-height: 1.5; color: #666;">
+                    Tambahkan mata pelajaran sendiri melalui<br>
+                    form di bawah untuk memperluas koleksi soal Anda.
+                </div>
+            </div>
+        `;
+        customSubjectButtonsContainer.appendChild(emptyMessage);
     }
 }
 
@@ -397,17 +411,17 @@ function handleCheckClick(e) {
     // Show explanation in side panel and legacy box if available
     const explanation = questions[currentIndex].explanation;
     updateExplanationPanel(explanation, true);
-    
-    // Legacy explanation box support
+      // Legacy explanation box support
     if (explanationBox) {
         if (explanation && explanation.trim() !== '') {
+            const formattedExplanation = formatExplanationText(explanation);
             explanationBox.innerHTML = `
                 <div style="margin-top: 15px; padding: 15px; background-color: #e8f4f8; border-left: 4px solid #17a2b8; border-radius: 5px;">
                     <div style="margin-bottom: 8px;">
                         <strong style="color: #17a2b8; font-size: 16px;">💡 Penjelasan:</strong>
                     </div>
                     <div style="color: #2c3e50; line-height: 1.6; font-size: 15px;">
-                        ${explanation}
+                        ${formattedExplanation}
                     </div>
                 </div>
             `;
@@ -1250,13 +1264,16 @@ function updateExplanationPanel(explanation = null, isAnswerChecked = false) {
     if (!explanationContent) return;
     
     if (explanation && explanation.trim() !== '' && isAnswerChecked) {
+        // Format explanation text to handle numbered lists and line breaks
+        const formattedExplanation = formatExplanationText(explanation);
+        
         explanationContent.innerHTML = `
             <div class="explanation-active">
                 <div class="explanation-title">
                     💡 Penjelasan Jawaban
                 </div>
                 <div class="explanation-text">
-                    ${explanation}
+                    ${formattedExplanation}
                 </div>
             </div>
         `;
@@ -1267,6 +1284,25 @@ function updateExplanationPanel(explanation = null, isAnswerChecked = false) {
             </div>
         `;
     }
+}
+
+function formatExplanationText(text) {
+    if (!text) return '';
+    
+    // Handle numbered lists with proper formatting
+    let formatted = text
+        // Split text at numbered items and rejoin with proper line breaks
+        .replace(/(\d+\.\s)/g, '<br>$1')
+        // Remove the first <br> if it's at the beginning
+        .replace(/^<br>/, '')
+        // Add extra line break after periods that precede numbered items
+        .replace(/\.\s*<br>(\d+\.)/g, '.<br><br>$1')
+        // Handle the colon before numbered list
+        .replace(/:\s*<br>(\d+\.)/g, ':<br>$1')
+        // Clean up any double line breaks at the start
+        .replace(/^(<br>\s*)+/, '');
+    
+    return formatted;
 }
 
 function clearExplanationPanel() {

@@ -336,7 +336,24 @@ h1 {
   font-weight: 500;
   margin-bottom: 8px;
   color: #7b8b6f;
+  transition: color 0.3s ease;
 }
+
+/* Status classes for question number */
+#question-number.correct-answer {
+  color: #28a745;
+  font-weight: 600;
+}
+
+#question-number.incorrect-answer {
+  color: #dc3545;
+  font-weight: 600;
+}
+
+#question-number.unanswered {
+  color: #7b8b6f;
+}
+
 #question-text {
   margin-bottom: 14px;
   font-size: 1.13em;
@@ -540,6 +557,27 @@ h1 {
   background: #cbe3cb;
   color: #254525;
 }
+
+/* Navigation button status styles */
+#question-nav button.nav-correct {
+  background: #d4edda;
+  border: 1px solid #28a745;
+  color: #205b2a;
+  font-weight: bold;
+}
+
+#question-nav button.nav-incorrect {
+  background: #f8d7da;
+  border: 1px solid #dc3545;
+  color: #a12d2d;
+  font-weight: bold;
+}
+
+#question-nav button.nav-unanswered {
+  background: #e0e8db;
+  color: #3a4d39;
+}
+
 /* Indikator jawaban benar/salah */
 #options-form label[style*="background: #d4edda"] {
   background: #d4edda !important;

@@ -5,6 +5,7 @@ let questions = []; // Current active questions for the selected subject
 let currentIndex = 0;
 let userAnswers = [];
 let userScores = [];
+let questionStatuses = []; // Track answer status for each question: 'correct', 'incorrect', 'unanswered'
 let quizFinished = false;
 
 // Timer variables
@@ -344,6 +345,7 @@ function handleResetClick(e) {
 
     userAnswers[currentIndex] = []; // Reset answers for current question
     userScores[currentIndex] = 0; // Reset score for current question
+    questionStatuses[currentIndex] = 'unanswered'; // Reset question status
     renderQuestion(); // Re-render without checked state or feedback
     updateScoreInfo();
 }
@@ -404,6 +406,10 @@ function handleCheckClick(e) {
         incorrectCount: incorrectCount
     });    // Determine if answer is correct and provide appropriate feedback
     const isCorrectAnswer = correctCount > 0 && incorrectCount === 0 && correctCount === correct.length;
+    
+    // Update question status for visual feedback
+    questionStatuses[currentIndex] = isCorrectAnswer ? 'correct-answer' : 'incorrect-answer';
+    
     const feedbackMessage = generateFeedbackMessage(isCorrectAnswer, score, correctCount, incorrectCount, correct.length);
       feedback.innerHTML = feedbackMessage.text;
     feedback.style.color = feedbackMessage.color;
@@ -481,6 +487,7 @@ function resetQuizState() {
     currentIndex = 0;
     userAnswers = new Array(questions.length).fill([]); // Initialize with empty arrays
     userScores = new Array(questions.length).fill(0);
+    questionStatuses = new Array(questions.length).fill('unanswered'); // Initialize all as unanswered
     quizFinished = false;    // Re-enable buttons if they were disabled
     const checkBtn = getCheckButton();
     if (checkBtn) checkBtn.disabled = false;
@@ -497,6 +504,18 @@ function resetQuizState() {
 }
 
 
+// Function to update question number color based on answer status
+function updateQuestionNumberStatus() {
+    // Remove all status classes first
+    questionNumber.classList.remove('correct-answer', 'incorrect-answer', 'unanswered');
+    
+    // Get current question status
+    const status = questionStatuses[currentIndex] || 'unanswered';
+    
+    // Add appropriate class
+    questionNumber.classList.add(status);
+}
+
 function renderQuestion(showAnswer = false) {
     if (!questions || questions.length === 0 || currentIndex >= questions.length) {
         console.warn("Attempted to render question with invalid state.");
@@ -508,6 +527,10 @@ function renderQuestion(showAnswer = false) {
 
     const q = questions[currentIndex];
     questionNumber.textContent = `Soal ${currentIndex + 1} dari ${questions.length}`;
+    
+    // Update question number color based on answer status
+    updateQuestionNumberStatus();
+    
     questionText.textContent = q.question_text || "Teks soal tidak tersedia."; // Handle missing text
     optionsForm.innerHTML = ''; // Clear previous options
 
@@ -623,22 +646,19 @@ function renderNav() {
         btn.textContent = i + 1;
         btn.disabled = (i === currentIndex); // Disable button for current question
 
-        // Add styling based on answered status (optional)
-        if (userAnswers[i] && userAnswers[i].length > 0) {
-             // Maybe add a class or style if answered
-             btn.style.fontWeight = 'bold'; // Example: bold if answered
+        // Add styling based on question status
+        const status = questionStatuses[i] || 'unanswered';
+        btn.classList.remove('nav-correct', 'nav-incorrect', 'nav-unanswered');
+        
+        if (status === 'correct-answer') {
+            btn.classList.add('nav-correct');
+        } else if (status === 'incorrect-answer') {
+            btn.classList.add('nav-incorrect');
+        } else {
+            btn.classList.add('nav-unanswered');
         }
-        if (quizFinished) {
-             // Style based on correctness after finishing
-             const correct = questions[i].correct_answers || [];
-             const answered = userAnswers[i] || [];
-             const isFullyCorrect = answered.length === correct.length && answered.every(a => correct.includes(a));
-             if (isFullyCorrect) {
-                 btn.style.backgroundColor = '#d4edda'; // Green if correct
-             } else if (answered.length > 0) {
-                 btn.style.backgroundColor = '#f8d7da'; // Red if answered but incorrect
-             }
-        }        btn.onclick = () => {
+
+        btn.onclick = () => {
             // Stop timer for current question before moving
             stopQuestionTimer();
             

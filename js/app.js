@@ -37,7 +37,7 @@ const totalTimer = document.getElementById('total-timer');
 const prevBtn = document.getElementById('prev-btn');
 const nextBtn = document.getElementById('next-btn');
 const resetBtn = document.getElementById('reset-btn');
-const checkBtn = document.getElementById('check-btn');
+const checkBtn = document.getElementById('check-btn'); // This will be null initially
 const backToMenuBtn = document.getElementById('back-to-menu-btn');
 
 // New subject form elements
@@ -162,7 +162,10 @@ function setupEventListeners() {
     prevBtn.onclick = handlePrevClick;
     nextBtn.onclick = handleNextClick;
     resetBtn.onclick = handleResetClick;
-    checkBtn.onclick = handleCheckClick;
+    
+    // Setup check button - will be in side panel
+    setupCheckButton();
+    
     backToMenuBtn.onclick = () => {
         // Stop all timers when going back to menu
         stopQuestionTimer();
@@ -179,6 +182,17 @@ function setupEventListeners() {
     // fileInput.addEventListener('change', handleFileSelect);
 }
 
+function setupCheckButton() {
+    const checkBtn = document.getElementById('check-btn');
+    if (checkBtn) {
+        checkBtn.onclick = handleCheckClick;
+    }
+}
+
+function getCheckButton() {
+    return document.getElementById('check-btn');
+}
+
 // --- UI State Management ---
 function showSubjectMenu() {
     subjectMenuSection.style.display = 'block';
@@ -191,6 +205,11 @@ function showQuiz() {
     subjectMenuSection.style.display = 'none';
     quizSection.style.display = 'block';
     uploadSection.style.display = 'none';
+    
+    // Setup check button after quiz section is visible
+    setTimeout(() => {
+        setupCheckButton();
+    }, 10);
 }
 
 // --- Event Handlers ---
@@ -402,13 +421,12 @@ function handleCheckClick(e) {
     updateScoreInfo(); // Update total score
 
     // Re-render the question showing correct/incorrect feedback
-    renderQuestion(true); // Pass true to show answer highlights
-
-    // Check if this was the last question
+    renderQuestion(true); // Pass true to show answer highlights    // Check if this was the last question
     if (currentIndex === questions.length - 1) {
         quizFinished = true;
         // Optionally disable check button, show final score, etc.
-        checkBtn.disabled = true;
+        const checkBtn = getCheckButton();
+        if (checkBtn) checkBtn.disabled = true;
         resetBtn.disabled = true;
         showFinalScore();
     }
@@ -450,7 +468,8 @@ function resetQuizState() {
     userAnswers = new Array(questions.length).fill([]); // Initialize with empty arrays
     userScores = new Array(questions.length).fill(0);
     quizFinished = false;    // Re-enable buttons if they were disabled
-    checkBtn.disabled = false;
+    const checkBtn = getCheckButton();
+    if (checkBtn) checkBtn.disabled = false;
     resetBtn.disabled = false;
     feedback.textContent = '';
     pointInfo.textContent = '';

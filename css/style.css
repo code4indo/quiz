@@ -984,3 +984,79 @@ h1 {
     min-width: 320px;
   }
 }
+
+/* Side Panel Footer for Check Button */
+.panel-footer {
+  padding: 15px 20px;
+  border-top: 1px solid #e3f2fd;
+  background: #f8f9fa;
+  border-radius: 0 0 12px 12px;
+}
+
+.btn-check-side {
+  width: 100%;
+  padding: 12px 20px;
+  background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 10px rgba(40, 167, 69, 0.3);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.btn-check-side:hover {
+  background: linear-gradient(135deg, #218838 0%, #1da083 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(40, 167, 69, 0.4);
+}
+
+.btn-check-side:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(40, 167, 69, 0.3);
+}
+
+.btn-check-side:disabled {
+  background: #6c757d;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.btn-check-side:disabled:hover {
+  background: #6c757d;
+  transform: none;
+  box-shadow: none;
+}
+
+/* Responsive design for side panel check button */
+@media (max-width: 1024px) {
+  .panel-footer {
+    padding: 12px 15px;
+  }
+  
+  .btn-check-side {
+    padding: 10px 16px;
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .panel-footer {
+    padding: 10px 12px;
+    border-radius: 0;
+  }
+  
+  .btn-check-side {
+    padding: 12px 16px;
+    font-size: 16px;
+    border-radius: 6px;
+  }
+}
